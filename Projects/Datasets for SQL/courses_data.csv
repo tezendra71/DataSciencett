@@ -1,0 +1,201 @@
+Course ID,Course Name,Course Level,Credits
+1,Biology,400,4
+2,Calculus,200,4
+3,Economics,400,5
+4,Economics,300,3
+5,Physics,200,4
+6,Economics,300,5
+7,Computer Science,400,5
+8,History,300,3
+9,Computer Science,300,5
+10,Psychology,100,4
+11,Literature,400,5
+12,Calculus,400,5
+13,Computer Science,400,5
+14,Chemistry,400,3
+15,Biology,200,4
+16,Psychology,300,5
+17,History,400,3
+18,Literature,200,5
+19,Calculus,400,4
+20,Literature,300,5
+21,History,400,3
+22,Economics,200,5
+23,Physics,200,5
+24,Literature,300,5
+25,Economics,400,3
+26,Calculus,200,5
+27,Physics,100,5
+28,Physics,400,3
+29,Economics,100,3
+30,Psychology,200,4
+31,Literature,200,3
+32,Psychology,300,5
+33,Calculus,300,5
+34,Biology,400,3
+35,Calculus,200,4
+36,Computer Science,200,3
+37,Calculus,200,4
+38,Economics,200,3
+39,Physics,100,4
+40,Chemistry,200,4
+41,Economics,300,5
+42,History,400,4
+43,Economics,400,5
+44,Chemistry,400,3
+45,Physics,100,3
+46,Biology,200,3
+47,History,400,3
+48,Calculus,300,3
+49,Chemistry,100,5
+50,History,200,3
+51,Economics,200,4
+52,Art,200,5
+53,Chemistry,200,4
+54,Computer Science,100,5
+55,Computer Science,300,4
+56,Physics,200,5
+57,Economics,100,3
+58,Literature,100,5
+59,Psychology,300,5
+60,Biology,100,4
+61,Biology,100,5
+62,Chemistry,400,5
+63,Psychology,400,3
+64,Calculus,300,4
+65,Literature,400,5
+66,Art,100,4
+67,Literature,100,5
+68,Biology,300,5
+69,Chemistry,100,4
+70,Biology,300,3
+71,Physics,400,5
+72,Physics,400,5
+73,Chemistry,200,5
+74,Computer Science,400,4
+75,Chemistry,200,3
+76,Computer Science,200,5
+77,Calculus,200,5
+78,Physics,100,5
+79,Economics,200,4
+80,Calculus,400,4
+81,History,300,4
+82,Chemistry,400,4
+83,Economics,300,3
+84,Calculus,400,4
+85,Literature,300,4
+86,Calculus,400,5
+87,Biology,300,4
+88,Economics,200,3
+89,Physics,300,3
+90,Art,200,5
+91,Literature,400,3
+92,Art,300,4
+93,Psychology,300,4
+94,Art,400,3
+95,Literature,200,3
+96,Computer Science,200,4
+97,Chemistry,100,5
+98,Psychology,100,4
+99,Economics,100,5
+100,Calculus,300,5
+101,Economics,300,3
+102,Art,300,5
+103,Chemistry,400,4
+104,Art,100,4
+105,Psychology,400,3
+106,History,100,5
+107,Biology,100,4
+108,Computer Science,300,5
+109,Economics,200,4
+110,Biology,100,4
+111,Economics,200,4
+112,Economics,400,4
+113,Psychology,300,3
+114,Psychology,100,3
+115,Literature,300,5
+116,Literature,400,5
+117,Physics,200,3
+118,Calculus,300,4
+119,Computer Science,300,5
+120,Art,100,5
+121,Chemistry,200,3
+122,Physics,400,5
+123,Calculus,100,3
+124,Art,300,4
+125,Physics,300,5
+126,Art,200,4
+127,Computer Science,400,4
+128,Physics,400,3
+129,History,300,4
+130,Chemistry,400,3
+131,Calculus,100,3
+132,Chemistry,200,5
+133,Art,300,4
+134,Art,400,3
+135,Biology,400,5
+136,History,100,3
+137,Literature,400,4
+138,Computer Science,100,4
+139,Biology,200,5
+140,Chemistry,300,5
+141,Art,100,5
+142,Psychology,400,5
+143,Physics,400,5
+144,History,200,4
+145,Physics,100,5
+146,Psychology,300,5
+147,Biology,400,5
+148,Physics,100,5
+149,Calculus,400,4
+150,Computer Science,300,4
+151,Biology,100,3
+152,Psychology,400,5
+153,Art,300,5
+154,Literature,100,4
+155,Literature,100,4
+156,Biology,200,4
+157,History,300,5
+158,Literature,100,3
+159,Literature,200,3
+160,Psychology,100,4
+161,Calculus,400,4
+162,Calculus,200,4
+163,Psychology,100,4
+164,History,400,3
+165,Calculus,400,3
+166,Art,400,4
+167,Biology,200,3
+168,Economics,400,4
+169,Psychology,300,3
+170,Art,100,5
+171,Chemistry,300,5
+172,Physics,400,3
+173,Computer Science,400,4
+174,Computer Science,300,3
+175,Art,200,4
+176,Computer Science,400,4
+177,History,400,4
+178,Psychology,300,4
+179,Economics,400,3
+180,Economics,400,3
+181,Physics,200,5
+182,Literature,200,4
+183,Art,200,5
+184,Literature,200,3
+185,Chemistry,200,3
+186,Computer Science,400,4
+187,Economics,100,3
+188,History,400,4
+189,Computer Science,400,5
+190,Psychology,100,4
+191,Psychology,300,3
+192,Art,100,3
+193,Psychology,200,3
+194,Psychology,400,5
+195,Biology,200,4
+196,Psychology,100,5
+197,Biology,300,3
+198,Computer Science,300,4
+199,Chemistry,400,5
+200,Economics,100,4

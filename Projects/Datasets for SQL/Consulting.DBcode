@@ -1,0 +1,43 @@
+cells:
+  - kind: 2
+    languageId: sql
+    value: "SELECT * FROM courses_data LIMIT 5;\r
+
+      SELECT * FROM enrollments_data LIMIT 5;\r
+
+      SELECT * FROM student_information LIMIT 5;"
+    metadata: {}
+  - kind: 2
+    languageId: sql
+    value: "alter table courses_data \r
+
+      add constraint \"Course ID\" primary key (\"Course ID\");\r
+
+      \r
+
+      alter table student_information \r
+
+      add constraint \"Student ID\" primary key (\"Student ID\");\r
+
+      \r
+
+      alter table enrollments_data\r
+
+      add constraint \"Enrollment ID\" primary key (\"Enrollment ID\");\r\n"
+    metadata: {}
+  - kind: 2
+    languageId: sql
+    value: "ALTER TABLE enrollments_data\r
+
+      ADD CONSTRAINT student_fk FOREIGN KEY (\"Student ID\") REFERENCES
+      student_information(\"Student ID\"),\r
+
+      ADD CONSTRAINT course_fk FOREIGN KEY (\"Course ID\") REFERENCES
+      courses_data(\"Course ID\");"
+    metadata: {}
+metadata:
+  conn:
+    id: avtpZmLLNlimF--cKE9zz
+    name: database
+  database: consulting
+  schema: public
