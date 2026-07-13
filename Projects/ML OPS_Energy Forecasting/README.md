@@ -1,4 +1,5 @@
-# Energy Forecasting
+# Energy Forecasting Project
+
 
 This is an energy forecasting project that builds models to predict power consumption based on historical data and time-based features.
 

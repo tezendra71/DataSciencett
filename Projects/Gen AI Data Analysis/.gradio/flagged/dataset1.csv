@@ -1,0 +1,4 @@
+Upload CSV File,Analysis Prompt,output,timestamp
+.gradio\flagged\Upload CSV File\5cb5aa56ed0a4fe13fa3\customer_data.xlsx,"Perform descriptive analysis on Average_Purchase_Amount variables. 
+
+",Please specify the variables for analysis.,2026-07-13 09:11:37.210081
