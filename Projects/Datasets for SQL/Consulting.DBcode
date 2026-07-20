@@ -35,6 +35,18 @@ cells:
       ADD CONSTRAINT course_fk FOREIGN KEY (\"Course ID\") REFERENCES
       courses_data(\"Course ID\");"
     metadata: {}
+  - kind: 2
+    languageId: sql
+    value: "Select * \r
+
+      from courses_data \r
+
+      where \"Credits\" = 3 or \"Credits\" = 4;"
+    metadata: {}
+  - kind: 2
+    languageId: sql
+    value: ""
+    metadata: {}
 metadata:
   conn:
     id: avtpZmLLNlimF--cKE9zz
