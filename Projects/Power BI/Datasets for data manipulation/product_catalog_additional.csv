@@ -1,0 +1,51 @@
+product_id,category,price,stock_quantity
+51,Beauty,381.0,60
+52,Home & Kitchen,650.62,73
+53,Beauty,35.35,78
+54,Electronics,605.03,54
+55,Beauty,636.51,9
+56,Electronics,795.27,67
+57,Sports,251.59,47
+58,Electronics,127.9,68
+59,Clothing,896.14,10
+60,Clothing,112.48,52
+61,Electronics,794.28,68
+62,Electronics,770.65,12
+63,Electronics,441.23,10
+64,Electronics,549.76,57
+65,Electronics,653.89,68
+66,Beauty,262.98,7
+67,Beauty,364.67,35
+68,Sports,205.13,46
+69,Electronics,739.19,84
+70,Sports,11.77,8
+71,Home & Kitchen,500.17,29
+72,Clothing,459.36,89
+73,Sports,291.74,79
+74,Toys,472.89,37
+75,Beauty,582.86,36
+76,Clothing,373.96,14
+77,Home & Kitchen,581.87,93
+78,Home & Kitchen,905.28,43
+79,Sports,171.51,1
+80,Clothing,231.98,91
+81,Toys,894.93,96
+82,Clothing,313.38,28
+83,Toys,332.49,95
+84,Beauty,927.86,60
+85,Electronics,315.17,29
+86,Beauty,454.56,12
+87,Home & Kitchen,451.88,2
+88,Sports,802.42,56
+89,Sports,200.66,69
+90,Electronics,538.42,32
+91,Home & Kitchen,481.75,25
+92,Toys,393.96,32
+93,Electronics,314.3,23
+94,Sports,738.12,3
+95,Toys,934.26,49
+96,Beauty,856.22,44
+97,Sports,23.02,18
+98,Clothing,87.64,38
+99,Electronics,814.54,21
+100,Toys,447.32,91

@@ -1,0 +1,1256 @@
+customer_id,product_id,order_id,city,state,date,product_category,sales,quantity_sold,Quarter
+225,15,397,Dallas,Texas,1/1/2024,Electronics,171.97,8,Q1
+331,12,545,San Antonio,Texas,1/1/2024,Books,911.15,6,Q1
+341,5,222,San Jose,California,1/1/2024,Electronics,604.8,4,Q1
+537,1,535,Phoenix,Arizona,1/1/2024,Clothing,525.05,8,Q1
+615,2,126,Philadelphia,Pennsylvania,1/1/2024,Furniture,580.68,9,Q1
+115,6,811,Chicago,Illinois,1/2/2024,Clothing,904.03,9,Q1
+435,14,897,Houston,Texas,1/2/2024,Furniture,948.62,5,Q1
+533,16,130,Los Angeles,California,1/2/2024,Toys,961.82,9,Q1
+32,11,105,Phoenix,Arizona,1/3/2024,Clothing,312.11,8,Q1
+176,19,517,San Antonio,Texas,1/3/2024,Toys,805.96,10,Q1
+256,1,446,Phoenix,Arizona,1/3/2024,Toys,139.49,3,Q1
+257,4,593,San Jose,California,1/3/2024,Books,197.45,3,Q1
+512,3,550,Los Angeles,California,1/3/2024,Toys,280.55,6,Q1
+532,9,556,Chicago,Illinois,1/3/2024,Clothing,114.07,6,Q1
+303,4,969,Dallas,Texas,1/4/2024,Toys,899.99,8,Q1
+621,2,112,Dallas,Texas,1/4/2024,Clothing,185.94,1,Q1
+641,12,2,Houston,Texas,1/4/2024,Toys,153.71,7,Q1
+95,20,310,Los Angeles,California,1/5/2024,Furniture,359.42,8,Q1
+152,20,341,Houston,Texas,1/5/2024,Books,529.1,8,Q1
+356,16,773,Los Angeles,California,1/5/2024,Books,104.51,9,Q1
+132,14,1037,New York,New York,1/6/2024,Electronics,949.46,1,Q1
+488,18,885,San Diego,California,1/6/2024,Books,305.04,6,Q1
+521,6,1038,Houston,Texas,1/6/2024,Electronics,963.87,9,Q1
+616,13,1066,Chicago,Illinois,1/6/2024,Toys,980.7,4,Q1
+23,18,843,Houston,Texas,1/7/2024,Electronics,906.26,8,Q1
+227,19,1149,Chicago,Illinois,1/7/2024,Electronics,997.57,8,Q1
+235,19,74,San Diego,California,1/7/2024,Clothing,103.86,4,Q1
+389,9,748,Los Angeles,California,1/7/2024,Furniture,625.11,2,Q1
+20,14,1110,Dallas,Texas,1/8/2024,Clothing,340.35,10,Q1
+200,1,662,Chicago,Illinois,1/8/2024,Clothing,184.7,6,Q1
+255,5,471,Chicago,Illinois,1/8/2024,Electronics,364.97,9,Q1
+34,5,644,San Diego,California,1/9/2024,Electronics,962.76,4,Q1
+377,10,30,San Jose,California,1/9/2024,Toys,444.32,5,Q1
+490,8,755,Philadelphia,Pennsylvania,1/9/2024,Books,490.82,7,Q1
+668,10,251,San Diego,California,1/9/2024,Toys,888.35,1,Q1
+205,3,418,New York,New York,1/10/2024,Electronics,103.46,4,Q1
+685,16,991,Chicago,Illinois,1/10/2024,Electronics,805.03,4,Q1
+86,11,1193,San Antonio,Texas,1/11/2024,Electronics,333.69,6,Q2
+469,4,1092,Phoenix,Arizona,1/11/2024,Clothing,213.67,6,Q2
+682,18,804,Philadelphia,Pennsylvania,1/11/2024,Clothing,228.38,4,Q2
+235,15,823,Houston,Texas,1/12/2024,Clothing,271.68,6,Q2
+510,10,1139,San Antonio,Texas,1/12/2024,Books,848.13,4,Q2
+55,11,118,San Jose,California,1/13/2024,Clothing,282.71,3,Q2
+231,7,368,Phoenix,Arizona,1/13/2024,Toys,832.45,4,Q2
+276,7,264,Houston,Texas,1/13/2024,Furniture,395.82,6,Q2
+340,14,652,Chicago,Illinois,1/13/2024,Electronics,279.21,8,Q2
+349,16,1197,San Jose,California,1/13/2024,Furniture,670.08,7,Q2
+570,16,760,Houston,Texas,1/13/2024,Books,218.53,10,Q2
+601,13,762,Philadelphia,Pennsylvania,1/13/2024,Electronics,675.67,5,Q2
+156,1,836,Los Angeles,California,1/14/2024,Clothing,786.12,3,Q2
+556,14,477,New York,New York,1/14/2024,Electronics,641.94,3,Q2
+576,3,505,Chicago,Illinois,1/15/2024,Clothing,615.46,5,Q2
+660,5,624,Houston,Texas,1/15/2024,Clothing,571,7,Q2
+5,4,1171,New York,New York,1/17/2024,Toys,828.55,7,Q2
+59,4,513,San Jose,California,1/17/2024,Toys,566.24,1,Q2
+432,17,1205,Philadelphia,Pennsylvania,1/17/2024,Toys,669.37,4,Q2
+498,7,400,San Jose,California,1/17/2024,Electronics,350.54,1,Q2
+65,2,102,Chicago,Illinois,1/19/2024,Clothing,581.93,3,Q2
+186,4,539,Houston,Texas,1/19/2024,Electronics,862.46,5,Q2
+368,17,485,Phoenix,Arizona,1/19/2024,Toys,476.17,4,Q2
+387,11,599,Los Angeles,California,1/19/2024,Clothing,229.56,4,Q2
+431,14,1082,San Diego,California,1/19/2024,Books,123.78,7,Q2
+495,9,444,New York,New York,1/19/2024,Clothing,548.99,7,Q2
+527,18,638,San Diego,California,1/19/2024,Electronics,483.13,2,Q2
+103,6,680,San Antonio,Texas,1/20/2024,Clothing,907.74,6,Q2
+349,4,1043,Philadelphia,Pennsylvania,1/20/2024,Clothing,321.43,9,Q2
+601,4,837,New York,New York,1/20/2024,Electronics,594.77,10,Q2
+37,16,769,Philadelphia,Pennsylvania,1/21/2024,Clothing,488.36,5,Q2
+112,15,162,San Jose,California,1/21/2024,Toys,109.58,3,Q2
+527,2,835,Dallas,Texas,1/21/2024,Books,555.35,3,Q2
+531,14,1213,San Diego,California,1/21/2024,Books,481.46,4,Q2
+653,16,896,New York,New York,1/22/2024,Electronics,978.52,4,Q2
+212,15,907,San Jose,California,1/23/2024,Electronics,881.92,6,Q2
+659,7,235,New York,New York,1/23/2024,Toys,993.01,5,Q2
+131,13,128,Los Angeles,California,1/24/2024,Furniture,740.79,2,Q2
+430,17,66,Philadelphia,Pennsylvania,1/24/2024,Furniture,847.49,2,Q2
+521,17,857,San Jose,California,1/24/2024,Books,910,6,Q3
+552,16,492,San Antonio,Texas,1/24/2024,Clothing,670.94,2,Q3
+570,7,971,Phoenix,Arizona,1/24/2024,Toys,493.76,5,Q3
+621,9,872,Philadelphia,Pennsylvania,1/24/2024,Clothing,206.17,7,Q3
+40,20,204,San Antonio,Texas,1/25/2024,Clothing,693.31,10,Q3
+86,6,951,Phoenix,Arizona,1/25/2024,Clothing,647.68,9,Q3
+181,7,1050,Philadelphia,Pennsylvania,1/25/2024,Books,617.89,4,Q3
+500,9,1228,Los Angeles,California,1/25/2024,Toys,137.62,8,Q3
+588,12,245,Houston,Texas,1/25/2024,Furniture,296.43,2,Q3
+388,9,1008,Chicago,Illinois,1/26/2024,Clothing,174.67,3,Q3
+430,16,1237,Houston,Texas,1/26/2024,Electronics,314.33,7,Q3
+522,7,574,Chicago,Illinois,1/26/2024,Clothing,121.73,7,Q3
+15,16,956,New York,New York,1/27/2024,Electronics,627.84,6,Q3
+79,10,761,Houston,Texas,1/27/2024,Electronics,883.76,10,Q3
+191,1,562,Dallas,Texas,1/27/2024,Toys,634.22,7,Q3
+308,5,1114,New York,New York,1/27/2024,Electronics,434.67,9,Q3
+448,5,462,San Jose,California,1/27/2024,Books,157.67,4,Q3
+566,20,641,Dallas,Texas,1/27/2024,Toys,180.69,9,Q3
+16,12,173,Phoenix,Arizona,1/28/2024,Toys,989.37,2,Q3
+203,4,534,Dallas,Texas,1/28/2024,Furniture,638.46,5,Q3
+620,13,278,Los Angeles,California,1/28/2024,Clothing,104.55,4,Q3
+21,17,46,San Diego,California,1/29/2024,Toys,812.21,1,Q3
+225,8,203,Dallas,Texas,1/29/2024,Furniture,230.84,5,Q3
+443,4,57,Houston,Texas,1/29/2024,Furniture,250.77,10,Q3
+450,18,1063,Houston,Texas,1/29/2024,Electronics,808.72,10,Q3
+592,16,636,Chicago,Illinois,1/29/2024,Furniture,903.94,10,Q4
+615,12,166,San Antonio,Texas,1/29/2024,Toys,735.73,3,Q4
+621,3,796,San Jose,California,1/29/2024,Clothing,505.71,8,Q4
+109,18,318,Houston,Texas,1/30/2024,Clothing,429.22,8,Q4
+346,15,706,Philadelphia,Pennsylvania,1/30/2024,Toys,805.66,2,Q4
+447,8,795,Houston,Texas,1/30/2024,Furniture,751.7,6,Q4
+484,18,248,New York,New York,1/30/2024,Clothing,753.58,9,Q4
+655,6,359,Los Angeles,California,1/30/2024,Furniture,338.21,8,Q4
+101,5,453,San Jose,California,1/31/2024,Books,382.33,6,Q4
+260,12,337,Dallas,Texas,1/31/2024,Clothing,976.22,4,Q4
+417,20,1138,San Jose,California,1/31/2024,Furniture,395.78,8,Q4
+441,14,783,Philadelphia,Pennsylvania,1/31/2024,Electronics,494.16,10,Q4
+410,9,424,New York,New York,2/1/2024,Electronics,227.35,7,Q4
+12,19,253,Los Angeles,California,2/2/2024,Books,736.82,2,Q4
+356,10,80,San Jose,California,2/2/2024,Books,596.45,5,Q4
+30,8,389,San Diego,California,2/3/2024,Furniture,194.62,6,Q4
+472,12,314,Dallas,Texas,2/3/2024,Clothing,327.09,6,Q4
+478,12,649,Houston,Texas,2/3/2024,Furniture,655.28,4,Q4
+237,15,423,San Diego,California,2/4/2024,Furniture,500.51,7,Q4
+586,1,382,Dallas,Texas,2/4/2024,Books,669.02,8,Q4
+12,4,583,Phoenix,Arizona,2/6/2024,Books,192.35,10,Q4
+287,6,693,San Antonio,Texas,2/6/2024,Electronics,214.03,9,Q4
+364,20,812,San Diego,California,2/6/2024,Books,901.94,7,Q4
+378,14,569,Philadelphia,Pennsylvania,2/6/2024,Electronics,433.8,10,Q4
+410,4,860,San Jose,California,2/6/2024,Clothing,852.88,7,Q4
+452,9,934,Los Angeles,California,2/6/2024,Electronics,683.76,7,Q4
+124,9,16,San Jose,California,2/7/2024,Toys,587.32,4,Q4
+183,5,1040,San Antonio,Texas,2/7/2024,Toys,567.22,10,Q4
+238,15,566,Dallas,Texas,2/7/2024,Books,198.05,5,Q4
+295,19,1190,New York,New York,2/7/2024,Furniture,556.83,2,Q4
+420,6,654,Philadelphia,Pennsylvania,2/7/2024,Toys,729.88,5,Q4
+446,11,754,Houston,Texas,2/7/2024,Furniture,144.69,8,Q4
+586,8,1253,Dallas,Texas,2/7/2024,Electronics,108.68,1,Q4
+123,8,660,Phoenix,Arizona,2/8/2024,Furniture,998.33,1,Q4
+134,8,944,Philadelphia,Pennsylvania,2/8/2024,Toys,881.07,9,Q4
+532,8,709,San Jose,California,2/8/2024,Electronics,831.09,2,Q4
+552,15,567,Chicago,Illinois,2/8/2024,Furniture,224.4,6,Q1
+75,5,1004,Dallas,Texas,2/9/2024,Toys,913.83,6,Q1
+330,8,421,San Jose,California,2/9/2024,Furniture,186.96,9,Q1
+389,11,558,San Antonio,Texas,2/9/2024,Books,750.28,5,Q1
+396,4,1159,Los Angeles,California,2/9/2024,Toys,233.35,5,Q1
+161,20,115,Phoenix,Arizona,2/10/2024,Electronics,943.21,8,Q1
+444,4,1122,New York,New York,2/10/2024,Clothing,271.36,9,Q1
+27,5,864,Chicago,Illinois,2/11/2024,Toys,704.96,9,Q1
+119,4,39,Phoenix,Arizona,2/11/2024,Furniture,766.32,10,Q1
+416,19,1206,Dallas,Texas,2/11/2024,Furniture,618.95,10,Q1
+435,20,818,New York,New York,2/11/2024,Electronics,412.18,10,Q1
+470,9,401,Houston,Texas,2/11/2024,Clothing,550.57,9,Q1
+211,13,194,Houston,Texas,2/12/2024,Books,147.03,5,Q1
+244,6,53,New York,New York,2/12/2024,Electronics,614.88,8,Q1
+402,13,656,Houston,Texas,2/12/2024,Clothing,545.65,3,Q1
+81,5,305,Houston,Texas,2/13/2024,Electronics,206.13,4,Q1
+83,18,354,San Jose,California,2/13/2024,Clothing,751,2,Q1
+229,8,227,Los Angeles,California,2/13/2024,Furniture,933.45,9,Q1
+339,15,743,New York,New York,2/13/2024,Books,347.77,1,Q1
+73,5,850,Los Angeles,California,2/14/2024,Books,230.86,2,Q1
+127,14,905,Dallas,Texas,2/14/2024,Furniture,227.52,4,Q1
+218,1,767,San Diego,California,2/14/2024,Furniture,123.08,8,Q1
+450,13,8,Philadelphia,Pennsylvania,2/14/2024,Toys,631.2,2,Q1
+511,2,261,New York,New York,2/14/2024,Electronics,211.68,3,Q1
+383,18,681,Los Angeles,California,2/15/2024,Toys,297.16,6,Q1
+415,13,470,Philadelphia,Pennsylvania,2/15/2024,Furniture,471.68,5,Q1
+638,4,596,New York,New York,2/15/2024,Toys,279.75,6,Q1
+161,10,243,Chicago,Illinois,2/16/2024,Furniture,668.4,4,Q1
+175,17,989,Chicago,Illinois,2/16/2024,Furniture,528.54,5,Q1
+245,14,830,Los Angeles,California,2/16/2024,Clothing,619.02,4,Q1
+299,8,685,Dallas,Texas,2/16/2024,Furniture,972.76,6,Q1
+577,1,986,Dallas,Texas,2/16/2024,Clothing,814.9,7,Q1
+579,11,1173,Chicago,Illinois,2/16/2024,Furniture,345.52,4,Q1
+581,9,352,Chicago,Illinois,2/16/2024,Electronics,378.91,4,Q1
+594,8,398,Phoenix,Arizona,2/16/2024,Toys,468.89,9,Q1
+67,10,327,San Jose,California,2/17/2024,Electronics,295.59,10,Q2
+201,19,142,Philadelphia,Pennsylvania,2/17/2024,Furniture,145.27,6,Q2
+213,15,816,San Jose,California,2/17/2024,Clothing,304.66,1,Q2
+387,1,395,San Antonio,Texas,2/17/2024,Furniture,473.83,8,Q2
+397,16,387,Houston,Texas,2/17/2024,Toys,261.57,7,Q2
+485,18,1157,Philadelphia,Pennsylvania,2/17/2024,Furniture,781.99,1,Q2
+661,17,1215,San Jose,California,2/17/2024,Furniture,861.31,7,Q2
+34,11,1196,San Antonio,Texas,2/18/2024,Electronics,559.84,8,Q2
+192,8,1095,Phoenix,Arizona,2/18/2024,Clothing,274.45,4,Q2
+199,16,1098,Chicago,Illinois,2/18/2024,Electronics,406.16,7,Q2
+677,2,301,New York,New York,2/18/2024,Furniture,223.19,7,Q2
+558,4,350,San Diego,California,2/19/2024,Books,623.11,1,Q2
+593,12,619,Philadelphia,Pennsylvania,2/19/2024,Toys,846.55,3,Q2
+635,2,946,Chicago,Illinois,2/19/2024,Electronics,373.1,7,Q2
+348,13,101,San Antonio,Texas,2/20/2024,Toys,235.67,5,Q2
+398,15,206,San Antonio,Texas,2/20/2024,Clothing,519.29,9,Q2
+519,15,1089,San Jose,California,2/20/2024,Furniture,516.86,10,Q2
+571,16,605,San Antonio,Texas,2/20/2024,Furniture,639.16,1,Q2
+659,7,292,Chicago,Illinois,2/20/2024,Furniture,503.11,4,Q2
+333,13,676,Chicago,Illinois,2/21/2024,Toys,237.42,7,Q2
+576,3,238,San Diego,California,2/21/2024,Books,290.96,4,Q2
+584,5,526,Dallas,Texas,2/21/2024,Toys,706.69,3,Q2
+89,19,1135,Philadelphia,Pennsylvania,2/22/2024,Furniture,129.92,3,Q2
+439,20,490,Philadelphia,Pennsylvania,2/22/2024,Books,634,8,Q2
+559,6,801,New York,New York,2/22/2024,Electronics,224.75,8,Q2
+589,12,911,Los Angeles,California,2/22/2024,Furniture,269.96,3,Q2
+596,4,1178,Philadelphia,Pennsylvania,2/22/2024,Electronics,306.76,9,Q2
+628,4,999,Los Angeles,California,2/22/2024,Books,971.34,6,Q2
+28,8,232,New York,New York,2/23/2024,Furniture,432.22,6,Q2
+245,12,365,San Diego,California,2/23/2024,Toys,833.76,1,Q2
+311,1,635,Houston,Texas,2/23/2024,Toys,612.37,7,Q2
+371,3,331,Phoenix,Arizona,2/23/2024,Books,168.8,6,Q2
+572,15,924,San Jose,California,2/23/2024,Electronics,795.13,9,Q2
+35,9,385,Los Angeles,California,2/24/2024,Toys,160.24,2,Q2
+120,19,377,Houston,Texas,2/25/2024,Toys,598.23,9,Q2
+85,15,123,Los Angeles,California,2/26/2024,Clothing,950.91,7,Q2
+111,18,61,San Jose,California,2/26/2024,Furniture,805.48,7,Q2
+232,5,298,Dallas,Texas,2/26/2024,Toys,872.47,5,Q2
+277,3,193,Philadelphia,Pennsylvania,2/26/2024,Books,749.9,7,Q2
+385,17,1131,Houston,Texas,2/26/2024,Clothing,172.09,10,Q2
+424,3,1180,New York,New York,2/26/2024,Furniture,718.6,7,Q3
+425,14,26,San Diego,California,2/26/2024,Clothing,664.15,1,Q3
+532,17,1234,New York,New York,2/26/2024,Toys,414.38,4,Q3
+351,18,481,Philadelphia,Pennsylvania,2/27/2024,Electronics,326.43,5,Q3
+91,4,158,San Jose,California,2/29/2024,Electronics,267.09,10,Q3
+360,11,191,New York,New York,2/29/2024,Furniture,963.38,6,Q3
+236,18,242,San Diego,California,3/1/2024,Clothing,556.63,5,Q3
+325,10,6,San Antonio,Texas,3/1/2024,Toys,381.63,8,Q3
+480,20,410,San Jose,California,3/1/2024,Clothing,672.71,4,Q3
+536,10,613,Dallas,Texas,3/1/2024,Furniture,373.28,5,Q3
+399,6,129,San Diego,California,3/2/2024,Toys,951.46,4,Q3
+542,10,353,Los Angeles,California,3/2/2024,Furniture,592.41,6,Q3
+144,8,1079,San Antonio,Texas,3/3/2024,Books,233.04,8,Q3
+322,12,435,Phoenix,Arizona,3/3/2024,Furniture,265.73,8,Q3
+42,8,719,San Diego,California,3/4/2024,Toys,102.03,1,Q3
+536,6,1081,San Antonio,Texas,3/4/2024,Electronics,779.19,6,Q3
+665,16,374,Dallas,Texas,3/4/2024,Clothing,180.2,7,Q3
+279,12,249,San Antonio,Texas,3/5/2024,Books,574.1,6,Q3
+306,15,1097,Houston,Texas,3/5/2024,Clothing,943.93,2,Q3
+340,1,622,New York,New York,3/5/2024,Furniture,922.22,1,Q3
+486,13,759,San Diego,California,3/5/2024,Clothing,131.62,3,Q3
+644,14,631,Houston,Texas,3/5/2024,Furniture,610.24,1,Q3
+248,13,496,Phoenix,Arizona,3/6/2024,Books,674.42,4,Q3
+295,3,70,San Jose,California,3/6/2024,Furniture,867.88,10,Q3
+359,13,851,San Antonio,Texas,3/6/2024,Furniture,744.11,10,Q3
+383,1,140,Houston,Texas,3/7/2024,Electronics,963.81,6,Q3
+448,3,797,Phoenix,Arizona,3/7/2024,Furniture,716.24,6,Q3
+469,12,704,Phoenix,Arizona,3/7/2024,Furniture,524.95,4,Q3
+1,10,210,New York,New York,3/8/2024,Toys,709.77,7,Q4
+393,19,489,Philadelphia,Pennsylvania,3/8/2024,Toys,469.26,1,Q4
+205,20,1179,Houston,Texas,3/9/2024,Clothing,661.66,1,Q4
+167,13,594,San Antonio,Texas,3/10/2024,Clothing,641.4,9,Q4
+218,5,1024,Los Angeles,California,3/10/2024,Toys,557.13,1,Q4
+3,7,64,New York,New York,3/11/2024,Electronics,472.02,6,Q4
+97,4,597,New York,New York,3/11/2024,Toys,541.6,6,Q4
+219,10,270,Phoenix,Arizona,3/11/2024,Books,918.32,10,Q4
+507,20,466,San Jose,California,3/11/2024,Toys,587.78,10,Q4
+206,6,342,San Jose,California,3/12/2024,Electronics,266.13,4,Q4
+265,13,788,Philadelphia,Pennsylvania,3/12/2024,Clothing,864.76,2,Q4
+284,15,1016,Dallas,Texas,3/12/2024,Toys,729.19,5,Q4
+496,4,683,Chicago,Illinois,3/12/2024,Electronics,233.11,7,Q4
+302,6,817,San Diego,California,3/13/2024,Furniture,715.17,10,Q4
+381,19,267,Los Angeles,California,3/13/2024,Furniture,361.18,4,Q4
+597,16,778,Philadelphia,Pennsylvania,3/13/2024,Electronics,623.42,6,Q4
+152,3,673,Los Angeles,California,3/14/2024,Electronics,959.26,5,Q4
+269,19,787,Los Angeles,California,3/14/2024,Clothing,753.21,10,Q4
+322,13,592,New York,New York,3/14/2024,Books,491.22,1,Q4
+44,20,1236,San Jose,California,3/15/2024,Electronics,618.06,2,Q4
+147,12,699,New York,New York,3/15/2024,Toys,321.93,1,Q4
+418,10,1009,Phoenix,Arizona,3/15/2024,Furniture,891.5,3,Q4
+564,18,1023,Los Angeles,California,3/15/2024,Books,519.96,9,Q4
+40,14,144,Dallas,Texas,3/16/2024,Books,442.26,10,Q4
+151,20,899,Phoenix,Arizona,3/16/2024,Clothing,673.09,1,Q4
+262,20,521,Los Angeles,California,3/16/2024,Furniture,207.27,7,Q4
+303,12,670,Dallas,Texas,3/16/2024,Toys,918.45,7,Q4
+401,6,1165,Chicago,Illinois,3/16/2024,Toys,632.27,4,Q4
+444,7,602,Los Angeles,California,3/16/2024,Electronics,385.56,10,Q4
+555,7,1200,Philadelphia,Pennsylvania,3/16/2024,Furniture,192.68,4,Q4
+79,9,239,New York,New York,3/17/2024,Toys,734.73,6,Q1
+227,11,665,San Antonio,Texas,3/17/2024,Toys,286.06,10,Q1
+474,16,770,Chicago,Illinois,3/17/2024,Furniture,705.69,5,Q1
+16,2,491,San Antonio,Texas,3/18/2024,Electronics,931.88,1,Q1
+84,8,406,Chicago,Illinois,3/18/2024,Toys,953.64,2,Q1
+124,1,570,Los Angeles,California,3/18/2024,Electronics,201.33,4,Q1
+217,19,256,Chicago,Illinois,3/18/2024,Books,110.86,6,Q1
+357,12,785,San Diego,California,3/18/2024,Furniture,951.19,5,Q1
+156,14,1191,Houston,Texas,3/19/2024,Clothing,991.38,4,Q1
+670,8,250,San Jose,California,3/19/2024,Clothing,727.99,9,Q1
+246,3,713,Houston,Texas,3/20/2024,Furniture,202.03,8,Q1
+259,4,1211,Los Angeles,California,3/20/2024,Toys,102.94,4,Q1
+356,6,985,San Antonio,Texas,3/20/2024,Electronics,120.56,3,Q1
+423,13,891,New York,New York,3/20/2024,Furniture,556.8,5,Q1
+434,6,189,Phoenix,Arizona,3/20/2024,Furniture,642.37,2,Q1
+633,2,1115,Chicago,Illinois,3/20/2024,Electronics,265.83,9,Q1
+221,14,361,San Diego,California,3/21/2024,Clothing,335.44,6,Q1
+336,6,585,Houston,Texas,3/21/2024,Clothing,113.35,6,Q1
+46,10,677,Phoenix,Arizona,3/22/2024,Toys,630.39,2,Q1
+132,8,834,New York,New York,3/22/2024,Electronics,243.03,8,Q1
+214,9,1062,Los Angeles,California,3/22/2024,Electronics,389.66,7,Q1
+248,10,117,San Diego,California,3/22/2024,Books,870.27,10,Q1
+458,16,915,San Antonio,Texas,3/22/2024,Clothing,372.92,9,Q1
+288,18,218,Houston,Texas,3/23/2024,Clothing,728.5,3,Q1
+583,15,542,San Antonio,Texas,3/23/2024,Clothing,435.52,3,Q1
+79,3,771,Philadelphia,Pennsylvania,3/24/2024,Clothing,217.05,9,Q1
+247,19,47,San Antonio,Texas,3/24/2024,Toys,295.1,7,Q1
+446,6,328,San Diego,California,3/24/2024,Clothing,965.3,2,Q1
+656,4,260,Philadelphia,Pennsylvania,3/24/2024,Electronics,677.74,3,Q1
+22,17,225,San Diego,California,3/25/2024,Books,195.7,8,Q2
+64,3,984,Phoenix,Arizona,3/25/2024,Electronics,657.86,7,Q2
+394,16,1146,San Jose,California,3/25/2024,Toys,499.62,4,Q2
+523,11,17,Chicago,Illinois,3/25/2024,Books,668.96,10,Q2
+650,10,499,New York,New York,3/25/2024,Electronics,995.83,2,Q2
+38,18,827,Phoenix,Arizona,3/26/2024,Furniture,257.71,9,Q2
+127,3,1093,New York,New York,3/26/2024,Clothing,780.66,4,Q2
+167,13,612,San Jose,California,3/26/2024,Furniture,916.94,5,Q2
+234,19,640,San Jose,California,3/26/2024,Clothing,468.76,8,Q2
+501,19,484,Los Angeles,California,3/26/2024,Clothing,559.86,2,Q2
+535,17,1065,Dallas,Texas,3/26/2024,Toys,695.14,5,Q2
+18,15,922,New York,New York,3/27/2024,Electronics,636.2,6,Q2
+492,3,356,San Antonio,Texas,3/27/2024,Furniture,158.64,7,Q2
+121,11,842,San Diego,California,3/28/2024,Electronics,609.57,8,Q2
+180,12,22,San Jose,California,3/28/2024,Electronics,452.18,3,Q2
+199,10,302,Dallas,Texas,3/28/2024,Furniture,634.64,9,Q2
+383,1,805,Chicago,Illinois,3/28/2024,Furniture,775.28,4,Q2
+248,14,135,Chicago,Illinois,3/29/2024,Toys,764.51,8,Q2
+410,3,127,San Diego,California,3/29/2024,Toys,651.09,7,Q2
+504,10,509,Houston,Texas,3/29/2024,Furniture,202.79,4,Q2
+579,17,252,San Diego,California,3/29/2024,Toys,585.07,2,Q2
+51,13,973,Philadelphia,Pennsylvania,3/30/2024,Books,974.81,8,Q2
+202,1,393,Phoenix,Arizona,3/30/2024,Toys,174.38,10,Q2
+321,10,1103,Houston,Texas,3/30/2024,Furniture,863.03,2,Q2
+115,6,1025,New York,New York,3/31/2024,Toys,883.28,2,Q2
+362,10,121,Los Angeles,California,3/31/2024,Books,797.07,10,Q2
+33,4,1018,Philadelphia,Pennsylvania,4/1/2024,Toys,225.83,10,Q2
+567,18,363,Philadelphia,Pennsylvania,4/1/2024,Electronics,973.39,1,Q2
+591,13,819,Philadelphia,Pennsylvania,4/1/2024,Books,742.86,8,Q2
+628,5,1235,Philadelphia,Pennsylvania,4/1/2024,Furniture,718.39,6,Q2
+677,9,930,San Jose,California,4/1/2024,Toys,615.62,6,Q2
+44,11,258,Phoenix,Arizona,4/2/2024,Books,407.48,3,Q3
+283,7,100,Phoenix,Arizona,4/2/2024,Toys,356.29,10,Q3
+398,3,752,Chicago,Illinois,4/2/2024,Clothing,198.53,2,Q3
+466,13,876,San Antonio,Texas,4/2/2024,Furniture,643.25,8,Q3
+466,17,903,Los Angeles,California,4/2/2024,Books,143.5,4,Q3
+494,16,1020,San Jose,California,4/2/2024,Toys,419.22,10,Q3
+412,6,1051,San Antonio,Texas,4/3/2024,Books,828.19,7,Q3
+666,15,48,Philadelphia,Pennsylvania,4/3/2024,Toys,852.69,5,Q3
+30,11,463,San Antonio,Texas,4/4/2024,Furniture,618.98,10,Q3
+84,11,559,Phoenix,Arizona,4/4/2024,Books,730.63,2,Q3
+225,8,394,Chicago,Illinois,4/4/2024,Books,387.51,7,Q3
+334,18,590,New York,New York,4/4/2024,Furniture,655.8,8,Q3
+500,10,953,San Antonio,Texas,4/4/2024,Electronics,274.74,10,Q3
+663,3,937,Philadelphia,Pennsylvania,4/4/2024,Electronics,571.48,1,Q3
+204,15,182,Los Angeles,California,4/5/2024,Books,689.86,3,Q3
+535,3,271,San Diego,California,4/5/2024,Clothing,551.27,1,Q3
+655,4,461,New York,New York,4/5/2024,Toys,988.6,9,Q3
+238,3,912,Los Angeles,California,4/6/2024,Furniture,471.76,9,Q3
+366,3,475,Dallas,Texas,4/6/2024,Toys,318.47,8,Q3
+546,11,413,Los Angeles,California,4/6/2024,Furniture,715.02,2,Q3
+44,11,886,New York,New York,4/7/2024,Electronics,273.35,6,Q3
+303,4,712,Houston,Texas,4/7/2024,Clothing,477.63,8,Q3
+356,15,7,Los Angeles,California,4/7/2024,Books,133.55,7,Q3
+382,17,555,Phoenix,Arizona,4/7/2024,Furniture,673.68,7,Q3
+457,18,572,Dallas,Texas,4/7/2024,Clothing,530.09,3,Q3
+625,2,620,Chicago,Illinois,4/7/2024,Toys,638.33,10,Q3
+33,16,290,Chicago,Illinois,4/8/2024,Electronics,330.2,8,Q3
+286,10,209,Houston,Texas,4/8/2024,Toys,438.87,8,Q3
+639,14,291,San Antonio,Texas,4/8/2024,Books,827.26,5,Q3
+161,13,1155,Phoenix,Arizona,4/9/2024,Electronics,144.02,5,Q3
+180,9,108,Chicago,Illinois,4/9/2024,Clothing,451.92,7,Q3
+628,5,1204,Chicago,Illinois,4/9/2024,Furniture,174.54,2,Q4
+350,20,745,Philadelphia,Pennsylvania,4/10/2024,Books,663.51,8,Q4
+391,4,217,Chicago,Illinois,4/10/2024,Electronics,415.55,8,Q4
+327,3,439,Dallas,Texas,4/11/2024,Electronics,497.71,8,Q4
+330,19,792,Philadelphia,Pennsylvania,4/11/2024,Books,313.32,4,Q4
+521,12,165,Los Angeles,California,4/11/2024,Furniture,188.79,3,Q4
+1,17,357,San Jose,California,4/12/2024,Furniture,924.26,5,Q4
+566,3,854,Phoenix,Arizona,4/12/2024,Clothing,616.75,6,Q4
+92,10,1137,San Jose,California,4/13/2024,Books,256.02,6,Q4
+300,16,503,San Diego,California,4/13/2024,Books,421.42,8,Q4
+577,8,776,San Jose,California,4/14/2024,Toys,741.76,1,Q4
+130,5,467,Phoenix,Arizona,4/15/2024,Clothing,793.33,6,Q4
+374,4,878,San Diego,California,4/15/2024,Toys,283.67,7,Q4
+589,14,824,New York,New York,4/15/2024,Furniture,853.34,3,Q4
+598,1,442,Philadelphia,Pennsylvania,4/15/2024,Toys,198.45,1,Q4
+33,18,371,Houston,Texas,4/16/2024,Electronics,919.05,6,Q4
+38,18,4,Chicago,Illinois,4/16/2024,Clothing,680.3,2,Q4
+38,3,236,San Antonio,Texas,4/16/2024,Electronics,232.91,8,Q4
+187,18,879,Dallas,Texas,4/16/2024,Electronics,884.89,3,Q4
+496,6,529,Los Angeles,California,4/16/2024,Books,849.72,6,Q4
+299,17,1000,Dallas,Texas,4/17/2024,Furniture,664.49,6,Q4
+332,16,49,Chicago,Illinois,4/17/2024,Furniture,311.64,8,Q4
+585,16,694,New York,New York,4/17/2024,Clothing,656.63,9,Q4
+270,12,947,Houston,Texas,4/18/2024,Books,927.35,3,Q4
+553,15,214,Los Angeles,California,4/18/2024,Toys,612.49,2,Q4
+631,11,968,San Antonio,Texas,4/18/2024,Clothing,249.03,5,Q4
+81,12,576,San Diego,California,4/19/2024,Toys,663.3,9,Q4
+246,19,806,Houston,Texas,4/19/2024,Clothing,272.66,6,Q1
+282,13,89,Chicago,Illinois,4/19/2024,Books,157.13,8,Q1
+321,17,148,Chicago,Illinois,4/19/2024,Toys,418.77,8,Q1
+443,10,668,Philadelphia,Pennsylvania,4/19/2024,Toys,469.33,9,Q1
+188,16,156,Houston,Texas,4/20/2024,Toys,535.91,5,Q1
+403,4,531,San Diego,California,4/20/2024,Clothing,249.09,4,Q1
+621,6,303,San Jose,California,4/20/2024,Books,333.3,6,Q1
+203,1,859,Houston,Texas,4/21/2024,Furniture,373.17,9,Q1
+399,1,179,San Antonio,Texas,4/21/2024,Furniture,170.03,10,Q1
+116,18,155,Phoenix,Arizona,4/22/2024,Books,741.2,3,Q1
+138,12,1148,Houston,Texas,4/22/2024,Books,269.6,1,Q1
+342,20,200,San Diego,California,4/22/2024,Books,533.32,6,Q1
+209,11,1125,New York,New York,4/23/2024,Clothing,476.09,8,Q1
+273,18,515,Philadelphia,Pennsylvania,4/23/2024,Furniture,760,2,Q1
+530,4,954,San Diego,California,4/23/2024,Toys,196.66,10,Q1
+581,16,910,Philadelphia,Pennsylvania,4/23/2024,Furniture,789.69,5,Q1
+676,13,157,Philadelphia,Pennsylvania,4/23/2024,Furniture,948.88,1,Q1
+55,14,711,San Antonio,Texas,4/24/2024,Toys,641.89,10,Q1
+522,6,601,Dallas,Texas,4/24/2024,Furniture,582.61,10,Q1
+175,13,919,Houston,Texas,4/25/2024,Clothing,634.03,10,Q1
+433,12,615,Phoenix,Arizona,4/25/2024,Clothing,260,3,Q1
+504,4,800,Phoenix,Arizona,4/25/2024,Toys,648.7,5,Q1
+553,13,460,San Antonio,Texas,4/25/2024,Books,252.77,2,Q1
+132,17,678,Chicago,Illinois,4/26/2024,Toys,786.06,1,Q1
+238,2,1255,Dallas,Texas,4/26/2024,Electronics,638.24,8,Q1
+459,5,94,Philadelphia,Pennsylvania,4/26/2024,Clothing,661.12,7,Q1
+489,12,134,San Jose,California,4/26/2024,Toys,595.11,7,Q1
+514,18,12,Los Angeles,California,4/26/2024,Electronics,617.92,5,Q1
+588,13,815,San Diego,California,4/26/2024,Toys,224.66,6,Q2
+610,4,1060,San Antonio,Texas,4/26/2024,Toys,381.83,3,Q2
+105,3,1254,Dallas,Texas,4/27/2024,Electronics,441.85,4,Q2
+551,2,33,New York,New York,4/27/2024,Books,571.59,3,Q2
+563,11,1176,Dallas,Texas,4/27/2024,Toys,376.25,3,Q2
+277,6,940,Phoenix,Arizona,4/28/2024,Toys,914.33,1,Q2
+622,13,900,Chicago,Illinois,4/28/2024,Clothing,854.5,7,Q2
+662,10,208,San Jose,California,4/28/2024,Clothing,243.35,9,Q2
+78,9,728,Chicago,Illinois,4/30/2024,Toys,114.71,5,Q2
+205,10,802,San Jose,California,4/30/2024,Clothing,610,8,Q2
+459,11,211,Dallas,Texas,4/30/2024,Books,339.18,3,Q2
+559,9,772,Chicago,Illinois,4/30/2024,Clothing,427.86,1,Q2
+86,20,99,San Jose,California,5/1/2024,Toys,782.56,6,Q2
+214,18,419,San Jose,California,5/1/2024,Toys,685.56,5,Q2
+241,14,1166,Philadelphia,Pennsylvania,5/1/2024,Books,359.92,9,Q2
+476,10,609,New York,New York,5/1/2024,Furniture,460.05,1,Q2
+40,1,1090,San Antonio,Texas,5/2/2024,Furniture,351.64,9,Q2
+206,5,514,San Antonio,Texas,5/2/2024,Toys,530.94,2,Q2
+223,4,360,Los Angeles,California,5/2/2024,Toys,234.91,6,Q2
+276,8,79,San Antonio,Texas,5/2/2024,Clothing,433.71,5,Q2
+283,9,41,New York,New York,5/2/2024,Furniture,667.3,3,Q2
+289,13,199,Phoenix,Arizona,5/3/2024,Toys,896.89,7,Q2
+243,6,814,Houston,Texas,5/4/2024,Furniture,810.42,9,Q2
+629,12,391,Los Angeles,California,5/4/2024,Clothing,524.9,4,Q2
+28,13,1061,Houston,Texas,5/5/2024,Electronics,388.34,4,Q2
+241,18,282,San Diego,California,5/5/2024,Toys,873.38,10,Q2
+297,16,373,San Diego,California,5/5/2024,Furniture,751.34,10,Q2
+634,6,14,San Jose,California,5/5/2024,Clothing,134.59,2,Q2
+255,10,1214,Houston,Texas,5/6/2024,Books,889.96,1,Q2
+406,7,894,Los Angeles,California,5/6/2024,Clothing,584.56,5,Q2
+584,9,1048,San Diego,California,5/6/2024,Books,541.73,3,Q2
+93,17,277,Dallas,Texas,5/7/2024,Clothing,296.43,5,Q2
+297,4,1142,Philadelphia,Pennsylvania,5/7/2024,Clothing,700.93,7,Q3
+336,5,895,Chicago,Illinois,5/7/2024,Furniture,340.83,8,Q3
+164,5,925,Dallas,Texas,5/8/2024,Electronics,579.07,10,Q3
+354,15,98,Phoenix,Arizona,5/8/2024,Furniture,926.9,9,Q3
+416,19,744,Dallas,Texas,5/8/2024,Books,708.9,7,Q3
+444,4,586,San Diego,California,5/8/2024,Clothing,995.43,10,Q3
+448,9,565,Chicago,Illinois,5/8/2024,Clothing,551.41,1,Q3
+601,12,1247,San Jose,California,5/8/2024,Books,263.65,1,Q3
+618,9,700,Phoenix,Arizona,5/8/2024,Toys,799.69,5,Q3
+46,18,339,San Diego,California,5/9/2024,Books,210.37,4,Q3
+119,4,224,San Diego,California,5/9/2024,Electronics,216.55,3,Q3
+171,19,266,San Antonio,Texas,5/9/2024,Electronics,956.66,1,Q3
+190,8,265,Dallas,Texas,5/9/2024,Toys,463.79,9,Q3
+227,3,50,Houston,Texas,5/9/2024,Books,844.28,10,Q3
+530,6,452,Phoenix,Arizona,5/9/2024,Electronics,739.02,3,Q3
+619,19,844,San Jose,California,5/9/2024,Books,418.2,4,Q3
+656,20,1132,Philadelphia,Pennsylvania,5/9/2024,Electronics,984.57,3,Q3
+343,20,710,San Antonio,Texas,5/10/2024,Books,393.89,6,Q3
+403,5,629,Dallas,Texas,5/10/2024,Books,687.01,5,Q3
+31,2,375,Phoenix,Arizona,5/11/2024,Toys,471.18,1,Q3
+80,8,425,San Diego,California,5/11/2024,Books,434.22,7,Q3
+126,4,682,New York,New York,5/11/2024,Clothing,905.14,2,Q3
+222,14,793,Houston,Texas,5/11/2024,Clothing,668.36,6,Q3
+234,14,855,Houston,Texas,5/11/2024,Electronics,192.87,3,Q3
+394,14,116,Los Angeles,California,5/11/2024,Books,325.44,1,Q3
+417,3,511,New York,New York,5/11/2024,Books,533.74,7,Q3
+603,13,307,Los Angeles,California,5/11/2024,Clothing,806.29,7,Q3
+42,8,504,Dallas,Texas,5/12/2024,Clothing,123.72,4,Q3
+241,12,591,New York,New York,5/12/2024,Furniture,890.1,4,Q3
+426,7,720,Philadelphia,Pennsylvania,5/12/2024,Books,423.87,5,Q3
+74,13,1154,Philadelphia,Pennsylvania,5/13/2024,Clothing,963.46,10,Q3
+92,1,434,San Antonio,Texas,5/14/2024,Electronics,546.76,10,Q4
+130,11,259,San Antonio,Texas,5/14/2024,Toys,673.21,2,Q4
+419,1,768,Los Angeles,California,5/15/2024,Books,775.24,1,Q4
+673,16,23,San Jose,California,5/15/2024,Toys,389.99,6,Q4
+543,6,551,Houston,Texas,5/16/2024,Books,103.03,1,Q4
+80,20,91,San Jose,California,5/17/2024,Books,596.45,1,Q4
+255,17,766,Chicago,Illinois,5/17/2024,Furniture,575.49,2,Q4
+482,4,637,Philadelphia,Pennsylvania,5/17/2024,Clothing,385.47,6,Q4
+497,6,429,New York,New York,5/17/2024,Furniture,535.6,7,Q4
+678,15,185,New York,New York,5/17/2024,Furniture,128.34,4,Q4
+13,4,1242,San Jose,California,5/18/2024,Books,577.47,5,Q4
+297,8,493,Chicago,Illinois,5/18/2024,Clothing,334.93,5,Q4
+422,5,563,Phoenix,Arizona,5/18/2024,Clothing,117.52,2,Q4
+462,5,957,Houston,Texas,5/18/2024,Books,187.7,4,Q4
+471,8,731,San Jose,California,5/18/2024,Toys,990.74,3,Q4
+533,7,690,San Diego,California,5/18/2024,Toys,896.09,2,Q4
+199,17,610,San Diego,California,5/19/2024,Clothing,895.13,2,Q4
+304,1,603,San Jose,California,5/19/2024,Furniture,363.92,7,Q4
+541,2,81,Los Angeles,California,5/19/2024,Books,568.3,6,Q4
+330,16,455,Phoenix,Arizona,5/20/2024,Clothing,789.58,2,Q4
+417,18,221,San Jose,California,5/20/2024,Clothing,916.9,9,Q4
+490,7,587,Dallas,Texas,5/20/2024,Electronics,940.51,8,Q4
+69,4,1246,Phoenix,Arizona,5/21/2024,Books,211.72,8,Q4
+348,15,1052,Los Angeles,California,5/21/2024,Electronics,461.32,5,Q4
+551,7,308,San Jose,California,5/21/2024,Electronics,432.59,5,Q1
+97,6,1029,Chicago,Illinois,5/22/2024,Toys,765.18,4,Q1
+364,15,334,San Diego,California,5/22/2024,Books,328.38,1,Q1
+475,6,512,Chicago,Illinois,5/23/2024,Toys,571.85,4,Q1
+156,4,727,Dallas,Texas,5/24/2024,Electronics,880.06,8,Q1
+486,14,982,Phoenix,Arizona,5/24/2024,Books,307.85,6,Q1
+114,2,655,San Antonio,Texas,5/25/2024,Clothing,396.4,10,Q1
+132,4,205,San Antonio,Texas,5/25/2024,Furniture,436.05,3,Q1
+134,5,1210,Los Angeles,California,5/25/2024,Electronics,408.15,5,Q1
+316,15,523,Los Angeles,California,5/25/2024,Books,888.06,9,Q1
+420,1,501,Philadelphia,Pennsylvania,5/25/2024,Toys,350.28,4,Q1
+625,15,223,Chicago,Illinois,5/25/2024,Clothing,887.71,1,Q1
+331,5,1156,Chicago,Illinois,5/26/2024,Electronics,286.31,8,Q1
+392,18,25,Dallas,Texas,5/26/2024,Toys,147.79,3,Q1
+482,16,906,Chicago,Illinois,5/26/2024,Electronics,784.39,5,Q1
+63,4,269,Los Angeles,California,5/27/2024,Books,765.43,1,Q1
+406,8,1186,San Jose,California,5/27/2024,Furniture,913.3,5,Q1
+449,8,1248,Chicago,Illinois,5/27/2024,Furniture,887.26,9,Q1
+622,7,1192,Houston,Texas,5/27/2024,Electronics,640.86,7,Q1
+333,14,568,Houston,Texas,5/28/2024,Books,368.97,4,Q1
+380,16,312,Houston,Texas,5/28/2024,Clothing,591.33,4,Q1
+512,16,1227,Los Angeles,California,5/28/2024,Furniture,194.89,3,Q1
+582,14,454,Los Angeles,California,5/28/2024,Electronics,983.42,8,Q1
+52,9,1123,Los Angeles,California,5/29/2024,Clothing,806.74,9,Q1
+124,9,428,Phoenix,Arizona,5/29/2024,Toys,903.79,2,Q1
+394,5,287,New York,New York,5/29/2024,Electronics,576.31,8,Q1
+405,8,83,Los Angeles,California,5/29/2024,Electronics,185.12,10,Q1
+127,13,764,Los Angeles,California,5/30/2024,Furniture,442.37,8,Q1
+296,4,803,Los Angeles,California,5/30/2024,Furniture,519.69,3,Q1
+539,3,1011,Houston,Texas,5/30/2024,Furniture,158.45,10,Q2
+81,3,35,Los Angeles,California,5/31/2024,Furniture,826.73,3,Q2
+100,8,938,Phoenix,Arizona,5/31/2024,Toys,122.19,9,Q2
+211,7,867,San Jose,California,5/31/2024,Clothing,849.64,4,Q2
+212,10,416,New York,New York,5/31/2024,Electronics,580.08,1,Q2
+282,11,757,Chicago,Illinois,5/31/2024,Furniture,259.62,1,Q2
+150,11,1085,San Antonio,Texas,6/1/2024,Toys,256.57,7,Q2
+385,5,433,San Diego,California,6/1/2024,Furniture,567.95,2,Q2
+582,7,1094,San Antonio,Texas,6/1/2024,Books,622.81,10,Q2
+284,15,702,Chicago,Illinois,6/2/2024,Clothing,165.72,10,Q2
+555,4,584,San Jose,California,6/2/2024,Books,945.69,4,Q2
+84,7,589,Chicago,Illinois,6/3/2024,Electronics,143.12,2,Q2
+133,5,958,Los Angeles,California,6/3/2024,Electronics,745.54,5,Q2
+192,18,431,Los Angeles,California,6/3/2024,Toys,260.11,6,Q2
+655,3,1195,San Antonio,Texas,6/3/2024,Electronics,867.73,1,Q2
+2,2,1101,New York,New York,6/4/2024,Books,956.93,8,Q2
+22,9,171,Houston,Texas,6/4/2024,Furniture,310.8,1,Q2
+70,4,625,Phoenix,Arizona,6/4/2024,Books,537.09,8,Q2
+549,13,679,Dallas,Texas,6/4/2024,Clothing,821.16,6,Q2
+574,13,73,San Jose,California,6/4/2024,Toys,419.49,9,Q2
+672,17,917,Dallas,Texas,6/4/2024,Furniture,329.76,8,Q2
+685,10,998,Los Angeles,California,6/4/2024,Books,963.35,1,Q2
+106,18,1174,San Jose,California,6/5/2024,Electronics,616.55,7,Q2
+360,16,407,San Diego,California,6/5/2024,Electronics,966.49,2,Q2
+427,2,497,New York,New York,6/5/2024,Books,473.96,8,Q2
+491,5,1049,Phoenix,Arizona,6/5/2024,Clothing,301.46,5,Q2
+383,3,180,Los Angeles,California,6/6/2024,Electronics,962.29,5,Q2
+451,4,616,New York,New York,6/6/2024,Furniture,156.99,4,Q2
+113,9,441,Phoenix,Arizona,6/7/2024,Books,329.33,2,Q2
+289,9,43,San Diego,California,6/7/2024,Books,449.58,4,Q2
+477,4,789,San Jose,California,6/7/2024,Electronics,925.71,7,Q2
+25,16,136,Houston,Texas,6/8/2024,Electronics,684.46,5,Q3
+133,17,1007,San Antonio,Texas,6/8/2024,Clothing,826.41,3,Q3
+185,15,36,Houston,Texas,6/8/2024,Electronics,476.76,9,Q3
+190,5,1208,San Jose,California,6/8/2024,Clothing,821.79,2,Q3
+614,12,781,Houston,Texas,6/8/2024,Toys,479.51,2,Q3
+6,12,241,Dallas,Texas,6/9/2024,Books,591.92,2,Q3
+11,20,1167,New York,New York,6/9/2024,Toys,437.42,5,Q3
+123,17,1223,Phoenix,Arizona,6/9/2024,Electronics,922.49,10,Q3
+647,11,390,San Antonio,Texas,6/9/2024,Books,209.78,3,Q3
+675,9,60,Chicago,Illinois,6/9/2024,Furniture,103.74,7,Q3
+128,9,1250,Dallas,Texas,6/10/2024,Clothing,627.01,9,Q3
+376,10,315,San Antonio,Texas,6/10/2024,Furniture,719.13,3,Q3
+490,16,884,Los Angeles,California,6/10/2024,Furniture,213.25,9,Q3
+571,17,892,Chicago,Illinois,6/10/2024,Furniture,794.89,2,Q3
+182,10,27,Los Angeles,California,6/11/2024,Clothing,183.17,6,Q3
+300,13,888,San Diego,California,6/11/2024,Clothing,459.49,9,Q3
+681,2,450,Houston,Texas,6/11/2024,Clothing,556.67,5,Q3
+178,16,578,Dallas,Texas,6/12/2024,Electronics,134.37,1,Q3
+416,7,457,Chicago,Illinois,6/12/2024,Electronics,448.71,2,Q3
+429,20,1251,New York,New York,6/12/2024,Clothing,667.25,6,Q3
+612,20,698,San Diego,California,6/12/2024,Electronics,761.95,4,Q3
+34,1,329,San Diego,California,6/13/2024,Clothing,856.69,9,Q3
+107,2,1002,San Jose,California,6/13/2024,Books,537.59,2,Q3
+114,8,299,Houston,Texas,6/13/2024,Electronics,617.71,4,Q3
+165,7,821,Philadelphia,Pennsylvania,6/13/2024,Clothing,766.63,6,Q3
+361,19,826,Dallas,Texas,6/13/2024,Electronics,776.25,5,Q3
+464,9,1071,Chicago,Illinois,6/13/2024,Toys,780.6,10,Q3
+560,4,617,Chicago,Illinois,6/13/2024,Books,977.67,7,Q3
+18,7,829,Philadelphia,Pennsylvania,6/14/2024,Books,640.84,3,Q3
+226,15,170,San Jose,California,6/14/2024,Clothing,802.19,5,Q3
+458,19,1194,Dallas,Texas,6/14/2024,Furniture,330.46,3,Q3
+491,3,962,Chicago,Illinois,6/14/2024,Furniture,379.31,9,Q3
+275,16,552,Dallas,Texas,6/15/2024,Clothing,672.64,1,Q4
+322,12,31,Dallas,Texas,6/15/2024,Furniture,410.27,7,Q4
+344,14,1053,Los Angeles,California,6/15/2024,Toys,948.23,5,Q4
+447,17,458,Chicago,Illinois,6/15/2024,Clothing,255.66,5,Q4
+455,15,131,Los Angeles,California,6/15/2024,Electronics,519.8,6,Q4
+540,19,1022,San Jose,California,6/15/2024,Books,454.77,9,Q4
+575,20,500,Los Angeles,California,6/15/2024,Books,567.07,7,Q4
+140,1,1119,Phoenix,Arizona,6/16/2024,Furniture,821.46,6,Q4
+354,3,1203,New York,New York,6/16/2024,Clothing,373.63,6,Q4
+96,20,931,Chicago,Illinois,6/17/2024,Toys,298.21,1,Q4
+126,12,1136,San Diego,California,6/17/2024,Electronics,980.12,8,Q4
+233,13,1069,Philadelphia,Pennsylvania,6/17/2024,Furniture,947.69,7,Q4
+464,18,598,Houston,Texas,6/17/2024,Electronics,765.01,10,Q4
+240,12,284,San Jose,California,6/18/2024,Electronics,192.23,6,Q4
+398,18,611,Philadelphia,Pennsylvania,6/18/2024,Clothing,627.09,9,Q4
+601,7,181,San Antonio,Texas,6/18/2024,Books,608.69,6,Q4
+653,1,537,San Jose,California,6/18/2024,Toys,909.59,5,Q4
+662,11,657,Dallas,Texas,6/18/2024,Clothing,651.77,1,Q4
+184,5,926,San Diego,California,6/19/2024,Electronics,380.66,4,Q4
+291,2,1019,Houston,Texas,6/19/2024,Furniture,725.42,8,Q4
+563,19,557,Philadelphia,Pennsylvania,6/19/2024,Clothing,915.69,5,Q4
+645,15,582,Houston,Texas,6/19/2024,Electronics,231.39,5,Q4
+664,4,701,Phoenix,Arizona,6/19/2024,Clothing,246.47,9,Q4
+6,16,280,Dallas,Texas,6/20/2024,Electronics,523.72,7,Q4
+165,17,738,San Diego,California,6/20/2024,Books,937.2,6,Q4
+210,17,663,San Antonio,Texas,6/20/2024,Toys,222.76,3,Q4
+422,19,125,San Diego,California,6/20/2024,Furniture,654.75,2,Q4
+99,13,979,Chicago,Illinois,6/21/2024,Furniture,901.23,6,Q1
+308,20,1150,San Diego,California,6/21/2024,Furniture,956.34,10,Q1
+390,13,1091,Phoenix,Arizona,6/21/2024,Toys,402.07,9,Q1
+542,1,822,Philadelphia,Pennsylvania,6/21/2024,Toys,375.64,10,Q1
+53,17,1152,Phoenix,Arizona,6/22/2024,Toys,782.64,7,Q1
+279,17,13,San Jose,California,6/22/2024,Electronics,156.67,2,Q1
+300,14,858,Houston,Texas,6/22/2024,Furniture,429.66,9,Q1
+420,6,1102,San Diego,California,6/22/2024,Clothing,346.39,6,Q1
+443,19,692,San Jose,California,6/22/2024,Furniture,128.92,6,Q1
+204,3,847,New York,New York,6/23/2024,Toys,866.99,3,Q1
+399,4,1219,Houston,Texas,6/23/2024,Toys,801.02,9,Q1
+685,20,904,San Jose,California,6/23/2024,Clothing,810.1,6,Q1
+155,9,715,Phoenix,Arizona,6/24/2024,Clothing,579.13,4,Q1
+450,6,24,San Jose,California,6/24/2024,Clothing,414.7,4,Q1
+521,4,548,New York,New York,6/24/2024,Electronics,442.03,7,Q1
+670,16,1188,San Antonio,Texas,6/24/2024,Toys,807.67,4,Q1
+593,11,996,Phoenix,Arizona,6/25/2024,Toys,364.61,1,Q1
+147,14,751,Houston,Texas,6/26/2024,Toys,725.59,5,Q1
+463,15,1073,Los Angeles,California,6/26/2024,Books,626.44,10,Q1
+621,4,1,Houston,Texas,6/26/2024,Furniture,186.38,9,Q1
+676,3,40,Chicago,Illinois,6/26/2024,Electronics,217.58,10,Q1
+17,15,608,San Diego,California,6/27/2024,Electronics,528.62,9,Q1
+142,16,409,Los Angeles,California,6/27/2024,Electronics,981.84,7,Q1
+148,16,898,New York,New York,6/27/2024,Toys,504.1,8,Q1
+17,6,1184,San Jose,California,6/28/2024,Clothing,818.55,10,Q1
+242,13,1177,San Antonio,Texas,6/28/2024,Electronics,428.58,1,Q1
+371,4,628,Chicago,Illinois,6/28/2024,Clothing,998.1,9,Q1
+679,6,82,Dallas,Texas,6/28/2024,Toys,688.14,7,Q1
+684,10,184,San Jose,California,6/28/2024,Furniture,799.19,9,Q1
+41,13,667,Phoenix,Arizona,6/29/2024,Books,646.19,3,Q1
+112,4,1070,Los Angeles,California,6/29/2024,Electronics,599.27,8,Q1
+222,10,247,Los Angeles,California,6/29/2024,Books,646.06,6,Q1
+411,10,68,Houston,Texas,6/29/2024,Books,197.07,7,Q1
+417,6,997,San Antonio,Texas,6/29/2024,Books,358.86,2,Q1
+536,19,1088,New York,New York,6/29/2024,Electronics,790.67,5,Q1
+563,5,518,Philadelphia,Pennsylvania,6/29/2024,Toys,541.46,4,Q1
+260,17,198,Dallas,Texas,6/30/2024,Clothing,130.18,5,Q1
+69,9,149,Los Angeles,California,7/1/2024,Toys,950.39,7,Q2
+82,15,438,New York,New York,7/1/2024,Clothing,629.32,6,Q2
+124,1,1017,Phoenix,Arizona,7/1/2024,Books,268.11,4,Q2
+311,7,520,San Diego,California,7/1/2024,Books,273.57,10,Q2
+332,6,650,New York,New York,7/1/2024,Furniture,867.12,10,Q2
+393,7,1164,New York,New York,7/1/2024,Electronics,959.03,2,Q2
+337,15,137,Phoenix,Arizona,7/2/2024,Books,565.21,5,Q2
+537,17,573,Houston,Texas,7/2/2024,Toys,480.69,1,Q2
+588,5,721,Los Angeles,California,7/2/2024,Electronics,841.1,2,Q2
+637,1,369,San Jose,California,7/2/2024,Electronics,361.79,3,Q2
+252,1,882,Chicago,Illinois,7/3/2024,Clothing,561.92,1,Q2
+685,18,964,New York,New York,7/3/2024,Furniture,429.12,4,Q2
+25,1,67,Philadelphia,Pennsylvania,7/4/2024,Electronics,286.38,2,Q2
+234,15,1084,Dallas,Texas,7/4/2024,Furniture,709.9,5,Q2
+431,9,29,San Antonio,Texas,7/4/2024,Toys,101.31,2,Q2
+544,19,220,Dallas,Texas,7/4/2024,Toys,241.66,10,Q2
+582,2,753,Dallas,Texas,7/4/2024,Electronics,168.95,3,Q2
+685,7,153,San Jose,California,7/4/2024,Clothing,740.27,2,Q2
+19,19,779,Philadelphia,Pennsylvania,7/5/2024,Clothing,217.95,7,Q2
+184,15,993,San Antonio,Texas,7/5/2024,Clothing,786.83,8,Q2
+192,4,1134,San Diego,California,7/5/2024,Toys,326.05,5,Q2
+297,6,808,San Antonio,Texas,7/5/2024,Books,467.66,4,Q2
+500,4,19,Los Angeles,California,7/5/2024,Books,785.44,9,Q2
+342,12,1169,San Jose,California,7/6/2024,Toys,377.22,10,Q2
+641,8,476,San Jose,California,7/6/2024,Clothing,894.72,6,Q2
+303,5,966,San Antonio,Texas,7/7/2024,Books,445.69,10,Q2
+430,6,908,Philadelphia,Pennsylvania,7/7/2024,Furniture,767.77,3,Q2
+515,18,870,Dallas,Texas,7/7/2024,Furniture,873.15,8,Q2
+595,3,763,Dallas,Texas,7/7/2024,Books,263.6,1,Q2
+298,13,976,Chicago,Illinois,7/8/2024,Toys,868.45,4,Q2
+409,16,417,New York,New York,7/8/2024,Clothing,640.85,8,Q2
+534,4,154,Philadelphia,Pennsylvania,7/8/2024,Furniture,190.41,5,Q2
+576,9,935,San Jose,California,7/8/2024,Toys,239.28,10,Q2
+65,12,383,Houston,Texas,7/9/2024,Books,213.61,4,Q2
+538,20,963,Phoenix,Arizona,7/9/2024,Books,657.97,8,Q2
+634,8,607,San Antonio,Texas,7/9/2024,Books,553.03,2,Q3
+218,16,150,Phoenix,Arizona,7/10/2024,Toys,735.6,2,Q3
+181,13,604,Dallas,Texas,7/11/2024,Clothing,752.78,10,Q3
+396,15,76,Houston,Texas,7/11/2024,Electronics,862.55,7,Q3
+56,14,1031,San Antonio,Texas,7/13/2024,Books,245.76,4,Q3
+676,19,114,Chicago,Illinois,7/13/2024,Electronics,697.16,6,Q3
+127,2,45,Chicago,Illinois,7/14/2024,Electronics,487.29,1,Q3
+311,18,5,Los Angeles,California,7/14/2024,Clothing,869.84,8,Q3
+322,15,133,San Jose,California,7/15/2024,Clothing,109.13,3,Q3
+601,11,405,New York,New York,7/15/2024,Electronics,740.9,6,Q3
+421,13,1130,Dallas,Texas,7/16/2024,Clothing,499.07,4,Q3
+531,6,918,Phoenix,Arizona,7/16/2024,Furniture,643.15,10,Q3
+591,18,325,Chicago,Illinois,7/16/2024,Clothing,574.04,10,Q3
+597,14,1116,Houston,Texas,7/16/2024,Electronics,309.02,3,Q3
+204,2,1106,Chicago,Illinois,7/18/2024,Furniture,103.35,6,Q3
+339,5,666,Los Angeles,California,7/18/2024,Toys,108.84,7,Q3
+612,10,970,Los Angeles,California,7/18/2024,Toys,711.03,6,Q3
+650,13,809,New York,New York,7/18/2024,Clothing,543,7,Q3
+170,1,627,Chicago,Illinois,7/19/2024,Books,342.65,1,Q3
+239,7,195,Los Angeles,California,7/19/2024,Electronics,223.58,8,Q3
+399,19,422,San Jose,California,7/19/2024,Toys,118.44,7,Q3
+510,4,473,San Antonio,Texas,7/19/2024,Clothing,224.45,9,Q3
+4,14,456,New York,New York,7/20/2024,Books,650.1,3,Q3
+53,1,1187,Dallas,Texas,7/20/2024,Electronics,220.13,6,Q3
+261,16,152,San Jose,California,7/20/2024,Books,839.04,9,Q3
+597,16,1222,New York,New York,7/20/2024,Electronics,404.24,5,Q3
+608,16,1232,Houston,Texas,7/20/2024,Toys,324.86,10,Q3
+124,20,943,Houston,Texas,7/21/2024,Electronics,494.67,1,Q3
+54,14,730,Houston,Texas,7/22/2024,Furniture,492.62,2,Q3
+271,10,975,San Diego,California,7/22/2024,Electronics,317.89,9,Q4
+281,3,257,Phoenix,Arizona,7/22/2024,Clothing,403.78,7,Q4
+334,8,321,San Jose,California,7/23/2024,Electronics,258.57,6,Q4
+406,19,733,New York,New York,7/23/2024,Toys,864.51,5,Q4
+311,14,1133,Dallas,Texas,7/24/2024,Books,826.41,8,Q4
+487,9,516,San Antonio,Texas,7/24/2024,Electronics,320.85,2,Q4
+198,17,901,Philadelphia,Pennsylvania,7/26/2024,Furniture,464.07,10,Q4
+466,14,746,Los Angeles,California,7/26/2024,Clothing,135.86,8,Q4
+505,18,348,New York,New York,7/26/2024,Toys,289.91,7,Q4
+651,5,577,San Antonio,Texas,7/26/2024,Clothing,269.2,4,Q4
+7,20,546,Los Angeles,California,7/27/2024,Electronics,302.71,7,Q4
+451,19,1075,San Antonio,Texas,7/27/2024,Books,745.62,1,Q4
+564,3,109,Dallas,Texas,7/27/2024,Books,132.41,4,Q4
+472,3,1041,San Antonio,Texas,7/28/2024,Clothing,853.58,4,Q4
+581,4,54,San Antonio,Texas,7/28/2024,Books,591.02,1,Q4
+58,5,1035,Philadelphia,Pennsylvania,7/29/2024,Electronics,225.92,2,Q4
+75,15,197,San Diego,California,7/29/2024,Books,668.16,1,Q4
+564,6,948,Los Angeles,California,7/29/2024,Clothing,540.26,6,Q4
+184,7,443,New York,New York,7/30/2024,Furniture,365.5,1,Q4
+492,18,379,San Diego,California,7/30/2024,Electronics,621.61,2,Q4
+192,13,18,Philadelphia,Pennsylvania,7/31/2024,Clothing,589.12,3,Q4
+359,3,3,San Antonio,Texas,7/31/2024,Furniture,903.37,2,Q4
+431,20,175,Houston,Texas,7/31/2024,Toys,528.04,9,Q4
+608,10,750,Philadelphia,Pennsylvania,7/31/2024,Electronics,683.05,4,Q4
+80,16,459,Los Angeles,California,8/1/2024,Toys,190.6,1,Q4
+106,18,1058,San Jose,California,8/1/2024,Furniture,764.22,4,Q4
+206,11,813,San Diego,California,8/1/2024,Furniture,283.81,6,Q4
+304,18,364,New York,New York,8/1/2024,Toys,656.62,2,Q4
+567,12,1010,Phoenix,Arizona,8/1/2024,Furniture,580.29,3,Q4
+586,13,279,Chicago,Illinois,8/1/2024,Toys,671.02,6,Q4
+659,18,846,Houston,Texas,8/1/2024,Electronics,458.73,3,Q4
+129,13,1239,San Diego,California,8/2/2024,Toys,826.73,9,Q4
+21,1,146,San Antonio,Texas,8/3/2024,Books,927.08,2,Q1
+241,11,921,Dallas,Texas,8/3/2024,Electronics,962.28,3,Q1
+376,9,1145,Los Angeles,California,8/3/2024,Furniture,297.22,10,Q1
+395,2,362,New York,New York,8/3/2024,Electronics,228.66,1,Q1
+402,9,465,Houston,Texas,8/3/2024,Books,923.71,1,Q1
+440,5,575,San Antonio,Texas,8/3/2024,Furniture,462.81,6,Q1
+488,15,691,Dallas,Texas,8/3/2024,Toys,220.96,10,Q1
+646,17,927,Philadelphia,Pennsylvania,8/3/2024,Clothing,903.05,1,Q1
+154,18,913,Philadelphia,Pennsylvania,8/4/2024,Electronics,940.94,3,Q1
+301,20,1144,New York,New York,8/4/2024,Clothing,999.5,8,Q1
+418,2,1118,Philadelphia,Pennsylvania,8/4/2024,Clothing,313.88,7,Q1
+90,19,1209,Los Angeles,California,8/5/2024,Furniture,776.72,7,Q1
+250,1,794,Phoenix,Arizona,8/5/2024,Toys,473.07,9,Q1
+477,20,722,Philadelphia,Pennsylvania,8/5/2024,Clothing,133.79,1,Q1
+503,6,630,Phoenix,Arizona,8/5/2024,Furniture,135.83,10,Q1
+172,12,1027,Phoenix,Arizona,8/6/2024,Electronics,573.24,3,Q1
+446,5,1046,Chicago,Illinois,8/6/2024,Furniture,684.16,5,Q1
+465,16,1036,San Jose,California,8/6/2024,Toys,874.81,8,Q1
+84,3,987,New York,New York,8/7/2024,Toys,957.78,2,Q1
+132,11,231,San Diego,California,8/7/2024,Clothing,961.21,2,Q1
+219,13,420,San Diego,California,8/8/2024,Clothing,220.53,1,Q1
+270,3,1003,San Antonio,Texas,8/8/2024,Electronics,971.6,2,Q1
+21,1,705,San Diego,California,8/9/2024,Clothing,921.01,9,Q1
+473,17,160,San Antonio,Texas,8/9/2024,Books,854.09,3,Q1
+602,10,97,New York,New York,8/9/2024,Toys,690.56,6,Q1
+179,11,729,San Diego,California,8/10/2024,Toys,219.89,10,Q1
+186,11,309,Phoenix,Arizona,8/10/2024,Toys,747.97,8,Q1
+52,17,1105,San Diego,California,8/11/2024,Electronics,317.35,9,Q1
+117,6,1108,San Diego,California,8/11/2024,Clothing,259.21,10,Q1
+198,16,881,Chicago,Illinois,8/11/2024,Books,735.65,8,Q1
+256,4,486,Phoenix,Arizona,8/11/2024,Toys,187.36,1,Q1
+304,4,1233,Los Angeles,California,8/11/2024,Clothing,570.23,10,Q1
+306,9,343,Dallas,Texas,8/11/2024,Clothing,122.76,7,Q2
+392,12,1128,Houston,Texas,8/11/2024,Furniture,497.87,9,Q2
+577,17,553,Dallas,Texas,8/11/2024,Books,426.39,4,Q2
+602,13,436,Chicago,Illinois,8/11/2024,Books,644.3,10,Q2
+640,9,942,San Jose,California,8/11/2024,Furniture,307.44,10,Q2
+43,4,403,Houston,Texas,8/12/2024,Toys,222.39,6,Q2
+160,5,600,Los Angeles,California,8/12/2024,Clothing,616.48,5,Q2
+286,11,1077,Los Angeles,California,8/12/2024,Furniture,933.59,1,Q2
+369,7,432,Phoenix,Arizona,8/12/2024,Furniture,928.58,7,Q2
+639,14,1226,Chicago,Illinois,8/12/2024,Furniture,403.91,3,Q2
+55,17,1104,New York,New York,8/13/2024,Furniture,819.05,4,Q2
+524,16,451,Philadelphia,Pennsylvania,8/13/2024,Books,931.11,10,Q2
+336,12,190,Houston,Texas,8/14/2024,Books,231.51,5,Q2
+351,11,139,Dallas,Texas,8/14/2024,Books,654.07,8,Q2
+465,20,508,Philadelphia,Pennsylvania,8/14/2024,Toys,206.04,5,Q2
+611,12,978,San Diego,California,8/14/2024,Toys,841.14,2,Q2
+124,10,708,Phoenix,Arizona,8/15/2024,Clothing,714.73,10,Q2
+283,10,367,Dallas,Texas,8/15/2024,Books,568.07,6,Q2
+614,19,1039,Phoenix,Arizona,8/15/2024,Electronics,392.52,4,Q2
+17,4,412,San Antonio,Texas,8/16/2024,Clothing,917.95,9,Q2
+142,3,889,San Jose,California,8/16/2024,Toys,886.58,10,Q2
+205,3,478,New York,New York,8/16/2024,Clothing,520.34,8,Q2
+15,3,724,San Jose,California,8/17/2024,Clothing,285.79,3,Q2
+175,17,1068,New York,New York,8/17/2024,Books,476.33,1,Q2
+281,4,59,San Diego,California,8/17/2024,Furniture,392.93,8,Q2
+584,1,188,Dallas,Texas,8/17/2024,Furniture,767.24,6,Q2
+188,4,187,New York,New York,8/18/2024,Furniture,736.54,5,Q2
+207,7,84,Philadelphia,Pennsylvania,8/18/2024,Books,346.1,7,Q2
+300,14,42,Los Angeles,California,8/18/2024,Toys,174.15,1,Q3
+674,7,632,Los Angeles,California,8/18/2024,Furniture,481.86,5,Q3
+209,12,633,Houston,Texas,8/19/2024,Books,359.18,1,Q3
+490,16,784,Los Angeles,California,8/19/2024,Furniture,449.07,9,Q3
+614,14,132,Philadelphia,Pennsylvania,8/19/2024,Furniture,779.53,8,Q3
+468,20,740,Phoenix,Arizona,8/20/2024,Books,580.83,5,Q3
+578,12,380,Dallas,Texas,8/20/2024,Clothing,950.31,3,Q3
+642,1,324,Phoenix,Arizona,8/20/2024,Electronics,295.77,6,Q3
+234,1,1218,San Jose,California,8/21/2024,Furniture,580.77,7,Q3
+251,15,929,Dallas,Texas,8/21/2024,Electronics,773.75,7,Q3
+268,9,995,Phoenix,Arizona,8/21/2024,Books,953.6,8,Q3
+662,5,96,San Diego,California,8/21/2024,Electronics,836.68,4,Q3
+340,14,840,Houston,Texas,8/22/2024,Furniture,946.01,1,Q3
+95,20,939,San Antonio,Texas,8/23/2024,Electronics,325.35,9,Q3
+270,15,411,Phoenix,Arizona,8/23/2024,Electronics,345.55,8,Q3
+680,2,1001,San Jose,California,8/23/2024,Electronics,825.1,10,Q3
+103,2,723,New York,New York,8/24/2024,Electronics,652.93,4,Q3
+146,1,561,Chicago,Illinois,8/24/2024,Toys,400.65,3,Q3
+136,10,445,Chicago,Illinois,8/25/2024,Clothing,260.2,3,Q3
+455,13,336,Philadelphia,Pennsylvania,8/25/2024,Clothing,464.1,3,Q3
+606,8,1021,San Antonio,Texas,8/25/2024,Clothing,902.36,1,Q3
+665,16,351,Philadelphia,Pennsylvania,8/25/2024,Clothing,717.05,7,Q3
+13,4,1252,San Diego,California,8/26/2024,Clothing,852.4,3,Q3
+278,10,234,San Diego,California,8/26/2024,Furniture,381.75,6,Q3
+401,15,560,Dallas,Texas,8/26/2024,Furniture,531.43,9,Q3
+530,4,228,Houston,Texas,8/26/2024,Clothing,717.46,2,Q3
+684,18,777,Houston,Texas,8/26/2024,Furniture,466.71,4,Q3
+97,5,1080,Philadelphia,Pennsylvania,8/28/2024,Toys,487.99,5,Q4
+285,20,469,Phoenix,Arizona,8/28/2024,Furniture,420.85,8,Q4
+436,10,1005,Chicago,Illinois,8/28/2024,Electronics,945.14,3,Q4
+525,5,1151,Philadelphia,Pennsylvania,8/28/2024,Electronics,908.72,1,Q4
+593,5,1245,Phoenix,Arizona,8/28/2024,Clothing,222.12,9,Q4
+666,5,820,Philadelphia,Pennsylvania,8/28/2024,Toys,135.63,5,Q4
+492,4,741,San Diego,California,8/29/2024,Toys,490.77,2,Q4
+501,20,933,New York,New York,8/29/2024,Electronics,361.84,9,Q4
+373,15,85,Phoenix,Arizona,8/31/2024,Clothing,679.6,4,Q4
+420,15,1230,Phoenix,Arizona,8/31/2024,Electronics,203.65,2,Q4
+461,8,440,Houston,Texas,8/31/2024,Books,325.04,8,Q4
+514,1,281,New York,New York,8/31/2024,Toys,923.13,4,Q4
+676,19,703,Chicago,Illinois,8/31/2024,Electronics,205.49,6,Q4
+18,10,319,Houston,Texas,9/1/2024,Toys,898.55,2,Q4
+44,14,396,Houston,Texas,9/1/2024,Furniture,148.49,4,Q4
+58,15,664,Dallas,Texas,9/1/2024,Clothing,187.73,9,Q4
+186,12,1153,San Diego,California,9/1/2024,Clothing,334.31,6,Q4
+281,16,674,San Diego,California,9/1/2024,Furniture,359.63,5,Q4
+551,12,293,Houston,Texas,9/1/2024,Electronics,524.66,2,Q4
+46,5,122,Los Angeles,California,9/2/2024,Furniture,659.59,5,Q4
+94,12,1216,Chicago,Illinois,9/2/2024,Books,461.49,7,Q4
+444,20,304,San Jose,California,9/2/2024,Electronics,605.52,3,Q4
+602,4,384,Chicago,Illinois,9/2/2024,Books,157.27,7,Q4
+646,1,522,San Diego,California,9/2/2024,Furniture,252.43,9,Q4
+164,7,378,San Antonio,Texas,9/3/2024,Toys,410.51,9,Q4
+354,11,349,Chicago,Illinois,9/3/2024,Books,347.57,3,Q4
+525,18,848,Philadelphia,Pennsylvania,9/3/2024,Electronics,355.21,8,Q4
+17,10,237,San Diego,California,9/4/2024,Electronics,729.39,8,Q4
+161,12,941,San Jose,California,9/4/2024,Clothing,879.65,1,Q4
+209,5,1044,Philadelphia,Pennsylvania,9/4/2024,Clothing,767.72,4,Q4
+249,4,880,San Antonio,Texas,9/4/2024,Books,713.38,6,Q4
+399,6,1030,Philadelphia,Pennsylvania,9/4/2024,Toys,805.35,6,Q4
+400,13,1059,New York,New York,9/4/2024,Clothing,717.05,10,Q4
+566,7,437,San Antonio,Texas,9/4/2024,Clothing,174.98,8,Q4
+630,4,376,Chicago,Illinois,9/4/2024,Clothing,266.16,5,Q4
+657,2,1221,Houston,Texas,9/5/2024,Toys,352.75,6,Q1
+503,7,1047,Phoenix,Arizona,9/7/2024,Clothing,152.76,8,Q1
+623,16,581,Chicago,Illinois,9/7/2024,Electronics,713.04,4,Q1
+674,15,688,San Diego,California,9/7/2024,Electronics,859.08,10,Q1
+397,9,961,San Diego,California,9/8/2024,Clothing,488.18,6,Q1
+1,3,335,Phoenix,Arizona,9/9/2024,Clothing,754.51,2,Q1
+6,17,355,San Jose,California,9/9/2024,Clothing,368.6,8,Q1
+221,12,697,Los Angeles,California,9/9/2024,Clothing,210.07,6,Q1
+9,19,1198,New York,New York,9/10/2024,Furniture,235.12,5,Q1
+152,16,1124,Philadelphia,Pennsylvania,9/10/2024,Toys,336.52,1,Q1
+659,19,1013,San Antonio,Texas,9/10/2024,Clothing,697.61,2,Q1
+187,13,696,New York,New York,9/11/2024,Furniture,856.01,4,Q1
+322,12,714,San Jose,California,9/11/2024,Books,505.08,1,Q1
+439,11,262,Philadelphia,Pennsylvania,9/11/2024,Furniture,278.74,7,Q1
+86,5,1034,Chicago,Illinois,9/12/2024,Toys,173.54,8,Q1
+123,10,1224,San Jose,California,9/12/2024,Toys,643.03,9,Q1
+630,12,159,Chicago,Illinois,9/12/2024,Electronics,534.52,9,Q1
+132,11,717,San Antonio,Texas,9/13/2024,Electronics,880.96,9,Q1
+167,18,494,San Jose,California,9/13/2024,Clothing,860.58,7,Q1
+467,19,554,Phoenix,Arizona,9/13/2024,Clothing,343.06,10,Q1
+661,15,1067,San Antonio,Texas,9/13/2024,Furniture,245.41,7,Q1
+404,10,322,Houston,Texas,9/14/2024,Clothing,508.31,6,Q1
+466,19,202,San Antonio,Texas,9/14/2024,Books,997.11,8,Q1
+527,10,651,New York,New York,9/14/2024,Clothing,880.53,4,Q1
+261,4,782,San Diego,California,9/15/2024,Electronics,582.36,9,Q1
+642,18,1109,Phoenix,Arizona,9/15/2024,Electronics,725.75,8,Q1
+28,1,936,San Diego,California,9/16/2024,Electronics,390.25,10,Q1
+103,13,72,San Antonio,Texas,9/17/2024,Clothing,926.95,7,Q1
+142,16,1033,San Antonio,Texas,9/17/2024,Furniture,371.74,2,Q2
+328,17,672,Phoenix,Arizona,9/17/2024,Toys,994.77,1,Q2
+433,19,658,San Jose,California,9/17/2024,Furniture,946.25,5,Q2
+581,10,1014,Los Angeles,California,9/17/2024,Books,250.57,3,Q2
+634,10,955,Dallas,Texas,9/17/2024,Books,614.28,5,Q2
+335,19,1201,Dallas,Texas,9/18/2024,Furniture,597.82,3,Q2
+521,19,916,San Diego,California,9/18/2024,Furniture,440.96,10,Q2
+91,5,580,Chicago,Illinois,9/19/2024,Furniture,622.29,6,Q2
+118,6,183,Dallas,Texas,9/19/2024,Furniture,421.97,2,Q2
+464,12,449,Los Angeles,California,9/19/2024,Books,175.66,7,Q2
+585,14,1057,Dallas,Texas,9/19/2024,Books,213.56,8,Q2
+97,15,790,Houston,Texas,9/20/2024,Furniture,274.24,2,Q2
+134,14,965,Dallas,Texas,9/20/2024,Furniture,907.33,2,Q2
+382,15,1113,San Antonio,Texas,9/20/2024,Furniture,832.8,8,Q2
+362,18,219,New York,New York,9/21/2024,Electronics,167.63,8,Q2
+363,20,151,San Diego,California,9/21/2024,Clothing,571.12,7,Q2
+393,18,32,Dallas,Texas,9/21/2024,Toys,719.73,10,Q2
+189,1,332,New York,New York,9/22/2024,Toys,183.89,6,Q2
+538,19,1220,Dallas,Texas,9/22/2024,Clothing,390.52,6,Q2
+655,8,286,San Antonio,Texas,9/22/2024,Electronics,962.62,3,Q2
+38,19,254,San Jose,California,9/23/2024,Books,611.84,7,Q2
+46,20,20,Phoenix,Arizona,9/23/2024,Clothing,897.21,7,Q2
+145,12,372,Philadelphia,Pennsylvania,9/23/2024,Furniture,514.53,3,Q2
+238,2,758,Chicago,Illinois,9/23/2024,Books,779.36,2,Q2
+271,3,980,Houston,Texas,9/23/2024,Books,416.93,8,Q2
+403,14,1064,Los Angeles,California,9/23/2024,Electronics,971.81,6,Q2
+611,7,541,Phoenix,Arizona,9/23/2024,Clothing,655.8,3,Q2
+13,11,326,San Antonio,Texas,9/24/2024,Clothing,840.37,3,Q2
+89,3,873,Phoenix,Arizona,9/24/2024,Clothing,244.31,9,Q2
+146,8,274,San Jose,California,9/24/2024,Clothing,187.41,2,Q2
+585,20,595,Los Angeles,California,9/24/2024,Electronics,186.12,7,Q2
+636,2,877,Chicago,Illinois,9/24/2024,Books,107.15,2,Q2
+366,19,119,Dallas,Texas,9/25/2024,Furniture,903.59,6,Q2
+527,18,289,Dallas,Texas,9/25/2024,Clothing,616,4,Q3
+667,8,480,Houston,Texas,9/25/2024,Furniture,136.21,10,Q3
+50,18,340,Los Angeles,California,9/27/2024,Clothing,446.41,6,Q3
+98,1,588,Houston,Texas,9/27/2024,Books,876.45,1,Q3
+220,2,230,Los Angeles,California,9/27/2024,Furniture,488.3,6,Q3
+64,17,1078,New York,New York,9/28/2024,Furniture,593.29,2,Q3
+228,11,51,San Diego,California,9/28/2024,Clothing,192,9,Q3
+309,10,111,Houston,Texas,9/28/2024,Toys,661.3,4,Q3
+287,9,37,Chicago,Illinois,9/29/2024,Clothing,477.68,5,Q3
+141,11,311,Houston,Texas,9/30/2024,Furniture,269.8,8,Q3
+271,10,533,Chicago,Illinois,9/30/2024,Toys,925,10,Q3
+328,16,1168,San Diego,California,9/30/2024,Books,280.05,4,Q3
+542,19,571,Los Angeles,California,9/30/2024,Furniture,491.44,1,Q3
+544,2,288,Dallas,Texas,9/30/2024,Electronics,177.18,1,Q3
+664,5,671,Chicago,Illinois,9/30/2024,Clothing,861.52,10,Q3
+556,18,726,Chicago,Illinois,10/1/2024,Toys,623.57,3,Q3
+399,3,201,San Diego,California,10/2/2024,Toys,553.51,2,Q3
+461,5,684,San Jose,California,10/2/2024,Clothing,962.26,10,Q3
+474,8,544,Philadelphia,Pennsylvania,10/2/2024,Electronics,742.09,3,Q3
+68,18,71,San Diego,California,10/3/2024,Furniture,894.34,7,Q3
+606,1,11,New York,New York,10/3/2024,Furniture,827.23,9,Q3
+538,20,869,Chicago,Illinois,10/4/2024,Clothing,202.04,5,Q3
+339,8,482,San Antonio,Texas,10/5/2024,Toys,229.81,9,Q3
+411,14,167,Phoenix,Arizona,10/5/2024,Toys,430.06,10,Q3
+646,10,661,Philadelphia,Pennsylvania,10/5/2024,Toys,650.46,10,Q3
+69,7,833,Houston,Texas,10/6/2024,Toys,308.9,3,Q3
+163,1,507,San Antonio,Texas,10/6/2024,Electronics,324.73,2,Q3
+318,19,275,San Jose,California,10/6/2024,Furniture,901.49,2,Q3
+583,1,736,Phoenix,Arizona,10/6/2024,Electronics,747.98,8,Q3
+97,14,28,Houston,Texas,10/7/2024,Electronics,312.86,4,Q3
+349,8,474,Chicago,Illinois,10/7/2024,Electronics,824.87,10,Q3
+582,10,725,San Jose,California,10/7/2024,Clothing,239,3,Q4
+18,20,56,Houston,Texas,10/9/2024,Toys,607.99,8,Q4
+135,11,527,Philadelphia,Pennsylvania,10/9/2024,Furniture,621.43,1,Q4
+152,3,346,Los Angeles,California,10/9/2024,Clothing,401.67,7,Q4
+311,8,213,New York,New York,10/9/2024,Clothing,855.52,7,Q4
+357,7,914,Chicago,Illinois,10/9/2024,Electronics,433.23,6,Q4
+524,8,1229,Houston,Texas,10/9/2024,Electronics,429.59,3,Q4
+533,9,487,New York,New York,10/9/2024,Furniture,833.44,7,Q4
+557,4,62,San Jose,California,10/9/2024,Furniture,852.7,3,Q4
+397,5,890,Philadelphia,Pennsylvania,10/10/2024,Toys,795.93,5,Q4
+439,14,212,San Jose,California,10/10/2024,Books,724.32,2,Q4
+515,12,1175,Chicago,Illinois,10/10/2024,Clothing,859.75,6,Q4
+174,12,124,Houston,Texas,10/11/2024,Books,352.22,9,Q4
+258,13,502,Phoenix,Arizona,10/11/2024,Electronics,885.2,3,Q4
+174,19,524,Los Angeles,California,10/12/2024,Books,112.75,7,Q4
+226,5,313,San Diego,California,10/12/2024,Electronics,319.93,7,Q4
+284,20,831,New York,New York,10/12/2024,Electronics,496.4,5,Q4
+614,19,735,San Diego,California,10/12/2024,Clothing,181.89,8,Q4
+36,4,1189,San Antonio,Texas,10/13/2024,Clothing,511.23,4,Q4
+45,19,1111,Philadelphia,Pennsylvania,10/13/2024,Clothing,873.54,5,Q4
+332,3,549,New York,New York,10/13/2024,Books,826.51,7,Q4
+35,9,38,Philadelphia,Pennsylvania,10/14/2024,Toys,689.75,3,Q4
+238,7,1143,San Jose,California,10/15/2024,Clothing,388.01,9,Q4
+47,11,739,Dallas,Texas,10/16/2024,Furniture,579.24,8,Q4
+166,7,1072,San Diego,California,10/16/2024,Furniture,852.17,1,Q4
+241,16,426,New York,New York,10/16/2024,Books,558.73,3,Q4
+347,3,381,San Jose,California,10/16/2024,Electronics,543.21,9,Q4
+490,17,95,New York,New York,10/16/2024,Furniture,322.36,7,Q1
+536,6,634,Los Angeles,California,10/16/2024,Furniture,394.65,7,Q1
+276,13,1231,Philadelphia,Pennsylvania,10/17/2024,Books,964.43,10,Q1
+428,15,1162,San Jose,California,10/17/2024,Toys,957.14,8,Q1
+520,5,994,San Antonio,Texas,10/17/2024,Books,134.9,9,Q1
+46,9,928,Phoenix,Arizona,10/18/2024,Toys,645.92,8,Q1
+56,7,1172,Philadelphia,Pennsylvania,10/18/2024,Clothing,326.86,3,Q1
+252,5,1076,San Antonio,Texas,10/18/2024,Clothing,649.32,10,Q1
+505,19,845,Phoenix,Arizona,10/18/2024,Toys,712.67,2,Q1
+551,1,868,Philadelphia,Pennsylvania,10/18/2024,Clothing,894.99,1,Q1
+240,1,977,Los Angeles,California,10/19/2024,Books,152.58,7,Q1
+594,4,1181,Houston,Texas,10/19/2024,Clothing,471.6,6,Q1
+76,12,306,Chicago,Illinois,10/20/2024,Toys,766.63,7,Q1
+136,17,1238,Houston,Texas,10/20/2024,Furniture,304.83,10,Q1
+483,8,404,Chicago,Illinois,10/20/2024,Clothing,840.02,9,Q1
+550,6,689,New York,New York,10/20/2024,Clothing,567.48,7,Q1
+422,10,285,Houston,Texas,10/21/2024,Furniture,132.86,10,Q1
+434,12,646,Dallas,Texas,10/21/2024,Toys,688.26,5,Q1
+522,3,990,New York,New York,10/21/2024,Books,633.74,8,Q1
+121,10,1199,San Jose,California,10/22/2024,Furniture,638.32,6,Q1
+592,4,297,Dallas,Texas,10/22/2024,Electronics,770.52,4,Q1
+69,6,849,Phoenix,Arizona,10/23/2024,Furniture,949.15,5,Q1
+171,7,77,Dallas,Texas,10/23/2024,Electronics,896.95,8,Q1
+391,9,856,Los Angeles,California,10/23/2024,Toys,626.48,8,Q1
+241,12,255,San Diego,California,10/24/2024,Books,499.43,9,Q1
+294,4,686,Dallas,Texas,10/24/2024,Furniture,308.21,9,Q1
+422,13,621,Houston,Texas,10/24/2024,Toys,334.63,1,Q1
+424,4,296,Houston,Texas,10/24/2024,Clothing,351.4,7,Q1
+433,8,320,Chicago,Illinois,10/24/2024,Furniture,520.95,9,Q1
+472,6,1202,San Antonio,Texas,10/24/2024,Clothing,126.96,1,Q1
+513,10,244,San Jose,California,10/24/2024,Electronics,591.35,2,Q1
+559,7,1026,Houston,Texas,10/24/2024,Electronics,395.9,4,Q1
+681,16,1182,Philadelphia,Pennsylvania,10/24/2024,Books,784.01,4,Q2
+9,1,883,Houston,Texas,10/25/2024,Electronics,997.54,1,Q2
+18,12,427,New York,New York,10/25/2024,Toys,774.76,1,Q2
+24,1,392,Los Angeles,California,10/25/2024,Furniture,740.62,3,Q2
+262,15,178,San Jose,California,10/26/2024,Furniture,872.65,5,Q2
+498,16,780,Dallas,Texas,10/26/2024,Furniture,659.06,9,Q2
+612,2,909,San Jose,California,10/26/2024,Furniture,791.69,6,Q2
+112,14,902,Philadelphia,Pennsylvania,10/27/2024,Clothing,742.33,9,Q2
+559,16,747,New York,New York,10/27/2024,Clothing,515.23,8,Q2
+660,11,295,Los Angeles,California,10/27/2024,Toys,869.33,2,Q2
+210,2,88,San Jose,California,10/28/2024,Electronics,108.87,6,Q2
+653,6,9,San Diego,California,10/28/2024,Furniture,431.27,1,Q2
+124,18,276,Dallas,Texas,10/29/2024,Furniture,122.77,6,Q2
+472,20,863,Houston,Texas,10/29/2024,Books,492.57,3,Q2
+546,19,172,San Diego,California,10/29/2024,Toys,254.92,8,Q2
+550,8,464,Dallas,Texas,10/29/2024,Clothing,586.97,1,Q2
+623,9,196,Phoenix,Arizona,10/29/2024,Clothing,908.14,7,Q2
+143,5,92,San Antonio,Texas,10/30/2024,Electronics,973.29,5,Q2
+173,13,1032,San Diego,California,10/30/2024,Clothing,417.94,5,Q2
+519,8,138,Philadelphia,Pennsylvania,10/30/2024,Toys,754.8,6,Q2
+596,16,283,San Jose,California,10/30/2024,Books,893.48,1,Q2
+658,16,732,Los Angeles,California,10/30/2024,Clothing,346.76,1,Q2
+63,2,1012,San Jose,California,10/31/2024,Clothing,980.19,4,Q2
+212,13,952,San Antonio,Texas,10/31/2024,Clothing,985.27,10,Q2
+300,5,246,Dallas,Texas,10/31/2024,Toys,691.82,2,Q2
+315,15,347,New York,New York,10/31/2024,Electronics,969.66,9,Q2
+106,11,65,Philadelphia,Pennsylvania,11/1/2024,Clothing,171.65,6,Q2
+353,7,959,Houston,Texas,11/1/2024,Toys,506.89,4,Q2
+379,19,1161,Dallas,Texas,11/1/2024,Electronics,502.37,7,Q2
+482,4,87,Phoenix,Arizona,11/1/2024,Toys,121.54,3,Q2
+500,14,1225,Philadelphia,Pennsylvania,11/1/2024,Books,772.37,6,Q2
+118,3,623,San Jose,California,11/2/2024,Books,891.91,9,Q2
+341,3,408,Chicago,Illinois,11/2/2024,Clothing,972.97,5,Q2
+468,13,1112,Dallas,Texas,11/2/2024,Electronics,726.47,9,Q2
+660,10,370,San Jose,California,11/2/2024,Books,135.44,9,Q2
+154,1,540,San Antonio,Texas,11/3/2024,Clothing,277.85,10,Q2
+323,15,415,Los Angeles,California,11/3/2024,Electronics,635.18,9,Q2
+378,17,240,Phoenix,Arizona,11/3/2024,Electronics,378.63,5,Q2
+422,9,1120,New York,New York,11/3/2024,Books,963.97,9,Q2
+643,1,186,Chicago,Illinois,11/3/2024,Electronics,199.84,10,Q3
+661,18,216,Phoenix,Arizona,11/3/2024,Furniture,530.82,1,Q3
+672,13,388,Dallas,Texas,11/3/2024,Clothing,215.87,9,Q3
+131,20,579,New York,New York,11/4/2024,Clothing,148.18,7,Q3
+208,13,648,Houston,Texas,11/4/2024,Clothing,480.78,5,Q3
+430,1,1015,Houston,Texas,11/4/2024,Toys,990.79,3,Q3
+509,10,547,New York,New York,11/4/2024,Electronics,955.75,4,Q3
+513,17,967,Houston,Texas,11/4/2024,Clothing,752.95,3,Q3
+677,4,536,Houston,Texas,11/4/2024,Furniture,796.31,8,Q3
+19,18,950,San Jose,California,11/6/2024,Toys,789.11,3,Q3
+96,6,932,Los Angeles,California,11/6/2024,Books,209.53,4,Q3
+295,4,233,New York,New York,11/6/2024,Books,753.15,3,Q3
+582,15,838,Los Angeles,California,11/7/2024,Furniture,329.25,2,Q3
+591,2,756,Dallas,Texas,11/7/2024,Clothing,738.91,8,Q3
+193,14,345,San Diego,California,11/8/2024,Furniture,640.85,4,Q3
+94,20,147,Philadelphia,Pennsylvania,11/9/2024,Furniture,527.92,1,Q3
+410,12,614,New York,New York,11/9/2024,Furniture,235.93,3,Q3
+518,12,1100,Los Angeles,California,11/9/2024,Toys,609.92,5,Q3
+548,15,1083,Philadelphia,Pennsylvania,11/9/2024,Books,792.11,5,Q3
+317,11,1127,New York,New York,11/10/2024,Toys,233.85,3,Q3
+518,1,707,Chicago,Illinois,11/10/2024,Electronics,431.53,9,Q3
+602,10,1006,Chicago,Illinois,11/10/2024,Electronics,869.17,3,Q3
+659,4,923,Los Angeles,California,11/10/2024,Electronics,798.7,3,Q3
+12,11,386,Dallas,Texas,11/11/2024,Books,815.72,4,Q3
+252,7,498,Dallas,Texas,11/11/2024,Books,275.14,10,Q3
+285,8,1147,Chicago,Illinois,11/11/2024,Books,751.36,7,Q3
+463,1,960,Chicago,Illinois,11/11/2024,Books,431.42,10,Q3
+630,7,1121,Phoenix,Arizona,11/11/2024,Furniture,959.81,7,Q3
+475,16,226,San Jose,California,11/12/2024,Furniture,923.65,2,Q3
+191,8,920,Philadelphia,Pennsylvania,11/13/2024,Furniture,568.46,4,Q4
+237,14,58,San Jose,California,11/13/2024,Toys,471.12,2,Q4
+457,14,887,San Antonio,Texas,11/13/2024,Clothing,413.41,5,Q4
+287,4,791,Houston,Texas,11/14/2024,Clothing,491.67,10,Q4
+336,7,1183,Philadelphia,Pennsylvania,11/14/2024,Furniture,429.5,4,Q4
+386,18,107,San Jose,California,11/14/2024,Furniture,262.4,6,Q4
+570,13,786,San Antonio,Texas,11/14/2024,Toys,845.69,10,Q4
+480,11,495,Phoenix,Arizona,11/15/2024,Electronics,167.38,9,Q4
+229,11,263,Chicago,Illinois,11/16/2024,Toys,305.86,8,Q4
+544,6,1140,New York,New York,11/16/2024,Electronics,712.36,10,Q4
+75,11,344,San Diego,California,11/17/2024,Toys,796.29,9,Q4
+336,18,530,Philadelphia,Pennsylvania,11/17/2024,Clothing,101.31,4,Q4
+517,4,528,Chicago,Illinois,11/17/2024,Toys,858.73,5,Q4
+632,5,618,San Antonio,Texas,11/17/2024,Electronics,235.46,8,Q4
+32,4,103,San Antonio,Texas,11/18/2024,Toys,175.99,9,Q4
+69,9,774,San Jose,California,11/18/2024,Books,707.17,5,Q4
+205,4,168,San Antonio,Texas,11/18/2024,Clothing,185.24,10,Q4
+427,2,1074,Chicago,Illinois,11/18/2024,Books,232.76,5,Q4
+559,5,294,Chicago,Illinois,11/18/2024,Furniture,388.17,1,Q4
+47,1,875,San Diego,California,11/19/2024,Furniture,186.89,2,Q4
+131,18,15,Dallas,Texas,11/19/2024,Clothing,883.5,4,Q4
+144,5,1170,Philadelphia,Pennsylvania,11/19/2024,Electronics,298.92,6,Q4
+687,20,483,Philadelphia,Pennsylvania,11/19/2024,Books,224.67,9,Q4
+688,3,1099,New York,New York,11/19/2024,Books,906.24,1,Q4
+349,6,1056,Los Angeles,California,11/20/2024,Toys,271.12,4,Q4
+385,5,839,Philadelphia,Pennsylvania,11/20/2024,Furniture,730.56,6,Q4
+624,4,358,Los Angeles,California,11/20/2024,Electronics,404,5,Q4
+672,19,853,New York,New York,11/20/2024,Clothing,486.58,4,Q1
+684,18,798,San Diego,California,11/20/2024,Clothing,633.3,3,Q1
+108,12,113,Houston,Texas,11/21/2024,Toys,527.95,6,Q1
+285,19,983,Phoenix,Arizona,11/21/2024,Electronics,153.75,10,Q1
+182,5,1054,San Jose,California,11/22/2024,Toys,925.09,2,Q1
+603,19,1141,Los Angeles,California,11/22/2024,Books,846.9,2,Q1
+678,17,120,Houston,Texas,11/22/2024,Furniture,278.16,10,Q1
+100,8,176,Los Angeles,California,11/23/2024,Clothing,143.46,9,Q1
+544,1,63,San Jose,California,11/23/2024,Clothing,778.87,2,Q1
+210,4,639,Dallas,Texas,11/24/2024,Clothing,279.07,4,Q1
+226,9,543,Philadelphia,Pennsylvania,11/24/2024,Toys,496.58,10,Q1
+266,9,1045,Houston,Texas,11/24/2024,Books,746.49,10,Q1
+408,10,333,New York,New York,11/24/2024,Clothing,869.96,5,Q1
+525,1,1244,San Diego,California,11/24/2024,Toys,282.4,5,Q1
+74,14,1240,New York,New York,11/25/2024,Electronics,763.97,6,Q1
+253,7,330,Philadelphia,Pennsylvania,11/25/2024,Clothing,670.48,8,Q1
+499,13,448,San Jose,California,11/25/2024,Clothing,894.15,8,Q1
+569,6,1217,New York,New York,11/25/2024,Clothing,372.94,9,Q1
+641,12,44,San Diego,California,11/25/2024,Clothing,125.63,1,Q1
+544,12,643,San Antonio,Texas,11/26/2024,Clothing,764.77,7,Q1
+438,13,749,San Jose,California,11/27/2024,Books,154.26,9,Q1
+599,10,86,Dallas,Texas,11/27/2024,Toys,940.88,9,Q1
+74,14,1086,San Diego,California,11/28/2024,Electronics,393.89,6,Q1
+342,11,174,Los Angeles,California,11/28/2024,Books,291.08,2,Q1
+93,16,75,San Antonio,Texas,11/29/2024,Books,138.36,1,Q1
+166,2,974,Phoenix,Arizona,11/29/2024,Books,521.66,9,Q1
+247,11,273,San Diego,California,11/29/2024,Furniture,434.61,7,Q1
+582,6,1129,San Antonio,Texas,11/29/2024,Clothing,293.78,4,Q1
+62,7,810,Dallas,Texas,11/30/2024,Toys,836.66,4,Q1
+139,13,106,San Antonio,Texas,11/30/2024,Toys,253.41,1,Q1
+170,16,874,Houston,Texas,11/30/2024,Electronics,698.64,3,Q1
+212,4,215,New York,New York,11/30/2024,Clothing,216.29,9,Q1
+299,8,659,San Diego,California,11/30/2024,Electronics,997.84,10,Q1
+374,2,1160,Houston,Texas,11/30/2024,Electronics,736.39,3,Q1
+255,13,866,Phoenix,Arizona,12/1/2024,Electronics,903.73,5,Q1
+651,11,981,San Jose,California,12/1/2024,Furniture,116.27,6,Q1
+11,19,893,San Antonio,Texas,12/2/2024,Toys,279.68,8,Q1
+484,4,93,Houston,Texas,12/2/2024,Books,289.26,3,Q1
+596,8,34,Phoenix,Arizona,12/2/2024,Electronics,854.71,4,Q2
+616,11,642,Phoenix,Arizona,12/2/2024,Furniture,618.77,5,Q2
+403,15,1028,New York,New York,12/3/2024,Furniture,226.32,10,Q2
+349,18,104,Philadelphia,Pennsylvania,12/4/2024,Furniture,929.13,2,Q2
+555,9,69,Houston,Texas,12/4/2024,Toys,810.63,9,Q2
+659,4,169,San Antonio,Texas,12/4/2024,Electronics,287.51,6,Q2
+502,16,300,Los Angeles,California,12/5/2024,Electronics,326.9,7,Q2
+208,6,1241,New York,New York,12/6/2024,Electronics,668.38,6,Q2
+235,19,402,New York,New York,12/6/2024,Toys,726.74,6,Q2
+455,15,143,Phoenix,Arizona,12/6/2024,Books,775.62,1,Q2
+201,13,1055,San Jose,California,12/7/2024,Books,518.38,2,Q2
+433,13,718,San Jose,California,12/8/2024,Clothing,749.43,2,Q2
+276,19,338,Philadelphia,Pennsylvania,12/9/2024,Electronics,247.62,3,Q2
+373,11,871,Dallas,Texas,12/9/2024,Furniture,750.98,4,Q2
+431,4,78,Chicago,Illinois,12/9/2024,Furniture,165.89,7,Q2
+601,14,229,San Diego,California,12/9/2024,Books,417.03,1,Q2
+57,14,268,Los Angeles,California,12/10/2024,Books,525.68,7,Q2
+322,2,626,Philadelphia,Pennsylvania,12/10/2024,Toys,238.64,8,Q2
+597,15,414,Los Angeles,California,12/10/2024,Books,256.9,2,Q2
+53,19,949,Los Angeles,California,12/11/2024,Electronics,841.66,9,Q2
+216,12,1163,New York,New York,12/11/2024,Toys,561.74,3,Q2
+325,17,645,San Jose,California,12/11/2024,Furniture,959.82,5,Q2
+36,11,832,New York,New York,12/12/2024,Toys,294.9,7,Q2
+124,16,945,Phoenix,Arizona,12/12/2024,Clothing,774.71,6,Q2
+177,16,110,Los Angeles,California,12/12/2024,Clothing,654.76,4,Q2
+341,12,488,Dallas,Texas,12/12/2024,Toys,778.33,3,Q2
+445,14,992,Phoenix,Arizona,12/12/2024,Electronics,597.96,5,Q3
+646,11,472,Los Angeles,California,12/12/2024,Toys,821.71,8,Q3
+181,11,316,Dallas,Texas,12/13/2024,Clothing,264.3,9,Q3
+285,7,841,Chicago,Illinois,12/13/2024,Electronics,399.4,6,Q3
+346,4,525,Los Angeles,California,12/13/2024,Toys,559.7,8,Q3
+469,4,430,Philadelphia,Pennsylvania,12/13/2024,Electronics,622.48,1,Q3
+577,12,687,New York,New York,12/13/2024,Furniture,672.83,8,Q3
+656,10,653,San Antonio,Texas,12/13/2024,Clothing,842.02,4,Q3
+96,11,366,Chicago,Illinois,12/14/2024,Furniture,161.87,10,Q3
+127,4,695,San Antonio,Texas,12/14/2024,Furniture,992.92,10,Q3
+175,11,1207,Chicago,Illinois,12/14/2024,Furniture,268.61,8,Q3
+216,2,538,Los Angeles,California,12/14/2024,Toys,388.36,9,Q3
+250,20,323,Chicago,Illinois,12/14/2024,Furniture,638.18,10,Q3
+301,7,1096,San Diego,California,12/14/2024,Electronics,522.85,5,Q3
+380,4,737,Houston,Texas,12/14/2024,Electronics,926.38,7,Q3
+492,1,1117,San Jose,California,12/14/2024,Clothing,252.12,5,Q3
+502,7,765,Houston,Texas,12/14/2024,Electronics,179.84,10,Q3
+26,1,852,Los Angeles,California,12/15/2024,Furniture,414.04,9,Q3
+166,3,1243,San Antonio,Texas,12/15/2024,Clothing,418.03,2,Q3
+351,20,825,New York,New York,12/15/2024,Toys,960.1,5,Q3
+424,14,988,Phoenix,Arizona,12/15/2024,Books,483.26,6,Q3
+504,19,861,Chicago,Illinois,12/15/2024,Electronics,897.84,2,Q3
+512,3,164,San Diego,California,12/15/2024,Furniture,458.04,3,Q3
+470,16,55,Houston,Texas,12/16/2024,Clothing,408.2,8,Q3
+616,13,10,Phoenix,Arizona,12/16/2024,Furniture,865.28,3,Q3
+661,20,447,New York,New York,12/16/2024,Clothing,966.52,8,Q3
+146,19,177,Los Angeles,California,12/17/2024,Clothing,126.95,3,Q3
+160,13,192,San Diego,California,12/17/2024,Furniture,470.16,8,Q3
+354,1,468,San Antonio,Texas,12/17/2024,Clothing,838.68,7,Q3
+312,20,1126,Houston,Texas,12/18/2024,Toys,986.85,1,Q3
+567,6,1249,San Antonio,Texas,12/18/2024,Electronics,183.94,7,Q3
+24,18,161,Philadelphia,Pennsylvania,12/19/2024,Books,226.55,6,Q4
+208,9,734,San Antonio,Texas,12/19/2024,Furniture,311.34,8,Q4
+267,6,799,San Diego,California,12/19/2024,Electronics,546.77,4,Q4
+152,2,145,Philadelphia,Pennsylvania,12/20/2024,Books,643.53,5,Q4
+672,5,742,San Diego,California,12/20/2024,Clothing,513.53,3,Q4
+350,9,90,Phoenix,Arizona,12/21/2024,Books,377.92,8,Q4
+489,11,163,San Jose,California,12/22/2024,Furniture,780.87,7,Q4
+688,9,52,Chicago,Illinois,12/22/2024,Toys,283.68,3,Q4
+200,6,972,New York,New York,12/23/2024,Furniture,645.91,9,Q4
+227,8,21,Phoenix,Arizona,12/23/2024,Furniture,902.7,4,Q4
+293,8,207,New York,New York,12/23/2024,Electronics,895.97,1,Q4
+386,3,1185,San Jose,California,12/23/2024,Electronics,816.57,1,Q4
+394,15,1087,San Jose,California,12/23/2024,Toys,480.21,1,Q4
+502,19,606,Los Angeles,California,12/23/2024,Furniture,462.88,8,Q4
+563,15,865,Dallas,Texas,12/23/2024,Clothing,786.94,5,Q4
+28,14,506,New York,New York,12/24/2024,Electronics,504.39,5,Q4
+228,3,532,San Antonio,Texas,12/24/2024,Books,401.8,8,Q4
+345,11,519,San Diego,California,12/24/2024,Books,196.99,1,Q4
+226,7,675,San Jose,California,12/25/2024,Furniture,536.06,3,Q4
+401,20,1158,Dallas,Texas,12/25/2024,Toys,532.16,10,Q4
+504,16,317,Chicago,Illinois,12/25/2024,Furniture,608.88,10,Q4
+579,3,510,Chicago,Illinois,12/25/2024,Books,242.4,9,Q4
+53,20,828,San Diego,California,12/26/2024,Electronics,301.62,5,Q4
+235,2,862,Houston,Texas,12/26/2024,Electronics,786.29,2,Q4
+418,4,141,San Diego,California,12/26/2024,Furniture,850.91,4,Q4
+472,2,807,Philadelphia,Pennsylvania,12/26/2024,Clothing,846.9,2,Q4
+513,17,1107,Phoenix,Arizona,12/26/2024,Furniture,250.3,8,Q4
+661,18,716,Houston,Texas,12/26/2024,Clothing,616.83,1,Q4
+15,6,1042,New York,New York,12/27/2024,Toys,904.84,10,Q4
+171,17,775,Los Angeles,California,12/27/2024,Electronics,286.2,10,Q4
+413,2,399,Philadelphia,Pennsylvania,12/27/2024,Electronics,668.25,9,Q4
+377,12,564,Philadelphia,Pennsylvania,12/29/2024,Toys,926.26,4,Q4
+454,3,1212,Philadelphia,Pennsylvania,12/29/2024,Books,120.14,4,Q4
+561,3,479,Philadelphia,Pennsylvania,12/29/2024,Toys,382.35,5,Q4
+600,5,647,San Jose,California,12/29/2024,Furniture,705.01,6,Q4
+615,11,669,Phoenix,Arizona,12/29/2024,Books,993.55,4,Q4
+421,5,272,Phoenix,Arizona,12/30/2024,Furniture,788.13,4,Q4

@@ -45,7 +45,19 @@ cells:
     metadata: {}
   - kind: 2
     languageId: sql
-    value: ""
+    value: "Select Concat(\"First Name\", ' ', \"Last Name\") as \"Full Name\"\r
+
+      from student_information;"
+    metadata: {}
+  - kind: 2
+    languageId: sql
+    value: "Select *\r\nfrom student_information;"
+    metadata: {}
+  - kind: 2
+    languageId: sql
+    value: "Select Lower(\"Gender\") as Lgender, Upper(\"Gender\") as Ugender\r
+
+      From student_information;"
     metadata: {}
 metadata:
   conn:
