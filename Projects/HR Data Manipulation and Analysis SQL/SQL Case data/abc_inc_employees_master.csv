@@ -1,0 +1,1001 @@
+employee_id,full_name,gender,department,job_title,employment_type,location,hire_date,monthly_salary_bdt,manager_id
+E0001,Lamia Talukder,Female,Sales,Sales Associate,Full-time,Khulna,2017-02-10,97605,
+E0002,Ayesha Hasan,Male,Customer Success,Support Specialist,Intern,Khulna,2023-09-09,57499,E0890
+E0003,Sajid Rasheed,Male,Finance,Finance Manager,Full-time,Remote,2020-02-13,136659,E0990
+E0004,Shawon Rana,Male,HR,HR Business Partner,Full-time,Sylhet,2022-02-08,115085,E0982
+E0005,Zahid Morshed,Female,Engineering,DevOps Engineer,Full-time,Dhaka,2023-03-26,164000,E0741
+E0006,Rashed Uddin,Female,Engineering,QA Engineer,Full-time,Dhaka,2020-01-09,113810,E0775
+E0007,Karim Islam,Female,Engineering,QA Engineer,Contract,Sylhet,2016-09-05,148804,E0102
+E0008,Imran Ferdous,Male,Operations,Operations Manager,Full-time,Khulna,2020-06-18,163417,E0646
+E0009,Ayesha Biswas,Male,HR,HR Associate,Full-time,Dhaka,2019-02-04,59023,E0314
+E0010,Mitu Haider,Male,Finance,Financial Analyst,Full-time,Chattogram,2018-02-16,184800,E0380
+E0011,Lamia Ferdous,Male,Engineering,Software Engineer,Intern,Remote,2017-05-15,76400,E0648
+E0012,Sumaiya Parvin,Male,Customer Success,Customer Success Manager,Full-time,Dhaka,2025-07-05,91466,E0816
+E0013,Priya Mahmud,Male,Operations,Operations Manager,Contract,Khulna,2025-03-29,144623,E0396
+E0014,Sumaiya Sultana,Male,Engineering,Junior Software Engineer,Full-time,Khulna,2021-02-05,97343,E0270
+E0015,Tania Anjum,Female,Engineering,QA Engineer,Full-time,Dhaka,2017-01-10,221527,E0123
+E0016,Rashed Sadiq,Male,Engineering,Engineering Manager,Full-time,Remote,2023-06-07,169776,E0648
+E0017,Tasnim Sharmin,Male,Product,Product Analyst,Full-time,Dhaka,2018-05-18,227464,E0783
+E0018,Noman Biswas,Female,Marketing,Growth Marketer,Full-time,Rajshahi,2023-03-13,73216,E0893
+E0019,Nabila Rahman,Female,Sales,Sales Manager,Full-time,Dhaka,2023-03-04,116055,E0917
+E0020,Imran Kabir,Male,Product,Product Analyst,Full-time,Rajshahi,2022-09-11,188711,E0777
+E0021,Karim Banu,Female,HR,HR Business Partner,Contract,Sylhet,2016-03-28,63778,E0665
+E0022,Tamanna Sarker,Female,Engineering,Software Engineer,Contract,Khulna,2016-07-26,215065,E0190
+E0023,Arif Akter,Male,Product,Senior Product Manager,Contract,Rajshahi,2024-10-27,122086,E0270
+E0024,Esha Miah,Male,Sales,Sales Manager,Full-time,Dhaka,2019-09-28,141478,E0989
+E0025,Fahim Amin,Female,Sales,Sales Manager,Full-time,Sylhet,2018-09-24,131411,E0756
+E0026,Tasnim Chowdhury,Male,Operations,Supply Chain Analyst,Full-time,Khulna,2017-05-30,104751,E0161
+E0027,Tania Uddin,Male,Engineering,DevOps Engineer,Full-time,Remote,2024-10-28,218329,E0741
+E0028,Rashed Rahman,Male,Marketing,SEO Specialist,Full-time,Dhaka,2022-05-01,157690,E0755
+E0029,Sadia Hasan,Female,HR,Recruiter,Full-time,Dhaka,2018-04-20,141183,E0356
+E0030,Zahid Hossain,Female,Engineering,DevOps Engineer,Full-time,Khulna,2016-10-08,99920,E0630
+E0031,Rafi Amin,Female,HR,HR Associate,Full-time,Rajshahi,2025-04-21,78647,E0699
+E0032,Ayesha Rana,Female,Engineering,Senior Software Engineer,Contract,Sylhet,2024-07-31,233085,E0709
+E0033,Jannat Morshed,Male,Engineering,Software Engineer,Full-time,Remote,2022-03-20,153390,E0893
+E0034,Mahin Islam,Non-binary,Customer Success,Support Associate,Full-time,Chattogram,2018-04-28,105962,E0938
+E0035,Fahim Biswas,Male,Customer Success,Support Associate,Full-time,Dhaka,2022-07-29,116624,E0865
+E0036,Zahid Banu,Female,Operations,Supply Chain Analyst,Full-time,Chattogram,2018-06-03,77427,
+E0037,Shawon Anjum,Female,Product,Associate Product Manager,Contract,Dhaka,2025-02-12,317015,E0380
+E0038,Mahin Miah,Female,Engineering,QA Engineer,Full-time,Rajshahi,2018-08-12,206071,E0701
+E0039,Sadia Biswas,Female,Finance,Accounts Executive,Contract,Rajshahi,2019-09-07,132584,
+E0040,Shafiq Sadiq,Female,Sales,Account Executive,Full-time,Rajshahi,2024-09-06,74566,E0849
+E0041,Noman Khan,Female,Engineering,Senior Software Engineer,Full-time,Khulna,2017-08-27,164307,E0251
+E0042,Esha Amin,Male,Marketing,SEO Specialist,Full-time,Khulna,2024-11-04,143885,E0141
+E0043,Ovi Islam,Male,Engineering,Software Engineer,Full-time,Remote,2022-09-07,151772,E0736
+E0044,Fahim Jahan,Male,Customer Success,Support Specialist,Full-time,Rajshahi,2016-01-12,72635,E0186
+E0045,Rahim Akter,Male,Product,Senior Product Manager,Full-time,Chattogram,2019-02-09,228086,E0025
+E0046,Mitu Sharmin,Male,HR,HR Business Partner,Full-time,Rajshahi,2025-08-17,117000,E0456
+E0047,Noman Amin,Male,Product,Product Analyst,Full-time,Rajshahi,2017-08-15,104908,E0927
+E0048,Tania Ahmed,Male,Marketing,Marketing Associate,Full-time,Khulna,2017-06-16,134577,E0592
+E0049,Tasnim Shah,Female,Marketing,Marketing Manager,Full-time,Chattogram,2022-01-21,211918,E0783
+E0050,Rahim Rasheed,Male,Engineering,Junior Software Engineer,Full-time,Dhaka,2018-10-23,173897,E0383
+E0051,Noman Sultana,Male,Customer Success,Customer Success Manager,Contract,Remote,2024-12-14,121481,E0849
+E0052,Noman Hossain,Male,Operations,Supply Chain Analyst,Full-time,Remote,2017-12-15,158063,E0742
+E0053,Shawon Akter,Male,Customer Success,Customer Success Manager,Full-time,Sylhet,2017-03-26,173570,E0701
+E0054,Tamanna Rahman,Female,Operations,Operations Manager,Full-time,Dhaka,2023-05-31,147590,
+E0055,Tania Amin,Female,HR,HR Manager,Full-time,Sylhet,2016-04-15,138544,E0425
+E0056,Sadia Rasheed,Female,Customer Success,Support Associate,Full-time,Rajshahi,2017-06-23,89940,E0728
+E0057,Shawon Miah,Male,Engineering,QA Engineer,Full-time,Rajshahi,2016-03-01,209299,E0580
+E0058,Ayesha Parvin,Female,Engineering,Software Engineer,Full-time,Remote,2020-01-07,96715,
+E0059,Sadia Miah,Male,Engineering,Senior Software Engineer,Full-time,Remote,2024-11-09,165688,E0184
+E0060,Nafiz Morshed,Male,Sales,Senior Account Executive,Full-time,Remote,2024-11-03,95553,E0839
+E0061,Fahim Biswas,Non-binary,Sales,Sales Manager,Full-time,Dhaka,2018-09-01,225796,E0453
+E0062,Fahim Hasan,Female,Product,Senior Product Manager,Full-time,Remote,2022-08-08,164207,E0980
+E0063,Tasnim Alam,Female,Operations,Operations Manager,Full-time,Rajshahi,2019-08-19,157208,E0756
+E0064,Lamia Biswas,Female,Sales,Account Executive,Full-time,Sylhet,2016-03-05,205545,E0797
+E0065,Sadia Akter,Female,Product,Associate Product Manager,Contract,Khulna,2017-12-14,331486,E0782
+E0066,Ovi Khan,Female,Marketing,SEO Specialist,Intern,Khulna,2018-12-22,134863,E0831
+E0067,Imran Islam,Male,Engineering,Software Engineer,Full-time,Remote,2016-08-02,96418,E0179
+E0068,Sumaiya Alam,Male,Operations,Operations Associate,Full-time,Khulna,2017-06-03,117217,E0161
+E0069,Tania Ahmed,Male,Engineering,Software Engineer,Full-time,Dhaka,2024-04-26,119297,E0065
+E0070,Priya Talukder,Male,Customer Success,Support Associate,Full-time,Dhaka,2020-09-20,96180,E0159
+E0071,Mahin Khan,Male,Operations,Operations Associate,Full-time,Chattogram,2021-11-24,69424,E0109
+E0072,Fahim Talukder,Female,Engineering,Software Engineer,Full-time,Dhaka,2017-04-10,125767,E0428
+E0073,Arif Talukder,Female,Engineering,Junior Software Engineer,Full-time,Dhaka,2024-05-12,171120,E0239
+E0074,Shawon Alam,Male,Operations,Operations Associate,Full-time,Khulna,2016-09-17,73342,E0630
+E0075,Shafiq Sharmin,Female,Finance,Finance Manager,Full-time,Rajshahi,2021-05-04,126028,E0008
+E0076,Rashed Miah,Male,Finance,Financial Analyst,Full-time,Rajshahi,2021-01-10,84403,E0755
+E0077,Sajid Sarker,Female,Operations,Supply Chain Analyst,Full-time,Rajshahi,2024-09-21,58098,E0045
+E0078,Sumaiya Hossain,Male,Engineering,QA Engineer,Full-time,Sylhet,2020-01-22,173927,E0314
+E0079,Tasnim Sultana,Male,Sales,Sales Associate,Contract,Khulna,2021-10-03,149187,E0831
+E0080,Tamanna Biswas,Male,Engineering,Engineering Manager,Full-time,Dhaka,2022-08-28,278581,E0657
+E0081,Lamia Akter,Female,Operations,Operations Manager,Full-time,Rajshahi,2017-03-22,75559,E0278
+E0082,Rahim Islam,Male,HR,HR Associate,Full-time,Rajshahi,2021-01-25,84502,E0617
+E0083,Ayesha Banu,Female,Sales,Account Executive,Full-time,Chattogram,2021-08-25,152331,E0063
+E0084,Tamanna Rasheed,Female,Engineering,DevOps Engineer,Full-time,Chattogram,2018-06-26,195944,E0310
+E0085,Rahim Khan,Male,Product,Senior Product Manager,Full-time,Rajshahi,2022-11-24,268922,E0172
+E0086,Mitu Rahman,Male,Sales,Account Executive,Full-time,Chattogram,2016-06-26,198013,E0849
+E0087,Karim Kabir,Prefer not to say,Finance,Senior Financial Analyst,Full-time,Khulna,2024-02-26,266602,E0420
+E0088,Mitu Chowdhury,Male,HR,HR Associate,Full-time,Rajshahi,2024-10-13,136974,E0404
+E0089,Nabila Sultana,Male,Operations,Operations Manager,Full-time,Sylhet,2023-05-22,127230,
+E0090,Tamanna Parvin,Male,Marketing,Marketing Associate,Contract,Rajshahi,2021-11-05,147356,E0196
+E0091,Nafiz Ferdous,Male,Engineering,Engineering Manager,Full-time,Remote,2019-05-20,161402,E0330
+E0092,Nabila Sharmin,Female,Finance,Senior Financial Analyst,Intern,Khulna,2021-02-19,233536,E0197
+E0093,Rafi Sultana,Female,Finance,Senior Financial Analyst,Full-time,Dhaka,2023-03-20,257374,E0657
+E0094,Arif Miah,Male,Marketing,Growth Marketer,Full-time,Khulna,2016-05-07,91158,E0592
+E0095,Shawon Ferdous,Male,Operations,Operations Associate,Full-time,Khulna,2016-09-06,106333,E0684
+E0096,Fahim Sharmin,Male,Marketing,Marketing Associate,Full-time,Remote,2021-05-15,75235,
+E0097,Sadia Rasheed,Prefer not to say,Marketing,Marketing Associate,Contract,Dhaka,2025-07-02,60785,E0453
+E0098,Rashed Talukder,Male,Sales,Sales Associate,Full-time,Dhaka,2020-07-03,55786,E0672
+E0099,Karim Shah,Non-binary,Engineering,DevOps Engineer,Full-time,Sylhet,2020-10-12,134271,E0663
+E0100,Sadia Sadiq,Female,Engineering,Software Engineer,Full-time,Sylhet,2023-09-11,156178,E0045
+E0101,Rafi Parvin,Male,Engineering,Junior Software Engineer,Contract,Rajshahi,2017-03-18,131877,E0314
+E0102,Shafiq Hossain,Female,HR,HR Manager,Full-time,Chattogram,2021-07-01,138408,E0855
+E0103,Esha Rana,Female,Product,Senior Product Manager,Contract,Khulna,2023-12-27,253791,E0383
+E0104,Zahid Sharmin,Male,Marketing,Marketing Manager,Full-time,Khulna,2020-12-21,234882,E0774
+E0105,Rafi Khan,Male,Customer Success,Customer Success Manager,Full-time,Dhaka,2016-10-28,171732,E0980
+E0106,Rafi Miah,Female,Product,Product Analyst,Full-time,Khulna,2016-11-26,124374,E0828
+E0107,Ovi Haider,Male,Sales,Account Executive,Full-time,Khulna,2019-08-12,180577,E0861
+E0108,Nabila Sadiq,Male,Finance,Senior Financial Analyst,Full-time,Dhaka,2022-10-27,214709,E0500
+E0109,Rafi Banu,Male,Product,Product Manager,Full-time,Remote,2017-08-30,272489,
+E0110,Nadia Sarker,Female,Engineering,Junior Software Engineer,Full-time,Rajshahi,2016-09-26,179920,E0179
+E0111,Shafiq Anjum,Female,Product,Senior Product Manager,Full-time,Khulna,2017-05-31,274622,E0080
+E0112,Tamanna Sultana,Male,Engineering,Software Engineer,Full-time,Khulna,2019-01-31,115486,E0156
+E0113,Imran Shah,Male,Customer Success,Support Associate,Full-time,Chattogram,2023-01-01,47847,E0828
+E0114,Arif Mahmud,Male,Operations,Supply Chain Analyst,Full-time,Dhaka,2023-02-06,150407,E0008
+E0115,Sumaiya Sharmin,Female,HR,HR Business Partner,Intern,Khulna,2022-07-25,75402,E0190
+E0116,Zahid Rasheed,Female,Operations,Supply Chain Analyst,Full-time,Chattogram,2022-02-24,90308,E0831
+E0117,Shawon Rana,Male,Operations,Operations Associate,Full-time,Remote,2023-12-26,93271,E0728
+E0118,Noman Morshed,Female,Engineering,DevOps Engineer,Intern,Khulna,2019-08-24,166489,E0102
+E0119,Shawon Akter,Female,Operations,Operations Associate,Full-time,Dhaka,2020-04-09,127253,E0881
+E0120,Jannat Ahmed,Male,Marketing,Marketing Associate,Full-time,Khulna,2022-09-12,156698,E0780
+E0121,Karim Banu,Female,Operations,Operations Manager,Full-time,Chattogram,2021-12-13,105032,E0684
+E0122,Tania Uddin,Male,Operations,Operations Manager,Contract,Dhaka,2019-04-22,194473,E0063
+E0123,Jannat Akter,Female,Product,Senior Product Manager,Full-time,Khulna,2021-02-01,223604,E0150
+E0124,Noman Chowdhury,Male,Engineering,DevOps Engineer,Full-time,Rajshahi,2021-09-01,116353,
+E0125,Tasnim Sadiq,Male,Product,Product Manager,Full-time,Dhaka,2022-10-15,323393,E0037
+E0126,Arif Sultana,Male,Sales,Account Executive,Full-time,Sylhet,2020-10-28,204089,
+E0127,Sajid Islam,Male,Operations,Operations Associate,Full-time,Sylhet,2017-02-10,115492,
+E0128,Mahin Khan,Female,Operations,Supply Chain Analyst,Full-time,Sylhet,2024-11-22,63509,E0585
+E0129,Mitu Ferdous,Female,Engineering,Software Engineer,Full-time,Rajshahi,2023-11-14,150359,
+E0130,Nabila Rana,Female,Marketing,Content Specialist,Full-time,Sylhet,2017-04-13,188137,E0979
+E0131,Tania Biswas,Male,Sales,Senior Account Executive,Full-time,Chattogram,2025-07-25,180052,E0383
+E0132,Lamia Haider,Male,Product,Associate Product Manager,Full-time,Dhaka,2023-05-05,331014,E0407
+E0133,Karim Rana,Female,Engineering,Junior Software Engineer,Full-time,Rajshahi,2023-04-20,150872,E0016
+E0134,Tasnim Talukder,Female,Sales,Sales Associate,Full-time,Khulna,2024-08-15,74066,E0109
+E0135,Rafi Mahmud,Male,Customer Success,Support Specialist,Full-time,Chattogram,2022-03-08,71853,E0672
+E0136,Sajid Kabir,Male,Sales,Sales Associate,Full-time,Rajshahi,2024-01-31,145378,E0061
+E0137,Nadia Sultana,Male,Marketing,SEO Specialist,Intern,Dhaka,2018-05-30,80214,E0630
+E0138,Nadia Talukder,Female,Finance,Financial Analyst,Full-time,Remote,2020-10-27,153114,
+E0139,Sumaiya Banu,Female,Sales,Account Executive,Full-time,Chattogram,2021-01-23,107540,E0357
+E0140,Mitu Hossain,Male,Customer Success,Support Specialist,Full-time,Sylhet,2018-07-24,133736,E0103
+E0141,Shawon Hasan,Male,Customer Success,Customer Success Manager,Contract,Sylhet,2020-08-21,193662,E0736
+E0142,Esha Sharmin,Male,Product,Associate Product Manager,Full-time,Dhaka,2019-10-20,214124,E0081
+E0143,Sajid Kabir,Male,Marketing,Growth Marketer,Full-time,Remote,2025-04-12,160401,E0990
+E0144,Rashed Kabir,Female,Product,Associate Product Manager,Full-time,Remote,2021-01-31,292950,E0396
+E0145,Sajid Rana,Male,Product,Product Analyst,Full-time,Rajshahi,2020-06-21,156121,E0024
+E0146,Shawon Talukder,Male,Engineering,DevOps Engineer,Full-time,Remote,2020-08-30,144739,E0554
+E0147,Nabila Sarker,Male,HR,HR Business Partner,Full-time,Khulna,2024-03-07,66930,E0783
+E0148,Sumaiya Rasheed,Female,Marketing,Growth Marketer,Intern,Sylhet,2017-01-24,66367,E0855
+E0149,Ovi Hossain,Male,Engineering,DevOps Engineer,Full-time,Chattogram,2019-07-04,125613,E0270
+E0150,Shawon Shah,Male,Product,Senior Product Manager,Full-time,Sylhet,2020-10-14,235298,E0132
+E0151,Nabila Parvin,Prefer not to say,Customer Success,Support Specialist,Full-time,Khulna,2019-07-04,90082,E0956
+E0152,Esha Banu,Female,Product,Senior Product Manager,Full-time,Chattogram,2023-06-17,229275,E0855
+E0153,Tania Parvin,Male,Engineering,QA Engineer,Full-time,Dhaka,2018-11-10,122342,E0682
+E0154,Priya Akter,Male,Marketing,Growth Marketer,Full-time,Sylhet,2020-03-13,153272,E0012
+E0155,Shawon Talukder,Male,Customer Success,Support Specialist,Intern,Rajshahi,2017-09-17,76212,E0585
+E0156,Tania Ferdous,Male,Product,Product Manager,Full-time,Remote,2023-09-14,204194,E0045
+E0157,Rafi Chowdhury,Male,Finance,Accounts Executive,Full-time,Chattogram,2021-04-26,163259,
+E0158,Tasnim Mahmud,Female,Finance,Finance Manager,Full-time,Khulna,2016-10-01,191622,E0560
+E0159,Karim Sultana,Male,Product,Senior Product Manager,Full-time,Remote,2017-01-08,254146,E0080
+E0160,Tania Rasheed,Male,Finance,Accounts Executive,Full-time,Remote,2025-04-29,114415,E0783
+E0161,Esha Sultana,Male,Sales,Sales Manager,Full-time,Dhaka,2016-12-15,190248,E0774
+E0162,Sadia Ferdous,Female,HR,HR Associate,Full-time,Sylhet,2017-01-16,60029,E0416
+E0163,Mitu Biswas,Male,HR,Recruiter,Full-time,Chattogram,2020-11-03,132352,E0907
+E0164,Jannat Haider,Female,Marketing,SEO Specialist,Contract,Remote,2017-01-30,172506,E0152
+E0165,Ovi Rahman,Female,Engineering,Junior Software Engineer,Full-time,Chattogram,2024-05-07,112641,E0656
+E0166,Karim Hasan,Male,Operations,Operations Manager,Full-time,Rajshahi,2024-04-14,98319,E0181
+E0167,Esha Islam,Male,Sales,Sales Manager,Full-time,Dhaka,2020-03-06,184159,E0709
+E0168,Tamanna Parvin,Female,Engineering,Senior Software Engineer,Contract,Chattogram,2025-02-07,176571,E0909
+E0169,Tamanna Sadiq,Male,Engineering,Junior Software Engineer,Full-time,Rajshahi,2017-06-16,109974,
+E0170,Nafiz Rana,Male,HR,Recruiter,Full-time,Chattogram,2022-03-28,63596,E0574
+E0171,Ayesha Sadiq,Female,Finance,Senior Financial Analyst,Full-time,Rajshahi,2016-09-02,164223,E0574
+E0172,Shafiq Rasheed,Female,Engineering,Engineering Manager,Full-time,Sylhet,2022-07-30,197542,
+E0173,Shafiq Akter,Male,Marketing,Growth Marketer,Full-time,Rajshahi,2022-04-19,124487,E0229
+E0174,Lamia Miah,Female,Product,Product Analyst,Full-time,Sylhet,2022-04-19,170924,
+E0175,Mitu Sultana,Female,HR,HR Business Partner,Full-time,Khulna,2019-09-12,89719,E0500
+E0176,Sajid Akter,Male,Engineering,Senior Software Engineer,Contract,Chattogram,2023-07-07,143847,E0357
+E0177,Fahim Hasan,Male,Finance,Senior Financial Analyst,Contract,Remote,2017-05-15,129577,E0686
+E0178,Ovi Morshed,Male,Sales,Sales Associate,Full-time,Khulna,2020-08-09,154566,E0249
+E0179,Shawon Miah,Male,Customer Success,Customer Success Manager,Full-time,Chattogram,2019-12-19,168895,E0972
+E0180,Sajid Rana,Male,Engineering,Senior Software Engineer,Full-time,Dhaka,2023-06-18,193255,E0500
+E0181,Zahid Rasheed,Female,Sales,Sales Manager,Full-time,Sylhet,2024-05-31,195037,E0657
+E0182,Tasnim Shah,Female,Engineering,Software Engineer,Full-time,Chattogram,2020-09-28,149426,E0741
+E0183,Zahid Kabir,Non-binary,Customer Success,Support Specialist,Full-time,Sylhet,2024-02-01,99935,E0595
+E0184,Nabila Shah,Male,Operations,Operations Manager,Full-time,Remote,2016-07-29,191513,E0866
+E0185,Arif Hossain,Male,Product,Product Analyst,Full-time,Remote,2019-03-24,147331,E0428
+E0186,Sajid Ahmed,Male,HR,HR Manager,Full-time,Remote,2022-09-25,186702,E0310
+E0187,Priya Amin,Female,Operations,Supply Chain Analyst,Contract,Dhaka,2019-07-03,76155,E0198
+E0188,Mitu Anjum,Male,Marketing,Marketing Associate,Full-time,Rajshahi,2019-12-11,83898,E0672
+E0189,Shafiq Anjum,Male,Marketing,Content Specialist,Full-time,Remote,2017-02-28,80935,E0893
+E0190,Tasnim Rahman,Male,Product,Product Manager,Full-time,Khulna,2022-06-25,184157,E0719
+E0191,Arif Morshed,Male,Engineering,Junior Software Engineer,Full-time,Dhaka,2021-09-09,174728,E0938
+E0192,Lamia Rahman,Male,Operations,Supply Chain Analyst,Full-time,Rajshahi,2018-05-21,161761,E0453
+E0193,Ayesha Sharmin,Male,Customer Success,Support Associate,Full-time,Chattogram,2017-09-25,101902,E0278
+E0194,Lamia Ferdous,Female,HR,HR Business Partner,Full-time,Sylhet,2023-05-13,71442,E0103
+E0195,Arif Khan,Male,Sales,Sales Associate,Full-time,Dhaka,2021-05-29,56829,E0648
+E0196,Noman Miah,Female,Sales,Sales Manager,Full-time,Remote,2018-07-07,107371,
+E0197,Noman Ahmed,Female,Finance,Finance Manager,Full-time,Khulna,2025-07-02,225835,E0881
+E0198,Nadia Kabir,Male,Operations,Operations Manager,Full-time,Dhaka,2017-03-19,163677,E0560
+E0199,Nabila Parvin,Prefer not to say,Operations,Operations Manager,Intern,Remote,2019-12-05,81456,E0777
+E0200,Mitu Haider,Female,Operations,Operations Associate,Full-time,Remote,2025-06-24,115471,E0065
+E0201,Shawon Sharmin,Female,HR,HR Business Partner,Full-time,Rajshahi,2022-03-28,147911,E0963
+E0202,Mitu Mahmud,Female,Engineering,Junior Software Engineer,Full-time,Khulna,2020-02-14,79321,
+E0203,Mitu Kabir,Female,Engineering,Junior Software Engineer,Full-time,Sylhet,2017-04-15,78363,E0024
+E0204,Lamia Hasan,Male,Operations,Operations Associate,Full-time,Remote,2024-07-20,110723,E0624
+E0205,Ovi Chowdhury,Male,HR,Recruiter,Full-time,Dhaka,2019-02-15,63622,E0639
+E0206,Jannat Islam,Male,Engineering,DevOps Engineer,Contract,Dhaka,2022-06-09,100219,E0037
+E0207,Fahim Talukder,Male,Engineering,QA Engineer,Full-time,Dhaka,2018-07-15,90603,E0565
+E0208,Mitu Ferdous,Male,HR,Recruiter,Full-time,Khulna,2025-01-19,68932,E0560
+E0209,Zahid Uddin,Male,Engineering,Software Engineer,Full-time,Dhaka,2020-10-23,200191,E0831
+E0210,Esha Kabir,Non-binary,Engineering,Engineering Manager,Full-time,Rajshahi,2025-06-23,276214,E0389
+E0211,Shafiq Miah,Male,Marketing,Content Specialist,Full-time,Sylhet,2022-04-16,91942,E0828
+E0212,Noman Rasheed,Female,Finance,Financial Analyst,Intern,Remote,2024-08-09,115210,E0912
+E0213,Shafiq Islam,Male,HR,HR Associate,Full-time,Chattogram,2025-03-06,60224,E0469
+E0214,Ayesha Hossain,Male,Product,Product Manager,Contract,Chattogram,2022-12-21,154511,E0085
+E0215,Nafiz Ahmed,Female,Finance,Senior Financial Analyst,Full-time,Chattogram,2022-11-18,217157,E0520
+E0216,Shafiq Jahan,Prefer not to say,Product,Product Analyst,Full-time,Khulna,2023-07-27,115743,
+E0217,Tamanna Banu,Female,Sales,Sales Associate,Full-time,Khulna,2023-03-17,86601,E0865
+E0218,Ovi Kabir,Female,Finance,Senior Financial Analyst,Full-time,Khulna,2022-03-30,188835,E0728
+E0219,Shafiq Hossain,Male,HR,HR Business Partner,Full-time,Chattogram,2016-04-17,72912,E0533
+E0220,Shafiq Haider,Male,Operations,Operations Associate,Full-time,Chattogram,2022-10-30,148023,E0150
+E0221,Rashed Kabir,Female,HR,HR Manager,Full-time,Dhaka,2023-05-18,186275,E0602
+E0222,Noman Akter,Female,Marketing,Marketing Associate,Full-time,Chattogram,2025-04-20,132900,E0141
+E0223,Tamanna Rana,Male,Engineering,Software Engineer,Full-time,Khulna,2023-10-11,197759,E0488
+E0224,Nabila Sultana,Female,Sales,Sales Manager,Full-time,Rajshahi,2018-12-31,186825,E0045
+E0225,Zahid Kabir,Male,Product,Associate Product Manager,Contract,Dhaka,2016-04-28,238674,E0511
+E0226,Priya Chowdhury,Female,Product,Product Manager,Full-time,Dhaka,2018-01-08,190351,E0241
+E0227,Rafi Amin,Male,Customer Success,Support Specialist,Full-time,Sylhet,2019-01-24,85676,E0045
+E0228,Farhan Talukder,Female,Sales,Sales Associate,Full-time,Sylhet,2023-11-18,126090,E0538
+E0229,Esha Akter,Male,Operations,Operations Manager,Full-time,Rajshahi,2024-07-19,132740,E0365
+E0230,Mitu Uddin,Female,HR,Recruiter,Full-time,Remote,2019-06-19,145727,E0980
+E0231,Nadia Chowdhury,Male,Operations,Operations Manager,Full-time,Chattogram,2019-10-23,201055,E0049
+E0232,Farhan Sultana,Male,Marketing,Marketing Associate,Full-time,Chattogram,2019-12-08,160791,
+E0233,Ayesha Parvin,Female,Marketing,Marketing Associate,Full-time,Chattogram,2016-01-26,112634,E0102
+E0234,Jannat Anjum,Female,Marketing,Marketing Associate,Full-time,Dhaka,2018-01-13,104145,E0543
+E0235,Shawon Sarker,Male,Engineering,QA Engineer,Full-time,Dhaka,2017-08-09,125871,E0243
+E0236,Nabila Amin,Male,Finance,Financial Analyst,Full-time,Khulna,2022-05-08,138097,E0239
+E0237,Imran Kabir,Female,Product,Senior Product Manager,Full-time,Khulna,2023-05-16,137134,E0617
+E0238,Zahid Talukder,Male,Engineering,Senior Software Engineer,Full-time,Khulna,2020-06-29,150761,E0686
+E0239,Sajid Uddin,Female,HR,HR Manager,Full-time,Dhaka,2016-10-12,199207,E0639
+E0240,Rahim Rahman,Female,Engineering,Junior Software Engineer,Full-time,Remote,2017-08-04,81364,E0882
+E0241,Sajid Banu,Male,Customer Success,Customer Success Manager,Contract,Chattogram,2024-04-23,139274,
+E0242,Nabila Uddin,Female,Customer Success,Customer Success Manager,Full-time,Dhaka,2023-02-06,110145,E0979
+E0243,Tania Parvin,Male,Customer Success,Customer Success Manager,Contract,Chattogram,2016-05-05,96473,E0407
+E0244,Jannat Sharmin,Female,Sales,Sales Manager,Contract,Sylhet,2017-01-10,243473,E0936
+E0245,Karim Islam,Male,Engineering,QA Engineer,Full-time,Rajshahi,2024-05-14,117681,E0852
+E0246,Shawon Jahan,Female,Customer Success,Support Specialist,Full-time,Khulna,2021-12-12,91573,E0646
+E0247,Mahin Anjum,Male,Sales,Sales Associate,Intern,Chattogram,2018-05-31,108435,
+E0248,Sadia Sadiq,Male,Customer Success,Support Associate,Full-time,Remote,2020-03-20,63968,E0448
+E0249,Imran Akter,Female,Customer Success,Customer Success Manager,Full-time,Dhaka,2020-09-15,86122,E0065
+E0250,Mahin Hossain,Male,Operations,Supply Chain Analyst,Contract,Sylhet,2021-02-01,113140,E0244
+E0251,Mahin Morshed,Male,Product,Product Manager,Full-time,Sylhet,2019-10-28,210984,E0167
+E0252,Priya Hossain,Female,Sales,Account Executive,Full-time,Khulna,2017-10-06,100793,E0646
+E0253,Nadia Banu,Male,Operations,Operations Associate,Full-time,Chattogram,2020-02-24,100319,E0109
+E0254,Nafiz Jahan,Male,Product,Product Analyst,Full-time,Sylhet,2019-06-30,98081,E0420
+E0255,Ovi Rasheed,Prefer not to say,Engineering,QA Engineer,Contract,Khulna,2024-02-03,163185,E0762
+E0256,Karim Rasheed,Prefer not to say,Marketing,Content Specialist,Contract,Dhaka,2019-08-21,123657,E0709
+E0257,Nafiz Talukder,Male,Customer Success,Support Associate,Full-time,Dhaka,2024-09-16,118593,E0190
+E0258,Rashed Parvin,Male,Finance,Financial Analyst,Contract,Khulna,2022-05-13,73943,E0682
+E0259,Tasnim Sultana,Male,Marketing,Marketing Associate,Full-time,Remote,2022-09-08,139284,E0019
+E0260,Rahim Morshed,Female,Engineering,Senior Software Engineer,Contract,Dhaka,2016-12-13,161928,E0121
+E0261,Shawon Talukder,Female,HR,HR Associate,Intern,Khulna,2016-08-03,107400,E0152
+E0262,Sadia Ahmed,Female,Customer Success,Customer Success Manager,Full-time,Sylhet,2017-09-29,99598,E0538
+E0263,Jannat Akter,Male,Engineering,Software Engineer,Full-time,Rajshahi,2017-10-06,81876,
+E0264,Mahin Morshed,Male,Marketing,Content Specialist,Contract,Rajshahi,2024-06-17,190900,E0054
+E0265,Jannat Parvin,Female,Operations,Operations Associate,Intern,Rajshahi,2022-12-05,92057,E0989
+E0266,Shawon Biswas,Female,Finance,Accounts Executive,Contract,Chattogram,2016-07-22,120976,E0404
+E0267,Farhan Uddin,Female,Finance,Financial Analyst,Contract,Khulna,2023-07-23,86707,E0595
+E0268,Rashed Miah,Non-binary,Finance,Financial Analyst,Full-time,Dhaka,2016-11-30,129733,E0938
+E0269,Tasnim Chowdhury,Female,Sales,Senior Account Executive,Full-time,Dhaka,2019-01-19,83187,E0688
+E0270,Rahim Sharmin,Male,Product,Associate Product Manager,Full-time,Remote,2020-12-19,271250,E0080
+E0271,Zahid Sultana,Female,Operations,Supply Chain Analyst,Intern,Sylhet,2023-06-04,115810,E0648
+E0272,Shawon Miah,Male,Operations,Operations Manager,Full-time,Dhaka,2020-10-02,122316,E0936
+E0273,Shawon Rana,Female,Operations,Operations Manager,Intern,Remote,2021-06-12,183817,E0198
+E0274,Sajid Alam,Female,Customer Success,Support Associate,Full-time,Khulna,2022-10-22,78062,E0642
+E0275,Rahim Haider,Male,Marketing,Content Specialist,Full-time,Chattogram,2020-12-15,139206,E0630
+E0276,Jannat Parvin,Male,Marketing,Marketing Associate,Contract,Dhaka,2020-08-23,64953,E0166
+E0277,Sumaiya Parvin,Male,Operations,Operations Associate,Contract,Sylhet,2019-01-23,90476,E0528
+E0278,Rahim Rasheed,Female,HR,HR Manager,Full-time,Chattogram,2018-06-01,95485,E0774
+E0279,Tasnim Rana,Male,Finance,Accounts Executive,Full-time,Rajshahi,2024-06-19,90571,E0989
+E0280,Shawon Sultana,Female,Operations,Supply Chain Analyst,Full-time,Khulna,2021-09-29,165934,E0639
+E0281,Ayesha Miah,Female,Operations,Supply Chain Analyst,Full-time,Sylhet,2017-04-11,144447,
+E0282,Jannat Hossain,Male,Sales,Senior Account Executive,Full-time,Dhaka,2019-11-14,262569,E0122
+E0283,Shafiq Amin,Female,Sales,Account Executive,Full-time,Khulna,2020-10-26,177614,E0184
+E0284,Karim Anjum,Male,Engineering,Junior Software Engineer,Full-time,Chattogram,2017-03-30,78609,E0976
+E0285,Rashed Alam,Male,Marketing,Content Specialist,Full-time,Chattogram,2019-03-06,90107,E0425
+E0286,Imran Islam,Female,Engineering,Senior Software Engineer,Full-time,Chattogram,2023-08-09,218934,E0648
+E0287,Priya Alam,Female,Sales,Sales Associate,Full-time,Chattogram,2023-08-11,66490,
+E0288,Imran Anjum,Male,Marketing,Content Specialist,Full-time,Remote,2022-08-26,148675,E0656
+E0289,Imran Ahmed,Male,Product,Product Analyst,Full-time,Dhaka,2021-06-16,198833,E0938
+E0290,Shawon Khan,Male,HR,HR Associate,Contract,Rajshahi,2021-11-28,99645,E0520
+E0291,Priya Chowdhury,Male,Engineering,Software Engineer,Contract,Chattogram,2023-06-25,110649,E0085
+E0292,Zahid Parvin,Female,Engineering,Junior Software Engineer,Contract,Chattogram,2019-06-17,90407,E0122
+E0293,Shawon Islam,Female,Operations,Supply Chain Analyst,Full-time,Sylhet,2016-07-05,86531,E0560
+E0294,Ovi Akter,Male,Sales,Senior Account Executive,Full-time,Rajshahi,2018-06-22,166965,E0965
+E0295,Arif Rana,Female,Engineering,DevOps Engineer,Full-time,Dhaka,2020-06-06,220987,E0716
+E0296,Sumaiya Alam,Female,Marketing,Marketing Associate,Full-time,Chattogram,2022-09-20,126321,E0543
+E0297,Rashed Sharmin,Male,Finance,Accounts Executive,Full-time,Dhaka,2016-08-12,142246,E0936
+E0298,Nadia Banu,Male,Engineering,Junior Software Engineer,Full-time,Chattogram,2016-02-01,105719,
+E0299,Sumaiya Rana,Male,HR,HR Business Partner,Full-time,Remote,2018-04-17,65312,E0210
+E0300,Mahin Anjum,Female,Engineering,QA Engineer,Full-time,Rajshahi,2019-05-19,109499,E0488
+E0301,Rahim Biswas,Female,Engineering,Junior Software Engineer,Full-time,Rajshahi,2018-05-15,195905,E0376
+E0302,Karim Islam,Male,Marketing,Marketing Manager,Full-time,Khulna,2024-08-09,208862,E0865
+E0303,Priya Shah,Female,Marketing,Marketing Associate,Contract,Khulna,2017-07-16,81885,E0801
+E0304,Esha Islam,Female,HR,Recruiter,Full-time,Remote,2024-07-27,83292,E0618
+E0305,Esha Banu,Male,Finance,Senior Financial Analyst,Full-time,Khulna,2018-11-12,119968,
+E0306,Sadia Kabir,Male,Customer Success,Customer Success Manager,Full-time,Sylhet,2019-03-31,112609,E0488
+E0307,Sadia Mahmud,Male,Marketing,SEO Specialist,Full-time,Rajshahi,2019-09-05,88616,E0976
+E0308,Nadia Rasheed,Female,Sales,Senior Account Executive,Full-time,Sylhet,2017-05-06,89011,E0249
+E0309,Rafi Jahan,Female,Operations,Operations Associate,Full-time,Remote,2016-02-01,61353,E0565
+E0310,Nafiz Chowdhury,Female,Product,Senior Product Manager,Full-time,Rajshahi,2021-07-30,123846,E0172
+E0311,Fahim Parvin,Female,Sales,Sales Associate,Full-time,Sylhet,2024-05-17,173306,
+E0312,Shawon Ferdous,Male,Engineering,DevOps Engineer,Full-time,Chattogram,2020-10-29,216411,E0008
+E0313,Arif Rahman,Male,Engineering,Senior Software Engineer,Full-time,Chattogram,2017-12-20,254167,E0109
+E0314,Nafiz Alam,Male,Customer Success,Customer Success Manager,Contract,Chattogram,2017-06-13,111527,E0376
+E0315,Sadia Ferdous,Female,Operations,Supply Chain Analyst,Full-time,Remote,2020-04-06,116603,E0736
+E0316,Tania Rahman,Female,Finance,Senior Financial Analyst,Full-time,Khulna,2021-12-21,141544,E0407
+E0317,Sumaiya Akter,Male,Sales,Account Executive,Full-time,Dhaka,2023-11-22,178865,E0144
+E0318,Mitu Banu,Female,Engineering,QA Engineer,Contract,Remote,2018-07-31,182959,E0630
+E0319,Tasnim Banu,Male,Engineering,Junior Software Engineer,Full-time,Rajshahi,2021-08-11,96425,E0909
+E0320,Shawon Sadiq,Female,Product,Product Analyst,Full-time,Khulna,2022-04-07,176119,E0595
+E0321,Zahid Talukder,Female,Marketing,Content Specialist,Full-time,Remote,2025-05-06,70238,E0243
+E0322,Nadia Mahmud,Non-binary,Finance,Accounts Executive,Full-time,Remote,2023-06-29,192123,E0389
+E0323,Ovi Sharmin,Female,HR,HR Manager,Full-time,Dhaka,2025-01-15,159552,E0420
+E0324,Mitu Banu,Female,Product,Product Analyst,Full-time,Rajshahi,2019-12-21,210429,E0585
+E0325,Imran Islam,Male,Customer Success,Customer Success Manager,Full-time,Chattogram,2016-10-22,144541,E0368
+E0326,Mahin Anjum,Female,Finance,Financial Analyst,Full-time,Khulna,2020-06-14,188550,E0488
+E0327,Farhan Ahmed,Male,Marketing,Marketing Associate,Full-time,Remote,2025-08-30,116526,E0278
+E0328,Tasnim Shah,Female,HR,HR Business Partner,Full-time,Dhaka,2024-04-27,114641,E0831
+E0329,Rashed Akter,Female,Sales,Senior Account Executive,Full-time,Remote,2016-06-22,133989,E0777
+E0330,Mitu Rasheed,Female,Product,Associate Product Manager,Full-time,Chattogram,2020-11-21,223179,E0927
+E0331,Shawon Amin,Female,Sales,Account Executive,Full-time,Remote,2016-03-17,111484,E0783
+E0332,Ovi Rahman,Male,Finance,Senior Financial Analyst,Full-time,Khulna,2021-02-26,105193,E0845
+E0333,Tania Shah,Female,Engineering,Software Engineer,Full-time,Sylhet,2016-11-14,220613,E0152
+E0334,Lamia Haider,Male,Engineering,Engineering Manager,Contract,Remote,2025-09-01,214751,E0533
+E0335,Arif Anjum,Female,Engineering,Engineering Manager,Full-time,Remote,2019-07-06,166907,E0334
+E0336,Farhan Sultana,Female,Engineering,QA Engineer,Full-time,Chattogram,2022-06-16,146147,E0656
+E0337,Zahid Haider,Male,Operations,Operations Associate,Full-time,Rajshahi,2020-10-24,75475,E0749
+E0338,Noman Alam,Female,Finance,Senior Financial Analyst,Full-time,Khulna,2022-06-06,202663,
+E0339,Shawon Alam,Male,Marketing,Marketing Associate,Full-time,Khulna,2020-07-14,59142,E0668
+E0340,Imran Rana,Male,Engineering,Junior Software Engineer,Full-time,Remote,2023-12-16,79373,
+E0341,Tania Alam,Female,Marketing,Content Specialist,Full-time,Dhaka,2023-03-07,70398,
+E0342,Nafiz Parvin,Male,Marketing,Content Specialist,Full-time,Khulna,2020-09-06,80395,E0990
+E0343,Mitu Akter,Male,Engineering,DevOps Engineer,Full-time,Remote,2019-03-31,177426,E0081
+E0344,Sadia Rasheed,Male,Sales,Senior Account Executive,Full-time,Rajshahi,2017-04-16,110823,
+E0345,Shawon Sarker,Male,Sales,Senior Account Executive,Full-time,Rajshahi,2020-07-17,220957,E0075
+E0346,Shawon Rasheed,Female,HR,Recruiter,Full-time,Chattogram,2016-03-26,106259,E0772
+E0347,Sajid Sadiq,Female,HR,Recruiter,Full-time,Remote,2019-08-23,126480,E0396
+E0348,Fahim Amin,Male,Engineering,Software Engineer,Full-time,Remote,2017-12-04,181290,E0543
+E0349,Shawon Rasheed,Female,Sales,Sales Manager,Full-time,Sylhet,2024-12-26,235921,E0642
+E0350,Nabila Chowdhury,Male,HR,HR Associate,Full-time,Chattogram,2022-12-06,57356,
+E0351,Shawon Talukder,Non-binary,Marketing,Marketing Manager,Full-time,Sylhet,2021-02-27,132366,E0159
+E0352,Ayesha Rasheed,Male,Operations,Supply Chain Analyst,Full-time,Dhaka,2025-04-30,99779,E0448
+E0353,Ayesha Ferdous,Female,HR,Recruiter,Full-time,Chattogram,2023-09-25,107395,
+E0354,Karim Ahmed,Male,Engineering,QA Engineer,Full-time,Chattogram,2020-01-22,168443,E0991
+E0355,Farhan Khan,Non-binary,Engineering,Senior Software Engineer,Full-time,Rajshahi,2016-12-26,284119,E0251
+E0356,Mahin Khan,Male,HR,HR Manager,Full-time,Dhaka,2020-11-23,89306,E0849
+E0357,Ovi Akter,Female,Engineering,Engineering Manager,Full-time,Remote,2025-06-21,150615,E0543
+E0358,Arif Sarker,Male,Marketing,Content Specialist,Full-time,Chattogram,2017-03-09,104105,E0656
+E0359,Shawon Miah,Male,Customer Success,Support Associate,Full-time,Dhaka,2018-09-23,44753,E0037
+E0360,Imran Hasan,Male,Marketing,Growth Marketer,Full-time,Khulna,2020-11-19,108200,E0686
+E0361,Rahim Ahmed,Female,Sales,Sales Manager,Full-time,Remote,2022-08-09,173554,
+E0362,Priya Hossain,Male,HR,HR Associate,Full-time,Remote,2020-06-28,75264,E0243
+E0363,Rahim Sultana,Female,Sales,Senior Account Executive,Full-time,Chattogram,2021-11-16,147296,E0356
+E0364,Ovi Morshed,Male,Marketing,Growth Marketer,Full-time,Dhaka,2016-11-18,90486,E0404
+E0365,Esha Hasan,Male,Customer Success,Customer Success Manager,Full-time,Rajshahi,2020-06-09,126897,E0543
+E0366,Priya Haider,Female,Sales,Sales Associate,Full-time,Remote,2019-06-24,89410,
+E0367,Tania Sharmin,Male,Customer Success,Customer Success Manager,Intern,Khulna,2024-05-12,100267,E0989
+E0368,Tania Hossain,Female,Customer Success,Customer Success Manager,Contract,Remote,2019-10-22,157989,
+E0369,Noman Sultana,Male,Engineering,Junior Software Engineer,Full-time,Remote,2018-06-26,153782,E0881
+E0370,Shafiq Mahmud,Female,Engineering,Software Engineer,Contract,Remote,2019-09-26,140850,E0630
+E0371,Ovi Sadiq,Male,Engineering,Engineering Manager,Full-time,Sylhet,2024-09-26,166149,E0871
+E0372,Tamanna Haider,Female,Engineering,Junior Software Engineer,Full-time,Remote,2017-11-19,114574,E0648
+E0373,Sajid Rana,Female,Engineering,DevOps Engineer,Full-time,Sylhet,2016-11-08,214819,E0465
+E0374,Sumaiya Morshed,Female,Finance,Financial Analyst,Full-time,Dhaka,2021-09-21,126300,E0618
+E0375,Tania Sharmin,Male,Engineering,Software Engineer,Intern,Chattogram,2023-02-06,145347,
+E0376,Sumaiya Alam,Male,Product,Senior Product Manager,Full-time,Dhaka,2017-04-12,292121,E0528
+E0377,Tasnim Akter,Female,Operations,Supply Chain Analyst,Full-time,Dhaka,2021-12-13,137578,E0063
+E0378,Ovi Shah,Male,Engineering,Senior Software Engineer,Intern,Remote,2021-09-19,138211,E0335
+E0379,Karim Haider,Male,Operations,Supply Chain Analyst,Full-time,Khulna,2018-03-05,86949,E0861
+E0380,Rafi Shah,Female,Product,Product Manager,Contract,Remote,2024-09-14,212485,E0231
+E0381,Imran Sadiq,Female,Engineering,Junior Software Engineer,Contract,Rajshahi,2019-12-02,106629,E0870
+E0382,Farhan Sharmin,Male,Finance,Financial Analyst,Full-time,Chattogram,2019-12-09,154672,E0229
+E0383,Tamanna Rasheed,Male,HR,HR Manager,Full-time,Remote,2024-02-27,97415,E0371
+E0384,Sadia Sadiq,Male,Operations,Operations Associate,Full-time,Khulna,2025-03-08,74721,E0828
+E0385,Shawon Alam,Male,Finance,Senior Financial Analyst,Full-time,Remote,2023-03-28,117580,E0334
+E0386,Sumaiya Sadiq,Male,Operations,Operations Associate,Full-time,Khulna,2025-02-20,126200,E0467
+E0387,Karim Alam,Male,Product,Product Manager,Full-time,Chattogram,2017-08-27,199943,E0968
+E0388,Sadia Rahman,Male,Engineering,Junior Software Engineer,Full-time,Rajshahi,2018-08-25,173688,E0024
+E0389,Mitu Mahmud,Female,Finance,Finance Manager,Full-time,Chattogram,2017-02-25,114847,E0237
+E0390,Shawon Rahman,Female,Operations,Supply Chain Analyst,Full-time,Chattogram,2017-08-22,93598,
+E0391,Imran Ferdous,Female,Customer Success,Support Associate,Full-time,Khulna,2018-11-14,115895,E0198
+E0392,Imran Chowdhury,Female,Sales,Sales Associate,Full-time,Dhaka,2018-03-19,78604,E0210
+E0393,Rafi Hossain,Male,Sales,Sales Associate,Full-time,Khulna,2017-12-11,131840,E0416
+E0394,Jannat Shah,Male,Operations,Supply Chain Analyst,Full-time,Remote,2022-10-03,135229,E0538
+E0395,Fahim Sultana,Male,Sales,Account Executive,Full-time,Remote,2017-09-18,181022,E0745
+E0396,Mitu Chowdhury,Male,Customer Success,Customer Success Manager,Full-time,Sylhet,2024-07-10,99838,E0226
+E0397,Nafiz Banu,Male,Operations,Supply Chain Analyst,Full-time,Remote,2024-07-06,143446,E0396
+E0398,Tania Islam,Female,Sales,Sales Associate,Full-time,Remote,2023-05-08,79711,E0874
+E0399,Lamia Sadiq,Female,Finance,Senior Financial Analyst,Contract,Dhaka,2016-11-04,209505,E0580
+E0400,Farhan Hasan,Male,Finance,Senior Financial Analyst,Full-time,Rajshahi,2017-12-26,127752,E0479
+E0401,Priya Haider,Male,Engineering,Junior Software Engineer,Full-time,Remote,2024-08-31,175759,E0197
+E0402,Tania Shah,Male,Customer Success,Support Associate,Full-time,Remote,2023-01-16,82536,E0241
+E0403,Rafi Sharmin,Male,Marketing,Marketing Associate,Contract,Chattogram,2021-07-16,97997,E0783
+E0404,Imran Khan,Female,Operations,Operations Manager,Full-time,Rajshahi,2021-03-15,148933,E0979
+E0405,Rahim Hossain,Female,Sales,Senior Account Executive,Full-time,Remote,2024-06-17,161212,E0777
+E0406,Karim Parvin,Male,Operations,Supply Chain Analyst,Full-time,Dhaka,2022-04-28,133746,E0777
+E0407,Shawon Alam,Male,Sales,Sales Manager,Full-time,Khulna,2024-07-09,154689,E0239
+E0408,Sadia Akter,Male,Engineering,DevOps Engineer,Full-time,Chattogram,2022-07-01,115869,E0184
+E0409,Ayesha Morshed,Female,Customer Success,Support Specialist,Contract,Remote,2021-01-12,66765,E0890
+E0410,Jannat Islam,Male,Engineering,DevOps Engineer,Full-time,Chattogram,2023-08-21,223811,E0144
+E0411,Nafiz Haider,Female,Product,Product Analyst,Full-time,Remote,2022-05-01,232842,E0109
+E0412,Ayesha Shah,Female,Customer Success,Support Associate,Full-time,Dhaka,2023-03-18,46051,E0716
+E0413,Rahim Rasheed,Female,Customer Success,Support Associate,Full-time,Khulna,2023-02-15,67599,E0513
+E0414,Mitu Alam,Male,Marketing,Marketing Associate,Full-time,Rajshahi,2023-01-02,60095,E0812
+E0415,Shafiq Sharmin,Male,HR,Recruiter,Full-time,Remote,2019-08-16,74293,E0045
+E0416,Shawon Morshed,Male,Sales,Sales Manager,Full-time,Sylhet,2023-01-13,127508,E0368
+E0417,Mitu Parvin,Male,Product,Product Analyst,Full-time,Chattogram,2019-07-18,151332,E0513
+E0418,Ayesha Amin,Male,Sales,Sales Associate,Full-time,Chattogram,2017-09-10,78808,E0954
+E0419,Nabila Sadiq,Female,Finance,Financial Analyst,Full-time,Dhaka,2020-12-06,169481,E0927
+E0420,Jannat Banu,Male,Finance,Finance Manager,Full-time,Chattogram,2016-10-06,222667,E0166
+E0421,Farhan Mahmud,Male,Operations,Operations Associate,Contract,Dhaka,2021-04-04,126014,E0980
+E0422,Noman Jahan,Female,Operations,Supply Chain Analyst,Full-time,Dhaka,2020-12-16,146117,E0389
+E0423,Sadia Rana,Male,Engineering,Junior Software Engineer,Full-time,Sylhet,2023-01-30,174527,E0618
+E0424,Rashed Hossain,Female,Marketing,Marketing Associate,Full-time,Khulna,2019-05-25,101593,E0545
+E0425,Lamia Sarker,Male,Engineering,Engineering Manager,Full-time,Remote,2024-12-05,203703,E0488
+E0426,Ayesha Mahmud,Male,Marketing,Marketing Manager,Full-time,Remote,2019-01-30,100685,E0025
+E0427,Nabila Ferdous,Female,Sales,Sales Associate,Full-time,Sylhet,2022-08-19,64049,E0387
+E0428,Sadia Banu,Male,Operations,Operations Manager,Full-time,Sylhet,2016-08-18,145409,E0839
+E0429,Tania Parvin,Female,Sales,Senior Account Executive,Full-time,Rajshahi,2019-12-12,264785,E0109
+E0430,Lamia Shah,Female,Engineering,DevOps Engineer,Full-time,Dhaka,2021-09-09,158586,E0467
+E0431,Arif Biswas,Male,Engineering,Senior Software Engineer,Full-time,Sylhet,2016-10-30,114635,E0012
+E0432,Ovi Miah,Male,Finance,Financial Analyst,Full-time,Remote,2019-06-25,109027,
+E0433,Mitu Rahman,Male,HR,Recruiter,Full-time,Rajshahi,2021-03-06,78164,E0624
+E0434,Nafiz Haider,Female,Engineering,QA Engineer,Full-time,Khulna,2021-01-25,120831,E0361
+E0435,Karim Uddin,Male,Engineering,Junior Software Engineer,Full-time,Dhaka,2016-06-03,120923,E0237
+E0436,Lamia Anjum,Male,Finance,Accounts Executive,Full-time,Dhaka,2016-08-21,152132,E0239
+E0437,Shawon Hossain,Male,Engineering,Software Engineer,Contract,Remote,2020-02-19,229625,E0472
+E0438,Esha Akter,Female,Operations,Supply Chain Analyst,Contract,Chattogram,2025-04-29,117618,E0335
+E0439,Sadia Sadiq,Male,Finance,Accounts Executive,Contract,Chattogram,2019-03-21,169222,E0518
+E0440,Tasnim Haider,Female,Engineering,QA Engineer,Full-time,Remote,2016-11-10,179843,E0425
+E0441,Fahim Chowdhury,Female,Engineering,Engineering Manager,Full-time,Dhaka,2023-03-25,158222,E0368
+E0442,Lamia Rahman,Non-binary,Customer Success,Support Associate,Full-time,Chattogram,2025-08-04,64675,E0396
+E0443,Mitu Rasheed,Female,Sales,Senior Account Executive,Intern,Sylhet,2017-01-04,82815,E0166
+E0444,Fahim Miah,Female,Sales,Account Executive,Contract,Khulna,2022-11-24,174886,E0618
+E0445,Nabila Mahmud,Female,Operations,Operations Manager,Full-time,Rajshahi,2022-08-30,194618,E0871
+E0446,Tamanna Khan,Female,Customer Success,Support Associate,Full-time,Remote,2021-09-07,74103,
+E0447,Nafiz Sharmin,Female,Customer Success,Support Specialist,Full-time,Dhaka,2020-04-23,121829,E0221
+E0448,Arif Banu,Male,Finance,Finance Manager,Full-time,Rajshahi,2021-03-10,255433,E0913
+E0449,Karim Morshed,Female,Sales,Sales Manager,Full-time,Rajshahi,2022-07-05,193112,E0141
+E0450,Nafiz Akter,Male,Engineering,QA Engineer,Full-time,Sylhet,2022-03-20,140602,E0780
+E0451,Shawon Hasan,Female,Operations,Supply Chain Analyst,Full-time,Dhaka,2024-11-17,82842,E0865
+E0452,Shafiq Rahman,Female,Marketing,Growth Marketer,Full-time,Remote,2024-04-14,83584,
+E0453,Fahim Ahmed,Male,Sales,Sales Manager,Contract,Dhaka,2016-06-17,263179,E0123
+E0454,Shawon Parvin,Male,Customer Success,Support Specialist,Full-time,Remote,2021-01-16,95636,E0907
+E0455,Nadia Banu,Male,Engineering,Junior Software Engineer,Full-time,Dhaka,2025-01-30,70124,E0554
+E0456,Mitu Hossain,Female,Marketing,Marketing Manager,Full-time,Dhaka,2022-05-30,227832,E0852
+E0457,Rashed Talukder,Female,Engineering,QA Engineer,Contract,Chattogram,2023-04-23,197505,E0229
+E0458,Nafiz Miah,Male,Sales,Senior Account Executive,Full-time,Chattogram,2018-02-10,105291,E0602
+E0459,Jannat Talukder,Female,Engineering,Junior Software Engineer,Intern,Khulna,2019-08-09,135917,
+E0460,Esha Rana,Male,Engineering,QA Engineer,Full-time,Khulna,2022-10-14,166740,
+E0461,Rafi Ahmed,Male,Engineering,Software Engineer,Full-time,Khulna,2021-05-02,182833,E0197
+E0462,Rahim Biswas,Male,HR,HR Business Partner,Full-time,Chattogram,2021-08-15,63724,E0479
+E0463,Rahim Biswas,Male,Finance,Accounts Executive,Full-time,Chattogram,2017-09-09,173386,E0089
+E0464,Rashed Jahan,Male,Marketing,Growth Marketer,Full-time,Chattogram,2016-09-10,143282,E0330
+E0465,Rahim Mahmud,Male,Customer Success,Customer Success Manager,Contract,Dhaka,2021-01-19,173256,E0361
+E0466,Tania Hasan,Male,Sales,Sales Associate,Contract,Rajshahi,2017-02-27,69789,E0991
+E0467,Rashed Haider,Male,Product,Senior Product Manager,Full-time,Remote,2025-02-03,255591,E0349
+E0468,Ovi Amin,Female,Operations,Supply Chain Analyst,Full-time,Dhaka,2025-05-22,98291,
+E0469,Rafi Rasheed,Female,Product,Senior Product Manager,Full-time,Sylhet,2019-11-07,276368,E0936
+E0470,Noman Anjum,Male,Customer Success,Customer Success Manager,Full-time,Sylhet,2024-01-04,158145,E0649
+E0471,Lamia Islam,Male,Engineering,Senior Software Engineer,Full-time,Chattogram,2016-12-11,150348,E0618
+E0472,Shawon Parvin,Male,Customer Success,Customer Success Manager,Full-time,Rajshahi,2021-08-28,120126,E0560
+E0473,Nadia Shah,Male,Engineering,DevOps Engineer,Contract,Rajshahi,2023-03-31,184741,E0839
+E0474,Karim Rahman,Male,Operations,Supply Chain Analyst,Full-time,Chattogram,2017-12-07,70447,E0323
+E0475,Shawon Islam,Male,Marketing,Content Specialist,Full-time,Dhaka,2016-06-09,97284,E0500
+E0476,Jannat Haider,Female,Customer Success,Support Specialist,Full-time,Chattogram,2018-10-11,106133,E0453
+E0477,Ayesha Banu,Female,Engineering,DevOps Engineer,Full-time,Chattogram,2023-12-08,174752,E0376
+E0478,Zahid Shah,Female,Marketing,SEO Specialist,Full-time,Dhaka,2020-11-28,119233,E0469
+E0479,Priya Rahman,Female,Customer Success,Customer Success Manager,Contract,Remote,2020-12-04,72655,E0141
+E0480,Nadia Sharmin,Female,Marketing,Content Specialist,Full-time,Chattogram,2021-11-16,105709,E0670
+E0481,Nafiz Islam,Male,HR,HR Manager,Contract,Sylhet,2021-11-11,180674,E0334
+E0482,Ayesha Chowdhury,Male,Finance,Accounts Executive,Full-time,Sylhet,2022-11-02,149123,E0649
+E0483,Nafiz Rahman,Male,Sales,Account Executive,Contract,Rajshahi,2017-10-12,93524,E0907
+E0484,Tamanna Miah,Female,HR,HR Associate,Intern,Dhaka,2020-01-30,86132,E0075
+E0485,Esha Rana,Female,Marketing,Content Specialist,Full-time,Rajshahi,2020-03-07,76505,E0210
+E0486,Tania Akter,Female,Customer Success,Support Specialist,Intern,Chattogram,2019-03-04,122625,E0686
+E0487,Priya Chowdhury,Male,Engineering,Software Engineer,Full-time,Remote,2020-05-05,93652,E0241
+E0488,Esha Parvin,Female,Product,Product Manager,Full-time,Sylhet,2020-08-01,170512,E0389
+E0489,Karim Ferdous,Male,Customer Success,Support Specialist,Full-time,Sylhet,2024-09-07,66957,E0449
+E0490,Esha Khan,Female,Operations,Supply Chain Analyst,Full-time,Chattogram,2019-10-17,71348,E0997
+E0491,Tania Banu,Male,Sales,Sales Associate,Contract,Sylhet,2023-08-12,123353,E0635
+E0492,Priya Rana,Male,HR,Recruiter,Full-time,Chattogram,2022-09-14,82823,E0456
+E0493,Priya Sarker,Male,Product,Product Analyst,Full-time,Chattogram,2016-08-02,244869,E0167
+E0494,Karim Rana,Male,Engineering,Junior Software Engineer,Full-time,Dhaka,2024-11-06,143367,E0121
+E0495,Fahim Kabir,Male,Sales,Senior Account Executive,Full-time,Khulna,2023-01-28,202730,E0688
+E0496,Shawon Rana,Female,Sales,Senior Account Executive,Full-time,Khulna,2023-04-05,164041,E0782
+E0497,Esha Jahan,Male,Marketing,Growth Marketer,Full-time,Dhaka,2019-10-02,92112,E0075
+E0498,Ovi Mahmud,Male,Engineering,Senior Software Engineer,Full-time,Sylhet,2016-09-26,122792,E0389
+E0499,Shawon Khan,Male,Customer Success,Support Specialist,Full-time,Rajshahi,2019-09-12,63704,E0061
+E0500,Ovi Parvin,Male,Customer Success,Customer Success Manager,Full-time,Remote,2017-01-22,134281,E0479
+E0501,Lamia Islam,Female,Finance,Financial Analyst,Intern,Rajshahi,2022-04-04,78758,E0023
+E0502,Shawon Ferdous,Male,Marketing,Content Specialist,Full-time,Rajshahi,2023-08-10,116802,E0545
+E0503,Rashed Hasan,Male,Product,Product Analyst,Contract,Remote,2020-05-02,119337,E0080
+E0504,Sadia Rahman,Female,Operations,Operations Associate,Contract,Khulna,2019-03-09,104488,E0657
+E0505,Sajid Chowdhury,Male,Finance,Financial Analyst,Full-time,Sylhet,2018-10-29,131168,E0686
+E0506,Shawon Hossain,Female,Engineering,Software Engineer,Full-time,Rajshahi,2024-02-12,154602,E0383
+E0507,Tania Alam,Male,Customer Success,Support Specialist,Full-time,Remote,2025-07-20,126712,E0226
+E0508,Shafiq Sadiq,Male,Operations,Supply Chain Analyst,Full-time,Sylhet,2023-05-13,81788,E0449
+E0509,Farhan Chowdhury,Male,Customer Success,Support Specialist,Full-time,Remote,2022-10-04,91568,E0122
+E0510,Nabila Uddin,Male,Finance,Senior Financial Analyst,Full-time,Sylhet,2017-09-07,165555,E0158
+E0511,Lamia Chowdhury,Male,HR,HR Manager,Contract,Dhaka,2019-09-27,112094,
+E0512,Rafi Sarker,Male,Sales,Senior Account Executive,Full-time,Remote,2016-11-29,166948,E0913
+E0513,Zahid Parvin,Female,Customer Success,Customer Success Manager,Full-time,Khulna,2022-07-14,65373,E0927
+E0514,Rahim Islam,Male,Operations,Operations Associate,Full-time,Rajshahi,2023-06-11,58569,E0927
+E0515,Tania Rana,Female,Engineering,Junior Software Engineer,Full-time,Remote,2017-08-02,157572,E0242
+E0516,Noman Haider,Female,Engineering,Junior Software Engineer,Full-time,Khulna,2019-12-03,136343,E0123
+E0517,Priya Mahmud,Male,Sales,Senior Account Executive,Contract,Khulna,2019-06-24,151280,E0742
+E0518,Sadia Chowdhury,Male,Operations,Operations Manager,Full-time,Rajshahi,2023-05-11,135072,E0640
+E0519,Ayesha Morshed,Male,Customer Success,Support Associate,Full-time,Dhaka,2023-10-31,94916,E0665
+E0520,Jannat Hossain,Male,Engineering,Engineering Manager,Full-time,Khulna,2023-06-05,161279,E0954
+E0521,Ayesha Ahmed,Prefer not to say,HR,HR Associate,Full-time,Chattogram,2020-05-24,117086,E0545
+E0522,Sumaiya Shah,Male,Sales,Sales Manager,Contract,Remote,2017-06-12,114723,E0559
+E0523,Karim Sharmin,Female,Customer Success,Support Associate,Intern,Remote,2022-09-03,93005,E0349
+E0524,Nafiz Parvin,Female,Operations,Operations Associate,Full-time,Khulna,2023-12-13,55063,E0210
+E0525,Tamanna Miah,Female,Operations,Supply Chain Analyst,Full-time,Dhaka,2016-12-13,60800,E0449
+E0526,Farhan Sharmin,Female,Sales,Sales Associate,Full-time,Sylhet,2019-06-22,127247,E0416
+E0527,Rashed Rana,Female,Sales,Sales Associate,Full-time,Remote,2022-04-08,135545,E0273
+E0528,Sadia Banu,Male,Product,Associate Product Manager,Full-time,Sylhet,2020-03-22,322943,
+E0529,Nabila Islam,Male,Engineering,DevOps Engineer,Full-time,Remote,2023-03-20,168822,E0801
+E0530,Fahim Islam,Male,Operations,Supply Chain Analyst,Full-time,Rajshahi,2024-11-16,162991,E0349
+E0531,Nafiz Alam,Male,Operations,Operations Associate,Contract,Remote,2019-09-07,55182,E0554
+E0532,Mahin Akter,Female,Customer Success,Support Specialist,Full-time,Chattogram,2025-02-12,101249,
+E0533,Farhan Sarker,Female,Customer Success,Customer Success Manager,Full-time,Remote,2017-06-07,139243,E0801
+E0534,Sumaiya Sultana,Male,Marketing,Content Specialist,Full-time,Remote,2023-07-07,158489,E0012
+E0535,Nabila Rahman,Female,Finance,Financial Analyst,Full-time,Dhaka,2023-11-18,80148,E0855
+E0536,Priya Chowdhury,Female,Customer Success,Support Associate,Contract,Sylhet,2025-04-18,119007,E0214
+E0537,Nabila Banu,Male,Operations,Operations Associate,Contract,Sylhet,2024-04-14,131744,E0574
+E0538,Priya Hossain,Female,Product,Product Manager,Full-time,Chattogram,2023-09-08,321281,E0416
+E0539,Nafiz Ferdous,Female,Sales,Sales Associate,Full-time,Chattogram,2021-11-26,113727,E0445
+E0540,Rashed Miah,Male,Engineering,Senior Software Engineer,Full-time,Sylhet,2017-01-17,280400,E0152
+E0541,Arif Kabir,Female,Customer Success,Support Specialist,Contract,Remote,2023-03-31,102186,E0682
+E0542,Ayesha Talukder,Female,HR,HR Associate,Full-time,Khulna,2023-07-09,88171,E0371
+E0543,Nadia Hasan,Male,Product,Associate Product Manager,Full-time,Rajshahi,2020-09-30,271579,E0075
+E0544,Tania Amin,Male,Finance,Accounts Executive,Full-time,Rajshahi,2021-09-13,167921,E0224
+E0545,Tania Sultana,Male,HR,HR Manager,Full-time,Sylhet,2020-01-22,132186,E0861
+E0546,Arif Anjum,Female,Sales,Account Executive,Full-time,Sylhet,2016-03-15,135670,E0865
+E0547,Sadia Talukder,Female,Engineering,DevOps Engineer,Full-time,Dhaka,2020-01-25,144190,E0242
+E0548,Mahin Sarker,Male,Finance,Financial Analyst,Full-time,Rajshahi,2019-06-19,198074,E0782
+E0549,Rafi Sadiq,Female,Marketing,Marketing Associate,Full-time,Khulna,2018-01-08,140744,E0241
+E0550,Nafiz Rasheed,Male,Operations,Supply Chain Analyst,Full-time,Remote,2018-05-27,141122,E0909
+E0551,Fahim Alam,Female,Marketing,Marketing Manager,Full-time,Remote,2019-10-31,157660,
+E0552,Rahim Hasan,Female,Operations,Supply Chain Analyst,Full-time,Rajshahi,2024-08-04,54791,E0104
+E0553,Tania Rana,Male,Marketing,SEO Specialist,Full-time,Dhaka,2021-06-14,144565,E0657
+E0554,Shafiq Rasheed,Female,Marketing,Marketing Manager,Full-time,Chattogram,2018-02-25,118399,E0749
+E0555,Noman Shah,Female,Operations,Operations Associate,Full-time,Rajshahi,2018-07-16,96262,E0172
+E0556,Jannat Banu,Female,Sales,Sales Associate,Full-time,Sylhet,2017-07-17,120796,E0142
+E0557,Sumaiya Chowdhury,Male,Engineering,Senior Software Engineer,Intern,Sylhet,2017-09-26,239730,
+E0558,Ovi Shah,Non-binary,Engineering,Software Engineer,Full-time,Sylhet,2016-11-12,185256,E0167
+E0559,Rahim Rahman,Female,Finance,Finance Manager,Full-time,Sylhet,2019-04-26,253912,E0249
+E0560,Nafiz Uddin,Male,HR,HR Manager,Full-time,Rajshahi,2025-06-20,210488,E0762
+E0561,Tasnim Hasan,Male,Finance,Financial Analyst,Full-time,Dhaka,2024-11-02,155423,E0012
+E0562,Farhan Alam,Male,Engineering,Software Engineer,Contract,Chattogram,2017-02-18,100233,E0142
+E0563,Shawon Sultana,Male,Engineering,DevOps Engineer,Full-time,Dhaka,2021-09-10,211477,
+E0564,Rashed Morshed,Male,Engineering,Software Engineer,Full-time,Rajshahi,2024-08-23,224909,E0425
+E0565,Sadia Akter,Female,Sales,Sales Manager,Full-time,Khulna,2022-01-19,238998,E0861
+E0566,Rahim Khan,Female,Marketing,Content Specialist,Full-time,Dhaka,2025-05-13,150971,E0368
+E0567,Shawon Rahman,Male,Sales,Senior Account Executive,Full-time,Remote,2024-04-13,211829,E0852
+E0568,Zahid Talukder,Female,Sales,Sales Associate,Full-time,Chattogram,2021-11-26,145287,
+E0569,Sumaiya Chowdhury,Female,Customer Success,Support Specialist,Full-time,Chattogram,2016-06-03,58483,
+E0570,Rashed Ahmed,Female,Sales,Account Executive,Full-time,Khulna,2023-06-04,101081,E0141
+E0571,Jannat Amin,Female,Marketing,Growth Marketer,Full-time,Remote,2019-10-11,89872,
+E0572,Tania Hossain,Male,Operations,Operations Associate,Full-time,Remote,2024-08-04,62383,E0063
+E0573,Tamanna Sarker,Female,Sales,Senior Account Executive,Full-time,Dhaka,2022-12-06,139985,E0166
+E0574,Shawon Akter,Female,HR,HR Manager,Intern,Khulna,2017-06-20,102751,E0897
+E0575,Sajid Parvin,Male,Operations,Operations Associate,Full-time,Chattogram,2022-09-12,59718,E0376
+E0576,Shawon Kabir,Female,Customer Success,Support Associate,Full-time,Chattogram,2020-03-23,56617,E0111
+E0577,Fahim Jahan,Male,Engineering,Junior Software Engineer,Contract,Sylhet,2017-09-23,78598,E0756
+E0578,Ovi Morshed,Male,Customer Success,Support Specialist,Full-time,Khulna,2017-10-26,101482,E0828
+E0579,Shawon Sarker,Male,Marketing,Growth Marketer,Contract,Dhaka,2018-01-10,75797,E0226
+E0580,Sadia Khan,Female,Product,Associate Product Manager,Full-time,Remote,2025-04-28,243494,E0025
+E0581,Shawon Sarker,Male,Sales,Sales Associate,Full-time,Dhaka,2023-10-08,86634,E0777
+E0582,Tania Sarker,Female,Customer Success,Support Specialist,Full-time,Remote,2024-08-24,72541,E0543
+E0583,Shawon Kabir,Female,Marketing,Growth Marketer,Full-time,Sylhet,2023-01-02,156742,E0190
+E0584,Noman Hasan,Male,Sales,Account Executive,Full-time,Khulna,2025-01-26,155431,E0719
+E0585,Mitu Morshed,Female,HR,HR Manager,Full-time,Chattogram,2017-11-09,205608,E0997
+E0586,Nadia Hossain,Male,Product,Product Analyst,Full-time,Sylhet,2024-02-01,157460,E0665
+E0587,Jannat Parvin,Male,Engineering,QA Engineer,Full-time,Rajshahi,2020-11-27,144619,E0782
+E0588,Jannat Rahman,Female,Engineering,Software Engineer,Full-time,Chattogram,2016-06-27,182892,E0543
+E0589,Tamanna Kabir,Male,Engineering,Software Engineer,Full-time,Chattogram,2020-08-09,171884,E0488
+E0590,Shafiq Hasan,Male,Engineering,QA Engineer,Full-time,Khulna,2020-02-01,85557,E0181
+E0591,Zahid Sultana,Female,Engineering,QA Engineer,Contract,Khulna,2023-08-02,125670,E0053
+E0592,Rafi Chowdhury,Male,HR,HR Manager,Full-time,Khulna,2024-01-26,159972,E0197
+E0593,Mitu Uddin,Male,Engineering,Junior Software Engineer,Full-time,Remote,2018-08-30,141698,E0221
+E0594,Shafiq Akter,Female,Sales,Sales Associate,Full-time,Khulna,2020-12-24,149831,E0323
+E0595,Shawon Hasan,Male,Operations,Operations Manager,Full-time,Rajshahi,2022-11-05,186586,
+E0596,Nafiz Uddin,Female,Marketing,Growth Marketer,Contract,Dhaka,2019-03-13,69151,E0630
+E0597,Imran Hasan,Female,HR,HR Associate,Contract,Chattogram,2024-06-08,104195,E0852
+E0598,Shawon Islam,Male,Engineering,Junior Software Engineer,Full-time,Rajshahi,2024-05-24,157968,E0045
+E0599,Rahim Sharmin,Male,Engineering,Junior Software Engineer,Full-time,Dhaka,2024-10-15,198433,E0736
+E0600,Sajid Rahman,Female,Engineering,DevOps Engineer,Full-time,Remote,2021-01-12,163236,E0640
+E0601,Imran Islam,Male,Engineering,Junior Software Engineer,Contract,Remote,2018-08-16,148806,E0828
+E0602,Tania Anjum,Female,Product,Associate Product Manager,Contract,Dhaka,2021-12-27,175181,
+E0603,Rafi Akter,Male,Engineering,Software Engineer,Full-time,Chattogram,2018-09-06,153747,E0085
+E0604,Farhan Chowdhury,Female,Engineering,Software Engineer,Full-time,Khulna,2019-06-21,170491,E0334
+E0605,Sadia Biswas,Female,Engineering,Junior Software Engineer,Contract,Remote,2025-01-25,177297,E0801
+E0606,Nadia Morshed,Female,Sales,Account Executive,Full-time,Chattogram,2024-10-17,64256,E0055
+E0607,Tasnim Sultana,Male,Engineering,Junior Software Engineer,Intern,Sylhet,2021-04-05,171159,E0144
+E0608,Sumaiya Rana,Female,Sales,Senior Account Executive,Full-time,Remote,2025-05-13,202406,E0852
+E0609,Rashed Haider,Male,Marketing,Marketing Associate,Full-time,Khulna,2018-03-05,153772,E0500
+E0610,Priya Morshed,Male,Finance,Financial Analyst,Full-time,Chattogram,2020-02-15,133813,E0585
+E0611,Sumaiya Parvin,Female,Engineering,DevOps Engineer,Full-time,Khulna,2023-08-10,228212,E0797
+E0612,Lamia Anjum,Male,Operations,Supply Chain Analyst,Full-time,Rajshahi,2022-05-25,154087,E0963
+E0613,Nadia Hossain,Female,HR,Recruiter,Full-time,Rajshahi,2020-12-09,99530,E0179
+E0614,Farhan Anjum,Male,Engineering,Software Engineer,Full-time,Dhaka,2021-03-06,105296,
+E0615,Mahin Banu,Male,Operations,Operations Associate,Contract,Dhaka,2024-08-17,76276,E0772
+E0616,Noman Hasan,Male,Customer Success,Support Specialist,Full-time,Sylhet,2019-02-28,68846,E0968
+E0617,Sajid Banu,Female,Engineering,Engineering Manager,Contract,Rajshahi,2024-09-22,124898,
+E0618,Esha Akter,Male,Product,Product Manager,Full-time,Chattogram,2020-04-13,316684,E0592
+E0619,Imran Ahmed,Female,Operations,Supply Chain Analyst,Full-time,Remote,2021-08-21,104626,E0742
+E0620,Shawon Kabir,Male,Finance,Senior Financial Analyst,Full-time,Rajshahi,2021-11-30,254832,E0602
+E0621,Shawon Anjum,Male,Engineering,Senior Software Engineer,Intern,Sylhet,2020-09-10,235691,E0351
+E0622,Nadia Sarker,Male,Engineering,Junior Software Engineer,Full-time,Dhaka,2017-10-25,107528,E0470
+E0623,Shawon Kabir,Male,Sales,Account Executive,Full-time,Remote,2025-02-27,125443,E0881
+E0624,Sajid Sarker,Male,Marketing,Marketing Manager,Intern,Khulna,2018-03-28,229318,E0917
+E0625,Tamanna Shah,Male,HR,HR Associate,Full-time,Khulna,2024-12-25,69161,E0062
+E0626,Sajid Islam,Female,Sales,Senior Account Executive,Full-time,Chattogram,2022-10-12,162546,E0456
+E0627,Zahid Parvin,Male,Sales,Sales Associate,Contract,Sylhet,2017-07-20,113537,E0239
+E0628,Tamanna Ahmed,Male,Finance,Financial Analyst,Full-time,Dhaka,2018-10-21,162823,E0465
+E0629,Farhan Rahman,Male,Engineering,Junior Software Engineer,Full-time,Rajshahi,2016-08-01,156024,
+E0630,Rahim Banu,Female,Product,Associate Product Manager,Contract,Remote,2023-03-11,143628,E0376
+E0631,Shawon Sadiq,Non-binary,Finance,Senior Financial Analyst,Full-time,Remote,2021-05-22,250336,E0955
+E0632,Mahin Rahman,Male,Operations,Operations Associate,Full-time,Rajshahi,2020-02-29,126833,
+E0633,Farhan Amin,Male,Marketing,Growth Marketer,Full-time,Khulna,2022-03-21,98625,E0831
+E0634,Mitu Banu,Male,Marketing,SEO Specialist,Full-time,Chattogram,2017-02-24,181577,E0314
+E0635,Rashed Rana,Male,Engineering,Engineering Manager,Intern,Sylhet,2023-12-23,264639,E0688
+E0636,Nabila Ferdous,Male,Sales,Sales Associate,Full-time,Dhaka,2025-06-26,49291,E0871
+E0637,Tania Akter,Male,Marketing,Content Specialist,Full-time,Khulna,2021-10-14,128115,E0545
+E0638,Jannat Sarker,Male,Product,Product Analyst,Contract,Khulna,2025-07-18,188148,E0816
+E0639,Karim Talukder,Male,Product,Senior Product Manager,Full-time,Dhaka,2017-05-25,138471,E0656
+E0640,Sadia Ahmed,Male,Sales,Sales Manager,Full-time,Remote,2019-03-13,133251,E0407
+E0641,Nabila Jahan,Non-binary,Engineering,Senior Software Engineer,Full-time,Rajshahi,2016-12-09,229364,E0104
+E0642,Farhan Hasan,Female,Sales,Sales Manager,Full-time,Rajshahi,2024-07-22,135297,
+E0643,Shafiq Uddin,Female,Engineering,Senior Software Engineer,Full-time,Dhaka,2017-10-18,215631,E0049
+E0644,Tasnim Sarker,Male,Sales,Senior Account Executive,Full-time,Chattogram,2019-01-22,125647,E0122
+E0645,Nafiz Hossain,Female,Engineering,Junior Software Engineer,Full-time,Khulna,2021-01-14,129283,E0025
+E0646,Ayesha Banu,Male,Operations,Operations Manager,Full-time,Chattogram,2021-10-03,144222,E0500
+E0647,Ovi Miah,Female,HR,HR Associate,Full-time,Remote,2017-08-26,98071,E0025
+E0648,Sumaiya Sharmin,Female,Finance,Finance Manager,Full-time,Rajshahi,2025-04-26,198142,E0893
+E0649,Rafi Anjum,Male,Operations,Operations Manager,Full-time,Sylhet,2020-11-26,143186,E0511
+E0650,Sajid Jahan,Male,Marketing,SEO Specialist,Full-time,Sylhet,2017-01-10,107440,E0745
+E0651,Sajid Ahmed,Male,Engineering,Junior Software Engineer,Full-time,Sylhet,2018-06-28,139534,E0051
+E0652,Rafi Akter,Male,Marketing,Content Specialist,Full-time,Chattogram,2025-02-27,140432,E0648
+E0653,Sadia Islam,Female,Marketing,Content Specialist,Full-time,Sylhet,2021-01-21,163230,E0013
+E0654,Noman Sharmin,Male,Finance,Financial Analyst,Full-time,Khulna,2019-12-02,116495,E0190
+E0655,Mitu Chowdhury,Female,Sales,Sales Associate,Full-time,Khulna,2016-04-19,129832,E0990
+E0656,Rashed Anjum,Male,Engineering,Engineering Manager,Full-time,Sylhet,2020-08-26,156323,E0075
+E0657,Arif Haider,Male,Product,Associate Product Manager,Full-time,Dhaka,2016-08-06,284958,E0672
+E0658,Rafi Sharmin,Female,Sales,Account Executive,Full-time,Rajshahi,2020-06-11,189635,
+E0659,Nafiz Ahmed,Male,HR,Recruiter,Full-time,Rajshahi,2021-08-18,101750,E0997
+E0660,Noman Haider,Male,Marketing,Content Specialist,Full-time,Remote,2020-03-11,129219,E0874
+E0661,Karim Mahmud,Female,Sales,Senior Account Executive,Full-time,Sylhet,2018-08-23,223274,E0755
+E0662,Tamanna Sharmin,Male,Customer Success,Support Specialist,Full-time,Rajshahi,2020-04-30,68587,
+E0663,Shawon Amin,Prefer not to say,HR,HR Manager,Full-time,Rajshahi,2016-11-30,140584,E0551
+E0664,Rahim Miah,Male,Product,Associate Product Manager,Full-time,Chattogram,2020-03-15,219962,
+E0665,Farhan Sadiq,Female,Engineering,Engineering Manager,Full-time,Dhaka,2018-07-08,115007,
+E0666,Imran Sharmin,Female,Engineering,DevOps Engineer,Full-time,Dhaka,2016-04-25,214063,E0197
+E0667,Priya Talukder,Female,Product,Product Analyst,Full-time,Remote,2019-07-29,185866,E0089
+E0668,Sajid Rana,Male,Engineering,Engineering Manager,Full-time,Rajshahi,2017-02-09,152869,E0214
+E0669,Fahim Rana,Male,Engineering,Junior Software Engineer,Full-time,Remote,2025-05-30,98911,E0172
+E0670,Ovi Hossain,Male,Product,Senior Product Manager,Full-time,Chattogram,2024-01-06,220530,E0688
+E0671,Priya Morshed,Male,Engineering,Software Engineer,Contract,Khulna,2023-04-16,173326,E0664
+E0672,Shawon Jahan,Female,Operations,Operations Manager,Contract,Remote,2019-10-05,202760,E0585
+E0673,Zahid Rahman,Prefer not to say,Engineering,DevOps Engineer,Intern,Chattogram,2024-11-15,163043,E0420
+E0674,Mahin Shah,Male,Marketing,SEO Specialist,Full-time,Dhaka,2017-08-21,111351,E0816
+E0675,Ovi Uddin,Female,Sales,Senior Account Executive,Full-time,Khulna,2017-07-17,226302,E0357
+E0676,Tamanna Rahman,Female,Customer Success,Support Associate,Full-time,Remote,2016-06-05,66924,E0745
+E0677,Tania Mahmud,Female,Engineering,Junior Software Engineer,Full-time,Khulna,2019-03-21,105800,E0955
+E0678,Arif Akter,Female,Sales,Account Executive,Full-time,Khulna,2025-04-21,96400,E0852
+E0679,Priya Rahman,Male,Customer Success,Support Associate,Full-time,Rajshahi,2021-04-19,108900,E0396
+E0680,Arif Uddin,Male,Operations,Supply Chain Analyst,Full-time,Rajshahi,2023-10-22,101913,E0687
+E0681,Sumaiya Haider,Female,Operations,Operations Associate,Full-time,Khulna,2025-04-27,87577,E0642
+E0682,Lamia Sharmin,Male,Product,Senior Product Manager,Full-time,Khulna,2017-07-22,211968,E0356
+E0683,Karim Talukder,Male,Engineering,QA Engineer,Full-time,Rajshahi,2024-07-05,201850,E0574
+E0684,Nabila Sadiq,Male,HR,HR Manager,Full-time,Remote,2023-11-29,114025,E0323
+E0685,Fahim Islam,Male,Customer Success,Support Associate,Full-time,Chattogram,2021-04-05,121728,E0416
+E0686,Shawon Sarker,Male,Marketing,Marketing Manager,Full-time,Sylhet,2021-01-11,230250,E0441
+E0687,Lamia Khan,Female,Marketing,Marketing Manager,Full-time,Sylhet,2022-11-25,145443,E0314
+E0688,Nafiz Banu,Male,Product,Associate Product Manager,Full-time,Dhaka,2016-01-22,344942,E0595
+E0689,Shawon Sadiq,Male,Finance,Senior Financial Analyst,Full-time,Khulna,2016-11-20,230193,E0371
+E0690,Sajid Anjum,Female,Engineering,QA Engineer,Full-time,Rajshahi,2016-03-18,104109,E0990
+E0691,Nabila Hasan,Female,Sales,Sales Associate,Full-time,Chattogram,2018-11-14,123664,E0361
+E0692,Sadia Jahan,Male,Sales,Account Executive,Contract,Khulna,2018-06-02,79430,E0453
+E0693,Sadia Sarker,Female,Marketing,Content Specialist,Full-time,Chattogram,2025-05-13,156229,E0003
+E0694,Shawon Uddin,Female,Product,Product Analyst,Full-time,Rajshahi,2017-09-04,121916,E0249
+E0695,Tamanna Alam,Female,Engineering,Software Engineer,Full-time,Khulna,2022-02-25,208355,E0538
+E0696,Mahin Rasheed,Female,HR,HR Associate,Full-time,Remote,2024-02-26,97862,E0956
+E0697,Farhan Alam,Female,Product,Product Analyst,Full-time,Khulna,2022-10-29,130480,E0272
+E0698,Rahim Hossain,Female,Marketing,Marketing Associate,Full-time,Rajshahi,2021-12-01,59947,E0196
+E0699,Arif Uddin,Male,Engineering,Engineering Manager,Contract,Remote,2020-09-29,296169,E0019
+E0700,Rafi Banu,Male,Marketing,Growth Marketer,Intern,Remote,2017-03-31,110392,E0736
+E0701,Mahin Amin,Female,Marketing,Marketing Manager,Full-time,Remote,2024-09-14,234854,E0989
+E0702,Esha Khan,Female,Engineering,Software Engineer,Full-time,Chattogram,2019-03-26,86771,E0585
+E0703,Jannat Sharmin,Female,Sales,Account Executive,Contract,Dhaka,2018-08-31,152242,E0617
+E0704,Lamia Rasheed,Male,Engineering,Senior Software Engineer,Full-time,Dhaka,2019-05-18,246659,E0037
+E0705,Esha Talukder,Male,Engineering,Software Engineer,Full-time,Chattogram,2017-05-14,176602,E0144
+E0706,Tamanna Miah,Male,Customer Success,Support Associate,Intern,Khulna,2016-07-14,91420,E0365
+E0707,Rafi Sultana,Female,Sales,Senior Account Executive,Intern,Khulna,2018-09-03,117598,E0226
+E0708,Arif Rana,Female,Operations,Operations Associate,Full-time,Chattogram,2020-09-15,124911,E0866
+E0709,Ovi Sharmin,Male,Product,Product Manager,Full-time,Khulna,2023-03-02,171022,E0617
+E0710,Rashed Morshed,Male,Finance,Senior Financial Analyst,Full-time,Sylhet,2024-11-25,219044,E0980
+E0711,Karim Hasan,Female,Finance,Accounts Executive,Full-time,Dhaka,2022-12-26,112993,E0065
+E0712,Tamanna Morshed,Female,HR,HR Associate,Full-time,Sylhet,2021-02-15,90401,E0852
+E0713,Rafi Hossain,Female,Marketing,SEO Specialist,Full-time,Khulna,2016-09-14,74498,E0500
+E0714,Karim Mahmud,Male,Sales,Account Executive,Full-time,Chattogram,2017-03-30,189759,E0736
+E0715,Tamanna Chowdhury,Male,Sales,Sales Associate,Full-time,Khulna,2025-05-20,93826,E0871
+E0716,Tasnim Hossain,Male,Customer Success,Customer Success Manager,Full-time,Chattogram,2021-08-09,171523,E0640
+E0717,Tania Chowdhury,Male,Operations,Operations Associate,Full-time,Chattogram,2022-09-10,89249,E0037
+E0718,Imran Khan,Male,Customer Success,Support Specialist,Full-time,Chattogram,2022-01-04,48538,E0618
+E0719,Nabila Islam,Male,Engineering,Engineering Manager,Full-time,Remote,2016-03-08,122096,E0845
+E0720,Jannat Islam,Male,Finance,Accounts Executive,Full-time,Sylhet,2023-02-01,78350,
+E0721,Noman Hasan,Male,Customer Success,Support Associate,Full-time,Remote,2021-10-11,109085,E0351
+E0722,Mahin Haider,Female,Engineering,Junior Software Engineer,Contract,Rajshahi,2022-06-13,112504,E0445
+E0723,Ayesha Miah,Female,Engineering,Software Engineer,Full-time,Remote,2018-09-17,140797,E0927
+E0724,Farhan Rasheed,Female,Finance,Accounts Executive,Full-time,Dhaka,2024-01-22,131619,E0828
+E0725,Lamia Shah,Female,Marketing,SEO Specialist,Full-time,Remote,2017-08-11,173103,E0686
+E0726,Shafiq Banu,Prefer not to say,Operations,Operations Associate,Full-time,Rajshahi,2019-04-08,92825,E0990
+E0727,Arif Kabir,Female,Engineering,Senior Software Engineer,Full-time,Remote,2020-10-24,290782,
+E0728,Rafi Jahan,Male,Operations,Operations Manager,Full-time,Sylhet,2016-01-07,120139,E0376
+E0729,Nafiz Ahmed,Male,Engineering,DevOps Engineer,Full-time,Chattogram,2022-11-23,144862,
+E0730,Tasnim Hasan,Female,Engineering,Senior Software Engineer,Full-time,Dhaka,2019-12-16,201682,E0310
+E0731,Karim Ahmed,Male,Engineering,Software Engineer,Full-time,Remote,2018-09-12,197277,E0142
+E0732,Noman Rana,Female,Operations,Supply Chain Analyst,Full-time,Dhaka,2022-05-26,135986,E0742
+E0733,Nadia Ferdous,Female,HR,Recruiter,Full-time,Chattogram,2020-09-02,56897,E0051
+E0734,Mahin Haider,Male,Marketing,Content Specialist,Full-time,Sylhet,2018-02-06,155461,E0387
+E0735,Shawon Kabir,Female,Sales,Sales Associate,Full-time,Rajshahi,2023-06-14,67760,E0786
+E0736,Sajid Biswas,Female,Operations,Operations Manager,Full-time,Remote,2023-06-30,180002,E0522
+E0737,Nafiz Haider,Male,Sales,Account Executive,Full-time,Sylhet,2016-12-16,134875,
+E0738,Rashed Biswas,Male,Operations,Operations Associate,Intern,Chattogram,2021-11-14,68992,E0849
+E0739,Jannat Parvin,Male,Sales,Account Executive,Full-time,Khulna,2020-01-17,154293,E0122
+E0740,Ovi Sharmin,Male,Sales,Account Executive,Full-time,Khulna,2016-10-04,91470,E0479
+E0741,Mahin Ferdous,Female,Sales,Sales Manager,Full-time,Sylhet,2021-11-24,179692,E0051
+E0742,Lamia Akter,Female,Product,Product Manager,Contract,Rajshahi,2022-02-06,182793,E0239
+E0743,Rafi Miah,Male,Finance,Senior Financial Analyst,Full-time,Chattogram,2021-09-09,125899,
+E0744,Sajid Islam,Female,Marketing,Marketing Associate,Full-time,Rajshahi,2024-10-26,73942,E0831
+E0745,Tamanna Rana,Male,Product,Associate Product Manager,Full-time,Dhaka,2021-09-10,264211,E0816
+E0746,Tasnim Chowdhury,Female,Operations,Supply Chain Analyst,Full-time,Chattogram,2022-03-19,98638,E0592
+E0747,Rashed Alam,Female,Sales,Sales Associate,Contract,Khulna,2016-03-24,154415,E0389
+E0748,Nadia Banu,Female,Marketing,Content Specialist,Full-time,Chattogram,2020-05-18,74270,E0181
+E0749,Arif Miah,Male,Customer Success,Customer Success Manager,Full-time,Khulna,2021-04-09,64708,E0780
+E0750,Sadia Anjum,Male,HR,HR Associate,Full-time,Sylhet,2016-06-27,50950,E0225
+E0751,Rahim Islam,Male,Engineering,Senior Software Engineer,Full-time,Khulna,2023-02-16,251186,
+E0752,Arif Miah,Non-binary,Customer Success,Support Associate,Full-time,Dhaka,2020-05-03,50074,E0314
+E0753,Rafi Chowdhury,Male,HR,HR Associate,Full-time,Rajshahi,2020-03-09,98914,E0618
+E0754,Priya Shah,Male,Sales,Sales Associate,Full-time,Rajshahi,2018-11-04,151850,
+E0755,Sumaiya Sharmin,Non-binary,Engineering,Engineering Manager,Full-time,Sylhet,2024-05-19,150316,E0426
+E0756,Lamia Miah,Female,Operations,Operations Manager,Intern,Remote,2016-03-07,117567,E0172
+E0757,Sumaiya Chowdhury,Male,HR,HR Manager,Full-time,Sylhet,2020-01-02,101630,E0640
+E0758,Esha Sharmin,Male,Marketing,Content Specialist,Full-time,Dhaka,2024-11-03,124782,E0828
+E0759,Nabila Morshed,Male,Operations,Operations Associate,Full-time,Chattogram,2016-10-03,62160,E0351
+E0760,Ovi Rana,Male,Operations,Supply Chain Analyst,Intern,Sylhet,2019-11-13,128604,E0861
+E0761,Shafiq Chowdhury,Female,Engineering,Senior Software Engineer,Full-time,Dhaka,2018-09-14,138156,E0141
+E0762,Nadia Khan,Female,Product,Senior Product Manager,Full-time,Chattogram,2024-03-21,131666,E0990
+E0763,Rahim Biswas,Female,Product,Product Analyst,Full-time,Khulna,2023-05-15,181764,E0184
+E0764,Sajid Islam,Male,Finance,Financial Analyst,Full-time,Chattogram,2023-01-17,156370,E0144
+E0765,Rafi Alam,Male,Engineering,Junior Software Engineer,Full-time,Khulna,2017-02-28,154905,E0909
+E0766,Arif Chowdhury,Female,Marketing,Content Specialist,Full-time,Rajshahi,2024-08-26,64730,
+E0767,Fahim Talukder,Male,Finance,Senior Financial Analyst,Full-time,Chattogram,2022-07-11,198501,E0225
+E0768,Nabila Rahman,Female,Operations,Supply Chain Analyst,Full-time,Khulna,2024-03-30,82662,E0990
+E0769,Ovi Biswas,Male,Sales,Account Executive,Full-time,Sylhet,2024-06-26,148154,E0882
+E0770,Arif Islam,Non-binary,Operations,Supply Chain Analyst,Full-time,Dhaka,2019-09-23,139764,E0013
+E0771,Arif Akter,Female,Engineering,Senior Software Engineer,Full-time,Sylhet,2017-06-30,280370,E0861
+E0772,Lamia Chowdhury,Male,Operations,Operations Manager,Full-time,Rajshahi,2016-06-30,85715,E0456
+E0773,Lamia Miah,Male,Engineering,DevOps Engineer,Full-time,Chattogram,2019-12-14,149792,E0325
+E0774,Tania Shah,Female,Sales,Sales Manager,Full-time,Khulna,2022-02-14,90066,E0559
+E0775,Ayesha Mahmud,Female,Operations,Operations Manager,Full-time,Chattogram,2019-10-18,209353,E0565
+E0776,Zahid Banu,Male,Engineering,Software Engineer,Full-time,Chattogram,2025-02-14,93583,E0237
+E0777,Sadia Islam,Prefer not to say,Product,Product Manager,Intern,Khulna,2023-03-17,273469,E0663
+E0778,Rafi Shah,Female,Finance,Financial Analyst,Full-time,Rajshahi,2017-12-18,92989,E0132
+E0779,Shawon Islam,Male,Finance,Accounts Executive,Contract,Sylhet,2025-04-24,191081,E0701
+E0780,Ayesha Jahan,Male,HR,HR Manager,Full-time,Remote,2024-09-26,146560,
+E0781,Lamia Amin,Female,Finance,Accounts Executive,Full-time,Remote,2023-09-05,151301,E0688
+E0782,Shawon Haider,Male,Marketing,Marketing Manager,Full-time,Sylhet,2021-03-18,217008,E0231
+E0783,Nabila Miah,Female,Product,Associate Product Manager,Full-time,Remote,2023-10-19,134842,E0249
+E0784,Jannat Morshed,Male,Sales,Senior Account Executive,Full-time,Sylhet,2021-05-14,173458,E0742
+E0785,Tasnim Sadiq,Male,Engineering,QA Engineer,Full-time,Chattogram,2023-01-31,163741,E0053
+E0786,Sajid Rasheed,Female,Customer Success,Customer Success Manager,Full-time,Remote,2018-01-16,93910,E0012
+E0787,Shafiq Rana,Non-binary,Marketing,Growth Marketer,Full-time,Remote,2025-02-05,129991,
+E0788,Sajid Jahan,Male,Sales,Senior Account Executive,Full-time,Sylhet,2017-07-06,144722,E0688
+E0789,Zahid Shah,Female,Sales,Sales Associate,Full-time,Chattogram,2016-09-15,112327,E0687
+E0790,Rafi Biswas,Male,Customer Success,Support Specialist,Full-time,Khulna,2024-01-11,68406,E0103
+E0791,Nabila Khan,Female,Engineering,Junior Software Engineer,Full-time,Dhaka,2024-09-14,187804,
+E0792,Shawon Banu,Male,Marketing,SEO Specialist,Contract,Khulna,2021-02-17,175256,E0684
+E0793,Tamanna Rahman,Female,Marketing,Growth Marketer,Full-time,Rajshahi,2016-05-31,149101,E0376
+E0794,Shafiq Rasheed,Female,HR,HR Business Partner,Full-time,Chattogram,2019-04-16,64223,E0755
+E0795,Lamia Khan,Male,Engineering,Junior Software Engineer,Full-time,Sylhet,2018-04-05,103668,
+E0796,Tasnim Ahmed,Female,Operations,Operations Associate,Intern,Rajshahi,2016-06-28,98984,E0917
+E0797,Mitu Sultana,Male,Customer Success,Customer Success Manager,Full-time,Dhaka,2024-11-14,96703,E0081
+E0798,Esha Sarker,Female,Marketing,Marketing Associate,Full-time,Remote,2018-03-28,56576,E0520
+E0799,Rafi Uddin,Male,Finance,Accounts Executive,Full-time,Chattogram,2016-06-20,160461,E0592
+E0800,Karim Biswas,Female,Customer Success,Support Associate,Full-time,Rajshahi,2019-07-16,86429,E0019
+E0801,Rahim Sultana,Male,Finance,Finance Manager,Contract,Dhaka,2019-06-24,121309,
+E0802,Nafiz Hasan,Male,Engineering,QA Engineer,Full-time,Remote,2021-10-12,128635,E0278
+E0803,Sajid Amin,Female,Marketing,Content Specialist,Full-time,Rajshahi,2020-06-19,135705,E0387
+E0804,Nadia Rana,Prefer not to say,HR,Recruiter,Full-time,Rajshahi,2025-02-21,80489,E0016
+E0805,Zahid Sadiq,Male,Sales,Account Executive,Full-time,Dhaka,2022-02-02,101359,E0356
+E0806,Imran Hasan,Male,Finance,Senior Financial Analyst,Full-time,Khulna,2021-04-23,196965,E0273
+E0807,Ayesha Hossain,Male,Customer Success,Support Specialist,Full-time,Sylhet,2018-11-03,87246,E0520
+E0808,Lamia Anjum,Male,Customer Success,Support Associate,Full-time,Sylhet,2016-05-29,57975,E0055
+E0809,Rafi Rasheed,Female,Sales,Sales Associate,Full-time,Rajshahi,2024-06-12,148174,E0938
+E0810,Ovi Hossain,Male,Engineering,Junior Software Engineer,Full-time,Sylhet,2023-04-03,102328,E0870
+E0811,Mahin Mahmud,Male,Customer Success,Support Specialist,Full-time,Dhaka,2018-02-21,76816,E0585
+E0812,Fahim Banu,Male,Operations,Operations Manager,Full-time,Khulna,2019-03-17,153074,E0199
+E0813,Shawon Sultana,Male,Engineering,Software Engineer,Full-time,Rajshahi,2020-01-02,120062,E0965
+E0814,Priya Amin,Female,Customer Success,Support Associate,Full-time,Chattogram,2025-09-01,98793,E0125
+E0815,Rahim Shah,Female,Operations,Operations Associate,Full-time,Rajshahi,2024-10-03,62931,
+E0816,Ovi Uddin,Male,Marketing,Marketing Manager,Full-time,Rajshahi,2016-07-14,138080,E0716
+E0817,Mitu Islam,Female,HR,Recruiter,Full-time,Chattogram,2023-05-09,113462,E0664
+E0818,Nabila Anjum,Male,Sales,Senior Account Executive,Contract,Rajshahi,2019-09-21,197390,E0420
+E0819,Farhan Uddin,Female,Engineering,QA Engineer,Full-time,Dhaka,2019-01-24,152107,E0144
+E0820,Mitu Uddin,Female,Sales,Account Executive,Full-time,Khulna,2017-05-24,97743,E0302
+E0821,Ayesha Miah,Female,Operations,Operations Associate,Full-time,Dhaka,2024-12-18,134335,E0325
+E0822,Arif Uddin,Male,Engineering,Junior Software Engineer,Full-time,Khulna,2020-02-16,169541,E0122
+E0823,Tasnim Akter,Female,Sales,Senior Account Executive,Contract,Dhaka,2020-11-24,138411,E0125
+E0824,Noman Talukder,Female,Sales,Senior Account Executive,Full-time,Dhaka,2020-06-26,233575,E0728
+E0825,Karim Hasan,Non-binary,Marketing,Growth Marketer,Full-time,Dhaka,2024-05-02,77744,E0913
+E0826,Shawon Morshed,Male,Customer Success,Support Specialist,Full-time,Chattogram,2020-12-06,66009,E0736
+E0827,Rafi Jahan,Male,Sales,Sales Associate,Full-time,Chattogram,2020-05-02,163219,E0545
+E0828,Farhan Rana,Male,Sales,Sales Manager,Full-time,Chattogram,2019-10-20,222625,E0441
+E0829,Rafi Miah,Female,Finance,Senior Financial Analyst,Full-time,Rajshahi,2018-02-04,286329,E0828
+E0830,Sumaiya Rana,Female,Sales,Account Executive,Contract,Chattogram,2021-07-25,73250,E0991
+E0831,Shawon Morshed,Female,Product,Senior Product Manager,Full-time,Khulna,2023-10-05,261849,E0150
+E0832,Farhan Jahan,Male,Sales,Senior Account Executive,Full-time,Chattogram,2021-07-30,199928,E0585
+E0833,Tamanna Kabir,Male,Engineering,Senior Software Engineer,Full-time,Dhaka,2020-02-13,292571,E0762
+E0834,Shafiq Ferdous,Male,Engineering,QA Engineer,Full-time,Sylhet,2024-12-09,118097,E0310
+E0835,Sajid Sultana,Female,Marketing,SEO Specialist,Full-time,Chattogram,2021-10-27,162297,E0141
+E0836,Karim Islam,Male,Sales,Senior Account Executive,Full-time,Remote,2018-12-28,139606,E0812
+E0837,Fahim Miah,Female,Customer Success,Support Associate,Full-time,Chattogram,2024-12-25,112331,E0416
+E0838,Jannat Anjum,Male,Sales,Account Executive,Full-time,Dhaka,2016-12-04,124819,E0273
+E0839,Mahin Biswas,Male,Marketing,Marketing Manager,Full-time,Khulna,2024-02-26,164021,E0997
+E0840,Karim Shah,Female,HR,HR Associate,Full-time,Remote,2020-10-04,87187,E0670
+E0841,Sajid Sadiq,Male,Engineering,Software Engineer,Full-time,Remote,2016-11-19,176530,E0243
+E0842,Mitu Hossain,Female,HR,Recruiter,Full-time,Khulna,2020-10-29,68510,E0172
+E0843,Ayesha Kabir,Female,Engineering,Software Engineer,Full-time,Dhaka,2022-10-03,221794,E0167
+E0844,Nafiz Shah,Female,Customer Success,Support Specialist,Full-time,Dhaka,2025-03-22,50021,
+E0845,Imran Kabir,Female,Engineering,Engineering Manager,Full-time,Rajshahi,2018-01-09,192891,E0656
+E0846,Sumaiya Talukder,Female,Sales,Sales Associate,Full-time,Khulna,2022-02-12,91390,E0602
+E0847,Rafi Sharmin,Male,Engineering,Junior Software Engineer,Full-time,Dhaka,2019-04-18,171843,E0640
+E0848,Sajid Sadiq,Male,Customer Success,Support Associate,Full-time,Chattogram,2019-08-08,109974,E0728
+E0849,Zahid Islam,Female,Marketing,Marketing Manager,Full-time,Chattogram,2017-02-24,115083,
+E0850,Fahim Chowdhury,Female,HR,HR Business Partner,Intern,Remote,2016-11-23,57385,
+E0851,Esha Mahmud,Female,Engineering,Software Engineer,Full-time,Chattogram,2019-09-05,206117,E0123
+E0852,Tasnim Talukder,Male,Finance,Finance Manager,Full-time,Sylhet,2023-05-31,237253,E0646
+E0853,Jannat Rahman,Male,Engineering,DevOps Engineer,Full-time,Dhaka,2019-04-25,154315,E0684
+E0854,Esha Ferdous,Female,Operations,Operations Manager,Full-time,Chattogram,2019-06-09,198624,E0912
+E0855,Tasnim Ferdous,Female,Engineering,Engineering Manager,Full-time,Dhaka,2020-12-31,183621,E0479
+E0856,Sajid Miah,Prefer not to say,Engineering,Software Engineer,Full-time,Chattogram,2022-10-04,119454,E0179
+E0857,Jannat Talukder,Female,Engineering,QA Engineer,Full-time,Khulna,2024-01-18,220349,E0407
+E0858,Shawon Akter,Male,Marketing,Content Specialist,Full-time,Chattogram,2020-10-11,106040,E0013
+E0859,Nadia Ahmed,Male,Marketing,SEO Specialist,Full-time,Khulna,2017-11-13,131677,E0416
+E0860,Rashed Ahmed,Female,Engineering,QA Engineer,Full-time,Dhaka,2023-09-26,190765,E0701
+E0861,Shafiq Alam,Female,Operations,Operations Manager,Intern,Khulna,2020-12-23,104645,E0797
+E0862,Tasnim Haider,Male,Sales,Senior Account Executive,Full-time,Dhaka,2019-12-10,224247,E0161
+E0863,Esha Haider,Female,Marketing,Marketing Associate,Full-time,Remote,2021-01-05,107673,E0448
+E0864,Jannat Khan,Female,Sales,Account Executive,Full-time,Rajshahi,2016-06-22,164002,E0511
+E0865,Nafiz Rasheed,Male,Sales,Sales Manager,Full-time,Chattogram,2024-02-25,89730,E0927
+E0866,Tamanna Miah,Female,Marketing,Marketing Manager,Contract,Sylhet,2019-12-15,196595,E0226
+E0867,Farhan Chowdhury,Male,Engineering,Junior Software Engineer,Full-time,Sylhet,2022-11-23,157668,E0831
+E0868,Jannat Shah,Male,Engineering,Junior Software Engineer,Full-time,Rajshahi,2020-11-16,92728,
+E0869,Nabila Haider,Male,Operations,Operations Associate,Full-time,Remote,2019-01-29,99636,E0376
+E0870,Nadia Ahmed,Male,Customer Success,Customer Success Manager,Full-time,Dhaka,2023-03-04,162213,E0387
+E0871,Tania Sadiq,Female,Sales,Sales Manager,Full-time,Khulna,2024-11-15,119877,E0782
+E0872,Imran Banu,Female,Product,Product Analyst,Full-time,Chattogram,2016-08-22,182719,E0559
+E0873,Karim Sultana,Male,HR,Recruiter,Full-time,Sylhet,2016-11-03,88094,E0938
+E0874,Shawon Uddin,Male,Sales,Sales Manager,Full-time,Remote,2023-07-12,290910,E0037
+E0875,Sajid Banu,Female,Engineering,QA Engineer,Full-time,Chattogram,2023-02-24,120440,E0456
+E0876,Sajid Kabir,Female,Engineering,Senior Software Engineer,Full-time,Sylhet,2020-07-21,282635,E0938
+E0877,Noman Alam,Male,Finance,Senior Financial Analyst,Full-time,Remote,2020-01-28,197092,
+E0878,Nafiz Rasheed,Female,HR,Recruiter,Full-time,Khulna,2021-10-02,59548,E0538
+E0879,Jannat Sharmin,Male,Engineering,Software Engineer,Full-time,Rajshahi,2024-12-25,104355,E0777
+E0880,Esha Khan,Male,Product,Associate Product Manager,Full-time,Khulna,2024-05-29,170251,
+E0881,Arif Amin,Male,Product,Product Manager,Full-time,Dhaka,2023-08-14,139832,E0812
+E0882,Shawon Parvin,Male,Finance,Finance Manager,Contract,Khulna,2017-10-17,266975,E0051
+E0883,Ayesha Anjum,Male,Engineering,QA Engineer,Full-time,Dhaka,2016-05-07,94532,E0448
+E0884,Imran Chowdhury,Female,Engineering,QA Engineer,Contract,Remote,2017-08-07,143737,E0273
+E0885,Sajid Rahman,Female,Operations,Operations Associate,Full-time,Dhaka,2025-07-08,111594,E0251
+E0886,Shafiq Biswas,Female,Engineering,Senior Software Engineer,Full-time,Sylhet,2022-10-24,114726,E0426
+E0887,Rafi Morshed,Male,HR,HR Associate,Full-time,Rajshahi,2023-08-09,47603,E0982
+E0888,Nabila Islam,Male,Product,Product Analyst,Intern,Khulna,2024-10-05,210895,
+E0889,Arif Chowdhury,Male,Engineering,QA Engineer,Full-time,Khulna,2020-11-29,99615,E0132
+E0890,Rahim Alam,Female,Product,Senior Product Manager,Contract,Chattogram,2016-05-22,132104,E0682
+E0891,Arif Kabir,Female,Finance,Accounts Executive,Full-time,Sylhet,2017-06-01,136774,E0762
+E0892,Nafiz Shah,Male,Operations,Supply Chain Analyst,Full-time,Sylhet,2016-10-02,103522,E0166
+E0893,Arif Rahman,Male,Operations,Operations Manager,Intern,Dhaka,2018-08-24,198114,E0965
+E0894,Tasnim Miah,Female,Sales,Sales Associate,Full-time,Khulna,2024-09-23,161772,E0123
+E0895,Mahin Haider,Male,HR,Recruiter,Full-time,Remote,2023-03-27,85586,E0314
+E0896,Zahid Hossain,Male,Engineering,QA Engineer,Full-time,Remote,2020-02-09,106488,E0161
+E0897,Mahin Hasan,Male,Product,Product Manager,Full-time,Dhaka,2020-01-23,136448,E0968
+E0898,Sadia Haider,Male,Operations,Operations Associate,Intern,Remote,2020-04-17,52388,E0184
+E0899,Sumaiya Sadiq,Female,Engineering,Software Engineer,Full-time,Dhaka,2022-05-12,111622,E0085
+E0900,Tania Sultana,Female,Engineering,DevOps Engineer,Full-time,Sylhet,2016-05-12,92293,E0741
+E0901,Sadia Chowdhury,Prefer not to say,Engineering,Senior Software Engineer,Full-time,Dhaka,2022-10-14,181738,E0756
+E0902,Lamia Biswas,Male,Engineering,Junior Software Engineer,Full-time,Chattogram,2017-09-20,146796,E0757
+E0903,Noman Biswas,Non-binary,Engineering,QA Engineer,Full-time,Chattogram,2023-08-13,129546,E0085
+E0904,Esha Anjum,Female,Marketing,Marketing Associate,Full-time,Khulna,2021-01-16,89567,E0456
+E0905,Ovi Rana,Male,Sales,Senior Account Executive,Full-time,Khulna,2020-02-28,205212,E0080
+E0906,Tasnim Alam,Female,Operations,Operations Associate,Full-time,Khulna,2020-03-03,129144,E0380
+E0907,Ovi Sharmin,Female,Operations,Operations Manager,Full-time,Rajshahi,2020-12-23,175765,E0528
+E0908,Nabila Uddin,Female,Sales,Account Executive,Full-time,Rajshahi,2024-07-22,69496,E0150
+E0909,Tania Talukder,Male,Product,Associate Product Manager,Full-time,Remote,2016-11-10,284203,E0376
+E0910,Sajid Uddin,Female,Sales,Sales Associate,Full-time,Khulna,2022-06-08,150980,
+E0911,Esha Islam,Male,HR,Recruiter,Full-time,Sylhet,2017-07-17,122176,E0330
+E0912,Ayesha Islam,Female,Product,Senior Product Manager,Full-time,Rajshahi,2021-12-08,241079,E0687
+E0913,Mahin Miah,Male,HR,HR Manager,Full-time,Khulna,2020-02-12,144906,E0152
+E0914,Arif Sadiq,Female,Sales,Account Executive,Full-time,Dhaka,2020-06-18,109791,E0161
+E0915,Jannat Kabir,Female,Marketing,Content Specialist,Full-time,Rajshahi,2019-07-11,121425,E0053
+E0916,Shawon Shah,Male,Sales,Senior Account Executive,Full-time,Chattogram,2023-04-14,88941,E0302
+E0917,Zahid Chowdhury,Female,Product,Senior Product Manager,Full-time,Sylhet,2019-02-15,320505,E0453
+E0918,Tania Hasan,Female,Customer Success,Support Specialist,Contract,Khulna,2018-10-19,103974,E0166
+E0919,Shafiq Amin,Female,Finance,Financial Analyst,Intern,Sylhet,2017-04-09,79692,E0122
+E0920,Nadia Ferdous,Female,Engineering,Software Engineer,Full-time,Remote,2016-04-16,224389,E0003
+E0921,Fahim Rana,Female,Operations,Supply Chain Analyst,Full-time,Rajshahi,2024-04-01,73928,E0229
+E0922,Tamanna Talukder,Female,Marketing,Marketing Associate,Intern,Remote,2018-02-01,69077,
+E0923,Priya Sharmin,Female,Operations,Supply Chain Analyst,Full-time,Dhaka,2021-08-06,72855,E0518
+E0924,Esha Amin,Female,Operations,Supply Chain Analyst,Contract,Rajshahi,2021-10-21,123718,E0008
+E0925,Noman Talukder,Female,Sales,Senior Account Executive,Intern,Dhaka,2020-05-04,216552,E0513
+E0926,Nabila Talukder,Male,Engineering,Junior Software Engineer,Contract,Remote,2022-04-19,89519,E0635
+E0927,Nabila Sadiq,Male,Product,Product Manager,Full-time,Remote,2017-04-27,222698,E0465
+E0928,Rashed Khan,Female,Marketing,Content Specialist,Contract,Remote,2018-12-08,105766,E0075
+E0929,Farhan Akter,Female,HR,HR Business Partner,Full-time,Dhaka,2024-09-09,129868,E0008
+E0930,Zahid Hossain,Male,Product,Product Analyst,Full-time,Sylhet,2018-12-02,169924,E0574
+E0931,Tania Ferdous,Male,Engineering,Senior Software Engineer,Contract,Chattogram,2023-11-23,109277,E0664
+E0932,Shafiq Shah,Female,Operations,Supply Chain Analyst,Full-time,Remote,2021-01-01,85515,E0880
+E0933,Ayesha Banu,Male,Customer Success,Support Specialist,Full-time,Dhaka,2018-05-28,80134,E0167
+E0934,Arif Miah,Male,Marketing,Growth Marketer,Full-time,Chattogram,2022-11-11,124051,E0686
+E0935,Nabila Uddin,Male,Engineering,QA Engineer,Full-time,Rajshahi,2019-03-15,103259,E0141
+E0936,Shafiq Ferdous,Non-binary,Product,Product Manager,Full-time,Sylhet,2023-10-13,126702,E0699
+E0937,Rafi Morshed,Male,Engineering,Software Engineer,Full-time,Chattogram,2021-07-04,138106,E0646
+E0938,Priya Amin,Female,Customer Success,Customer Success Manager,Full-time,Sylhet,2018-03-30,159288,E0989
+E0939,Sadia Biswas,Female,Engineering,Senior Software Engineer,Full-time,Khulna,2017-05-17,212363,
+E0940,Sumaiya Sharmin,Male,Marketing,Marketing Associate,Contract,Sylhet,2017-07-09,131958,E0161
+E0941,Tasnim Ahmed,Female,Product,Product Analyst,Full-time,Remote,2025-07-25,201934,E0249
+E0942,Shawon Ferdous,Male,Marketing,Content Specialist,Full-time,Sylhet,2016-10-30,113918,E0741
+E0943,Tania Sarker,Female,HR,HR Business Partner,Full-time,Dhaka,2021-01-25,131275,E0617
+E0944,Shafiq Anjum,Female,Operations,Supply Chain Analyst,Contract,Sylhet,2017-12-08,96665,E0161
+E0945,Nabila Islam,Male,Engineering,DevOps Engineer,Full-time,Rajshahi,2023-12-31,146827,E0783
+E0946,Nabila Sarker,Male,Engineering,Senior Software Engineer,Contract,Dhaka,2020-12-28,188623,E0991
+E0947,Tasnim Islam,Female,Engineering,Senior Software Engineer,Full-time,Sylhet,2016-12-25,145234,
+E0948,Fahim Islam,Male,Customer Success,Support Associate,Full-time,Rajshahi,2025-02-01,92688,E0314
+E0949,Karim Kabir,Female,Operations,Operations Associate,Full-time,Dhaka,2023-08-25,126711,E0376
+E0950,Nabila Sadiq,Female,HR,Recruiter,Full-time,Dhaka,2025-06-25,116465,E0801
+E0951,Rashed Khan,Female,HR,HR Associate,Full-time,Rajshahi,2019-08-02,60918,E0574
+E0952,Karim Ahmed,Non-binary,HR,HR Associate,Full-time,Rajshahi,2023-06-28,58459,
+E0953,Sadia Banu,Female,Engineering,Senior Software Engineer,Full-time,Chattogram,2019-11-24,291785,E0111
+E0954,Sadia Kabir,Female,Customer Success,Customer Success Manager,Full-time,Rajshahi,2023-12-16,166404,E0243
+E0955,Rahim Hasan,Male,Sales,Sales Manager,Full-time,Chattogram,2016-09-22,250368,E0416
+E0956,Tania Rahman,Female,Sales,Sales Manager,Full-time,Khulna,2022-03-02,161678,E0742
+E0957,Rashed Rasheed,Male,Marketing,Growth Marketer,Full-time,Remote,2022-01-29,166372,E0054
+E0958,Mahin Parvin,Male,Engineering,Software Engineer,Full-time,Sylhet,2019-04-04,202206,E0774
+E0959,Rahim Banu,Male,Engineering,QA Engineer,Full-time,Dhaka,2019-05-13,121015,E0551
+E0960,Tania Shah,Female,Finance,Senior Financial Analyst,Full-time,Chattogram,2025-07-19,102582,E0488
+E0961,Imran Rahman,Female,Engineering,Junior Software Engineer,Contract,Sylhet,2017-10-07,138102,E0646
+E0962,Karim Miah,Female,HR,Recruiter,Full-time,Rajshahi,2023-12-25,122797,E0749
+E0963,Ovi Ahmed,Female,Product,Senior Product Manager,Full-time,Rajshahi,2023-12-16,128328,E0648
+E0964,Sadia Khan,Female,Sales,Account Executive,Full-time,Sylhet,2023-11-08,74624,E0237
+E0965,Rashed Khan,Male,Product,Product Manager,Full-time,Rajshahi,2023-02-25,239646,E0663
+E0966,Zahid Sultana,Male,Sales,Senior Account Executive,Full-time,Khulna,2017-12-14,142527,E0122
+E0967,Fahim Parvin,Male,Finance,Accounts Executive,Full-time,Dhaka,2024-11-24,179296,E0518
+E0968,Tamanna Hasan,Female,Product,Associate Product Manager,Full-time,Khulna,2020-01-20,186569,E0665
+E0969,Sumaiya Rasheed,Female,Marketing,Content Specialist,Full-time,Chattogram,2021-09-14,176225,E0865
+E0970,Arif Ahmed,Female,Marketing,Marketing Associate,Full-time,Sylhet,2018-07-07,119654,E0649
+E0971,Karim Islam,Male,HR,HR Associate,Full-time,Khulna,2017-05-12,71564,E0262
+E0972,Noman Jahan,Male,Customer Success,Customer Success Manager,Full-time,Remote,2018-04-03,143911,E0003
+E0973,Imran Parvin,Female,Finance,Accounts Executive,Contract,Chattogram,2024-11-18,153176,E0470
+E0974,Arif Uddin,Female,Engineering,Senior Software Engineer,Full-time,Rajshahi,2017-07-22,260181,E0109
+E0975,Sumaiya Anjum,Male,Engineering,Software Engineer,Full-time,Khulna,2018-08-27,98827,E0190
+E0976,Mahin Sadiq,Male,Product,Senior Product Manager,Contract,Dhaka,2024-11-11,189403,E0420
+E0977,Shawon Sultana,Male,HR,HR Associate,Full-time,Dhaka,2021-07-16,99341,E0330
+E0978,Nadia Amin,Female,Engineering,Software Engineer,Full-time,Dhaka,2016-04-17,191401,E0865
+E0979,Sajid Hossain,Male,Marketing,Marketing Manager,Full-time,Khulna,2020-01-18,226360,E0012
+E0980,Tania Ferdous,Male,HR,HR Manager,Full-time,Khulna,2022-03-19,153159,E0736
+E0981,Sajid Sadiq,Male,Sales,Sales Associate,Full-time,Dhaka,2022-06-02,58321,E0852
+E0982,Ayesha Amin,Female,Operations,Operations Manager,Contract,Rajshahi,2020-02-20,125677,
+E0983,Fahim Sharmin,Male,Engineering,Senior Software Engineer,Full-time,Chattogram,2021-03-29,298647,E0574
+E0984,Fahim Miah,Male,Engineering,Senior Software Engineer,Full-time,Remote,2025-01-04,318169,E0008
+E0985,Sumaiya Morshed,Female,Finance,Accounts Executive,Full-time,Sylhet,2022-03-09,148986,E0330
+E0986,Sadia Talukder,Female,Marketing,Marketing Associate,Full-time,Sylhet,2017-06-15,164446,E0772
+E0987,Ayesha Jahan,Female,Finance,Senior Financial Analyst,Contract,Khulna,2022-11-11,207869,E0024
+E0988,Tania Shah,Male,Sales,Account Executive,Full-time,Khulna,2016-12-19,101036,E0179
+E0989,Fahim Shah,Female,Product,Associate Product Manager,Full-time,Dhaka,2016-09-26,274370,E0334
+E0990,Mahin Anjum,Male,Operations,Operations Manager,Full-time,Sylhet,2019-06-20,203573,E0481
+E0991,Nabila Banu,Male,Operations,Operations Manager,Full-time,Remote,2020-06-18,175386,E0855
+E0992,Arif Sharmin,Male,Finance,Accounts Executive,Full-time,Remote,2024-01-15,183865,
+E0993,Sajid Chowdhury,Male,Product,Product Manager,Full-time,Rajshahi,2024-01-23,260780,E0144
+E0994,Rafi Rasheed,Male,HR,HR Associate,Full-time,Khulna,2021-05-14,70605,E0963
+E0995,Tania Chowdhury,Female,Sales,Senior Account Executive,Full-time,Sylhet,2021-11-23,167288,E0965
+E0996,Esha Uddin,Male,Engineering,QA Engineer,Full-time,Rajshahi,2020-08-09,131175,E0845
+E0997,Mitu Kabir,Male,Customer Success,Customer Success Manager,Full-time,Remote,2024-08-16,89756,E0990
+E0998,Fahim Amin,Male,Engineering,Junior Software Engineer,Full-time,Dhaka,2020-08-04,150479,E0882
+E0999,Nadia Kabir,Female,Customer Success,Support Associate,Full-time,Sylhet,2025-03-26,71076,E0595
+E1000,Tania Sadiq,Female,Sales,Sales Associate,Full-time,Rajshahi,2022-06-12,108334,E0306
