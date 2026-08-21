@@ -1,0 +1,131 @@
+cells:
+  - kind: 2
+    languageId: sql
+    value: "CREATE TABLE employees (\r
+
+      \    employee_id INT PRIMARY KEY,\r
+
+      \    full_name VARCHAR(100),\r
+
+      \    gender VARCHAR(10),\r
+
+      \    department VARCHAR(100),\r
+
+      \    job_title VARCHAR(100),\r
+
+      \    employment_type VARCHAR(50),\r
+
+      \    location VARCHAR(100),\r
+
+      \    hire_date DATE,\r
+
+      \    monthly_salary_bdt DECIMAL(10, 2),\r
+
+      \    manager_id INT\r
+
+      );"
+    metadata: {}
+  - kind: 2
+    languageId: sql
+    value: "    Create table reviews (\r
+
+      \        employee_id INT,\r
+
+      \        review_period_start DATE,\r
+
+      \        review_period_end DATE,\r
+
+      \        performance_rating DECIMAL(3, 2),\r
+
+      \        manager_score DECIMAL(5, 2),\r
+
+      \        peer_score DECIMAL(5, 2),\r
+
+      \        bonus_pct DECIMAL(5, 2),\r
+
+      \        trainings_completed INT,\r
+
+      \        leaves_taken INT,\r
+
+      \        attrition_risk BOOLEAN\r
+
+      \r
+
+      );"
+    metadata: {}
+  - kind: 2
+    languageId: sql
+    value: "ALTER TABLE employees\r
+
+      ADD CONSTRAINT employees_employee_id_unique UNIQUE (employee_id);\r
+
+      \r\n"
+    metadata: {}
+  - kind: 2
+    languageId: sql
+    value: "ALTER TABLE reviews\r
+
+      ADD CONSTRAINT reviews_employee_id_fk\r
+
+      FOREIGN KEY (employee_id) REFERENCES employees(employee_id);"
+    metadata: {}
+  - kind: 2
+    languageId: sql
+    value: SELECT * From employees;
+    metadata: {}
+  - kind: 2
+    languageId: sql
+    value: SELECT * FROM reviews;
+    metadata: {}
+  - kind: 2
+    languageId: sql
+    value: "SELECT *\r
+
+      FROM employees\r
+
+      WHERE manager_id IS NULL OR manager_id = '';"
+    metadata: {}
+  - kind: 2
+    languageId: sql
+    value: "Select manager_id,\r
+
+      FROM employees\r
+
+      WHERE manager_id IS NOT NULL AND manager_id != '';"
+    metadata: {}
+  - kind: 2
+    languageId: sql
+    value: "\r
+
+      SELECT *\r
+
+      FROM employees\r
+
+      WHERE manager_id != (SELECT manager_id\r
+
+      \                     FROM employees\r
+
+      \                     GROUP BY manager_id\r
+
+      \                     ORDER BY COUNT(*) DESC\r
+
+      \                     LIMIT 1);"
+    metadata: {}
+  - kind: 2
+    languageId: sql
+    value: "SELECT location, COUNT(*) AS count\r
+
+      FROM employees\r
+
+      GROUP BY location\r
+
+      ORDER BY count DESC\r
+
+      LIMIT 1;"
+    metadata: {}
+metadata:
+  conn:
+    id: ZYBk86KCFZ2z-86jKDZYi
+    name: postgres
+  database: Human Resources
+  schema: public
