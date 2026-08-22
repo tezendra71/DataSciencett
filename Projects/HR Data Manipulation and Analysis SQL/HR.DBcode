@@ -87,41 +87,171 @@ cells:
     metadata: {}
   - kind: 2
     languageId: sql
-    value: "Select manager_id,\r
+    value: "SELECT\r
 
-      FROM employees\r
+      \    employee_id,\r
 
-      WHERE manager_id IS NOT NULL AND manager_id != '';"
+      \    full_name, department, job_title\r
+
+      FROM\r
+
+      \    employees\r
+
+      WHERE\r
+
+      \    manager_id IS NULL or manager_id = '';"
     metadata: {}
   - kind: 2
     languageId: sql
-    value: "\r
-
-      SELECT *\r
+    value: "SELECT DISTINCT department, COUNT(employee_id) AS total_employees\r
 
       FROM employees\r
 
-      WHERE manager_id != (SELECT manager_id\r
-
-      \                     FROM employees\r
-
-      \                     GROUP BY manager_id\r
-
-      \                     ORDER BY COUNT(*) DESC\r
-
-      \                     LIMIT 1);"
+      GROUP BY department;"
     metadata: {}
   - kind: 2
     languageId: sql
-    value: "SELECT location, COUNT(*) AS count\r
+    value: "SELECT DISTINCT employment_type, COUNT(employee_id) AS total_employees\r
+
+      FROM employees\r
+
+      GROUP BY employment_type;"
+    metadata: {}
+  - kind: 2
+    languageId: sql
+    value: "SELECT department , employment_type, COUNT(employee_id) AS
+      total_employees\r
+
+      FROM employees\r
+
+      Group BY department, employment_type;"
+    metadata: {}
+  - kind: 2
+    languageId: sql
+    value: "SELECT department, ROUND(AVG(monthly_salary_bdt), 2) AS average_salary\r
+
+      FROM employees\r
+
+      GROUP BY department;"
+    metadata: {}
+  - kind: 2
+    languageId: sql
+    value: "SELECT location, ROUND(AVG(monthly_salary_bdt), 2) AS average_salary\r
 
       FROM employees\r
 
       GROUP BY location\r
 
-      ORDER BY count DESC\r
+      ORDER BY average_salary DESC;"
+    metadata: {}
+  - kind: 2
+    languageId: sql
+    value: "SELECT department , Round(AVG(performance_rating), 2) AS
+      average_performance_rating\r
 
-      LIMIT 1;"
+      FROM reviews Join employees ON reviews.employee_id =
+      employees.employee_id\r
+
+      GROUP BY department\r
+
+      ORDER BY average_performance_rating DESC;"
+    metadata: {}
+  - kind: 2
+    languageId: sql
+    value: "SELECT department, \r
+
+      \    ROUND(AVG(manager_score), 2) AS average_manager_score, \r
+
+      \    ROUND(AVG(peer_score), 2) AS average_peer_score\r
+
+      FROM reviews JOIN employees ON reviews.employee_id =
+      employees.employee_id\r
+
+      GROUP BY department\r
+
+      ORDER BY average_manager_score DESC, average_peer_score DESC;"
+    metadata: {}
+  - kind: 2
+    languageId: sql
+    value: "SELECT department, attrition_risk, COUNT(employees.employee_id) AS
+      Potential_Attrition\r
+
+      From reviews JOIN employees ON reviews.employee_id =
+      employees.employee_id\r
+
+      GROUP BY department, attrition_risk\r
+
+      ORDER BY Potential_Attrition DESC;"
+    metadata: {}
+  - kind: 2
+    languageId: sql
+    value: "SELECT department, full_name, (monthly_salary_bdt * bonus_pct) AS
+      Bonus_Amount \r
+
+      FROM employees join reviews ON employees.employee_id =
+      reviews.employee_id\r
+
+      ORDER BY Bonus_Amount DESC\r
+
+      LIMIT 10;"
+    metadata: {}
+  - kind: 2
+    languageId: sql
+    value: "SELECT department, Count(trainings_completed) AS
+      Total_Trainings_Completed, Round(AVG(leaves_taken), 0) AS
+      Average_Leaves_Taken\r
+
+      FROM reviews JOIN employees ON reviews.employee_id =
+      employees.employee_id\r
+
+      GROUP BY department\r
+
+      ORDER BY Total_Trainings_Completed DESC, Average_Leaves_Taken ASC;"
+    metadata: {}
+  - kind: 2
+    languageId: sql
+    value: "SELECT \r
+
+      \    department,\r
+
+      \    ROUND(AVG(EXTRACT(YEAR FROM AGE(CURRENT_DATE, hire_date))), 0) AS
+      avg_tenure_years\r
+
+      FROM employees\r
+
+      GROUP BY department\r
+
+      ORDER BY avg_tenure_years DESC;"
+    metadata: {}
+  - kind: 2
+    languageId: sql
+    value: "SELECT \r
+
+      \    e.department,\r
+
+      \    ROUND(\r
+
+      \        AVG(EXTRACT(YEAR FROM AGE(CURRENT_DATE, e.hire_date))),0\r
+
+      \    ) AS avg_tenure,\r
+
+      \    ROUND(\r
+
+      \        100.0 * COUNT(*) FILTER (WHERE r.attrition_risk = 'High')\r
+
+      \        / NULLIF(COUNT(*), 0),0\r
+
+      \    ) AS high_risk_pct\r
+
+      FROM employees AS e\r
+
+      JOIN reviews AS r\r
+
+      \    ON r.employee_id = e.employee_id\r
+
+      GROUP BY e.department\r
+
+      ORDER BY avg_tenure DESC;"
     metadata: {}
 metadata:
   conn:
